@@ -1,0 +1,23 @@
+[
+  {
+    "message_source": "quicksilver.web",
+    "timestamp_utc": "2024-02-05T14:03:00.593Z",
+    "context_application_version": "8.9.10.616",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": null,
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1707141810385,
+    "context_time": 1707141780593,
+    "context_user_agent": null,
+    "message_accept_language": null,
+    "message_action": "CheckoutInitiated",
+    "message_billing_choice": null,
+    "message_current_step": "native_billing_client",
+    "message_g_order_id": null,
+    "message_premium_checkout_page_correlation_id": null,
+    "message_purchase_status": null
+  }
+]

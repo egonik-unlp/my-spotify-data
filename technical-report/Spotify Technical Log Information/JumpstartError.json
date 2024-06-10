@@ -1,0 +1,447 @@
+[
+  {
+    "timestamp_utc": "2024-06-05T21:52:37.420Z",
+    "context_application_version": "8.9.44.368",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1717624359227,
+    "context_time": 1717624357420,
+    "message_message": "Aborted",
+    "message_reason": "abort",
+    "message_restrictions": [
+    ],
+    "message_trigger_feature_identifier": "car_detection",
+    "message_trigger_method": "play"
+  },
+  {
+    "timestamp_utc": "2024-05-25T18:56:28.190Z",
+    "context_application_version": "8.9.42.575",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1716663411707,
+    "context_time": 1716663388190,
+    "message_message": "Restriction applied",
+    "message_reason": "abort",
+    "message_restrictions": [
+      "music_stream_is_active",
+      "music_is_playing"
+    ],
+    "message_trigger_feature_identifier": "car_detection",
+    "message_trigger_method": "play"
+  },
+  {
+    "timestamp_utc": "2024-03-17T11:56:13.095Z",
+    "context_application_version": "8.9.22.539",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1710676599110,
+    "context_time": 1710676573095,
+    "message_message": "Restriction applied",
+    "message_reason": "abort",
+    "message_restrictions": [
+      "music_is_playing"
+    ],
+    "message_trigger_feature_identifier": "car_detection",
+    "message_trigger_method": "play"
+  },
+  {
+    "timestamp_utc": "2024-03-17T11:57:25.162Z",
+    "context_application_version": "8.9.22.539",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1710676658745,
+    "context_time": 1710676645162,
+    "message_message": "Restriction applied",
+    "message_reason": "abort",
+    "message_restrictions": [
+      "music_is_playing"
+    ],
+    "message_trigger_feature_identifier": "car_detection",
+    "message_trigger_method": "play"
+  },
+  {
+    "timestamp_utc": "2024-03-17T12:14:39.371Z",
+    "context_application_version": "8.9.22.539",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1710677708856,
+    "context_time": 1710677679371,
+    "message_message": "Restriction applied",
+    "message_reason": "abort",
+    "message_restrictions": [
+      "music_is_playing"
+    ],
+    "message_trigger_feature_identifier": "car_detection",
+    "message_trigger_method": "play"
+  },
+  {
+    "timestamp_utc": "2024-03-17T11:40:17.019Z",
+    "context_application_version": "8.9.22.539",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1710675639424,
+    "context_time": 1710675617019,
+    "message_message": "The trigger is re-submitted",
+    "message_reason": "abort",
+    "message_restrictions": [
+    ],
+    "message_trigger_feature_identifier": "car_detection",
+    "message_trigger_method": "play"
+  },
+  {
+    "timestamp_utc": "2024-05-25T22:35:37.894Z",
+    "context_application_version": "8.9.42.575",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1716678434272,
+    "context_time": 1716676537894,
+    "message_message": "Restriction applied",
+    "message_reason": "abort",
+    "message_restrictions": [
+      "music_stream_is_active",
+      "music_is_playing"
+    ],
+    "message_trigger_feature_identifier": "car_detection",
+    "message_trigger_method": "play"
+  },
+  {
+    "timestamp_utc": "2024-03-17T11:43:52.882Z",
+    "context_application_version": "8.9.22.539",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1710675847228,
+    "context_time": 1710675832882,
+    "message_message": "Restriction applied",
+    "message_reason": "abort",
+    "message_restrictions": [
+      "music_is_playing"
+    ],
+    "message_trigger_feature_identifier": "car_detection",
+    "message_trigger_method": "play"
+  },
+  {
+    "timestamp_utc": "2024-03-17T11:57:25.162Z",
+    "context_application_version": "8.9.22.539",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1710676688914,
+    "context_time": 1710676645162,
+    "message_message": "Restriction applied",
+    "message_reason": "abort",
+    "message_restrictions": [
+      "music_is_playing"
+    ],
+    "message_trigger_feature_identifier": "car_detection",
+    "message_trigger_method": "play"
+  },
+  {
+    "timestamp_utc": "2024-06-05T20:43:05.973Z",
+    "context_application_version": "8.9.44.368",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1717620197159,
+    "context_time": 1717620185973,
+    "message_message": "Restriction applied",
+    "message_reason": "abort",
+    "message_restrictions": [
+      "android_auto",
+      "music_stream_is_active",
+      "music_is_playing"
+    ],
+    "message_trigger_feature_identifier": "car_detection",
+    "message_trigger_method": "play"
+  },
+  {
+    "timestamp_utc": "2024-03-17T11:58:32.464Z",
+    "context_application_version": "8.9.22.539",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1710676719183,
+    "context_time": 1710676712464,
+    "message_message": "Restriction applied",
+    "message_reason": "abort",
+    "message_restrictions": [
+      "music_is_playing"
+    ],
+    "message_trigger_feature_identifier": "car_detection",
+    "message_trigger_method": "play"
+  },
+  {
+    "timestamp_utc": "2024-03-17T11:40:05.504Z",
+    "context_application_version": "8.9.22.539",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1710675609511,
+    "context_time": 1710675605504,
+    "message_message": "Restriction applied",
+    "message_reason": "abort",
+    "message_restrictions": [
+      "music_is_playing"
+    ],
+    "message_trigger_feature_identifier": "car_detection",
+    "message_trigger_method": "play"
+  },
+  {
+    "timestamp_utc": "2024-06-05T21:46:56.238Z",
+    "context_application_version": "8.9.44.368",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1717624029260,
+    "context_time": 1717624016238,
+    "message_message": "Restriction applied",
+    "message_reason": "abort",
+    "message_restrictions": [
+      "android_auto"
+    ],
+    "message_trigger_feature_identifier": "car_detection",
+    "message_trigger_method": "play"
+  },
+  {
+    "timestamp_utc": "2024-03-17T12:13:28.658Z",
+    "context_application_version": "8.9.22.539",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1710677618933,
+    "context_time": 1710677608658,
+    "message_message": "Restriction applied",
+    "message_reason": "abort",
+    "message_restrictions": [
+      "music_is_playing"
+    ],
+    "message_trigger_feature_identifier": "car_detection",
+    "message_trigger_method": "play"
+  },
+  {
+    "timestamp_utc": "2024-06-05T23:15:23.301Z",
+    "context_application_version": "8.9.44.368",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1717629331927,
+    "context_time": 1717629323301,
+    "message_message": "Restriction applied",
+    "message_reason": "abort",
+    "message_restrictions": [
+      "android_auto",
+      "music_stream_is_active",
+      "music_is_playing"
+    ],
+    "message_trigger_feature_identifier": "car_detection",
+    "message_trigger_method": "play"
+  },
+  {
+    "timestamp_utc": "2024-03-17T12:05:14.651Z",
+    "context_application_version": "8.9.22.539",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1710677138873,
+    "context_time": 1710677114651,
+    "message_message": "Restriction applied",
+    "message_reason": "abort",
+    "message_restrictions": [
+      "music_is_playing"
+    ],
+    "message_trigger_feature_identifier": "car_detection",
+    "message_trigger_method": "play"
+  },
+  {
+    "timestamp_utc": "2024-03-17T12:09:06.503Z",
+    "context_application_version": "8.9.22.539",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1710677348862,
+    "context_time": 1710677346503,
+    "message_message": "Restriction applied",
+    "message_reason": "abort",
+    "message_restrictions": [
+      "music_is_playing"
+    ],
+    "message_trigger_feature_identifier": "car_detection",
+    "message_trigger_method": "play"
+  },
+  {
+    "timestamp_utc": "2024-03-17T11:35:33.857Z",
+    "context_application_version": "8.9.22.539",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1710675339687,
+    "context_time": 1710675333857,
+    "message_message": "Restriction applied",
+    "message_reason": "abort",
+    "message_restrictions": [
+      "music_is_playing"
+    ],
+    "message_trigger_feature_identifier": "car_detection",
+    "message_trigger_method": "play"
+  },
+  {
+    "timestamp_utc": "2024-03-17T11:38:17.783Z",
+    "context_application_version": "8.9.22.539",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1710675519751,
+    "context_time": 1710675497783,
+    "message_message": "Restriction applied",
+    "message_reason": "abort",
+    "message_restrictions": [
+      "music_is_playing"
+    ],
+    "message_trigger_feature_identifier": "car_detection",
+    "message_trigger_method": "play"
+  },
+  {
+    "timestamp_utc": "2024-03-17T12:08:10.035Z",
+    "context_application_version": "8.9.22.539",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1710677319276,
+    "context_time": 1710677290035,
+    "message_message": "Restriction applied",
+    "message_reason": "abort",
+    "message_restrictions": [
+      "music_is_playing"
+    ],
+    "message_trigger_feature_identifier": "car_detection",
+    "message_trigger_method": "play"
+  },
+  {
+    "timestamp_utc": "2024-06-06T01:51:50.544Z",
+    "context_application_version": "8.9.44.368",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1717638715303,
+    "context_time": 1717638710544,
+    "message_message": "Restriction applied",
+    "message_reason": "abort",
+    "message_restrictions": [
+      "android_auto",
+      "music_stream_is_active",
+      "music_is_playing"
+    ],
+    "message_trigger_feature_identifier": "car_detection",
+    "message_trigger_method": "play"
+  },
+  {
+    "timestamp_utc": "2024-06-05T20:50:42.257Z",
+    "context_application_version": "8.9.44.368",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1717620669449,
+    "context_time": 1717620642257,
+    "message_message": "Restriction applied",
+    "message_reason": "abort",
+    "message_restrictions": [
+      "android_auto"
+    ],
+    "message_trigger_feature_identifier": "car_detection",
+    "message_trigger_method": "play"
+  },
+  {
+    "timestamp_utc": "2024-06-05T19:44:34.434Z",
+    "context_application_version": "8.9.44.368",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1717616687189,
+    "context_time": 1717616674434,
+    "message_message": "Restriction applied",
+    "message_reason": "abort",
+    "message_restrictions": [
+      "android_auto",
+      "music_stream_is_active",
+      "music_is_playing"
+    ],
+    "message_trigger_feature_identifier": "car_detection",
+    "message_trigger_method": "play"
+  }
+]

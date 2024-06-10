@@ -1,0 +1,952 @@
+[
+  {
+    "message_context_uri": "spotify:album:6MeLjaERUK6fJ58YZpPlyC",
+    "timestamp_utc": "2024-04-20T02:17:26.653Z",
+    "context_time": 1713579446653,
+    "message_country": "AR",
+    "message_is_emitted_by_backplay": true,
+    "message_request_latency": 279,
+    "message_response_status": 200,
+    "message_session_id": "1E4hUmRZkVQlksqK3m1Fht"
+  },
+  {
+    "message_context_uri": "spotify:album:52rqxAyOOyU4i5pAT1wKvR",
+    "timestamp_utc": "2024-04-16T22:10:25.097Z",
+    "context_time": 1713305425097,
+    "message_country": "AR",
+    "message_is_emitted_by_backplay": true,
+    "message_request_latency": 232,
+    "message_response_status": 200,
+    "message_session_id": "029c67e7-e3ee-4468-b7b7-cf3ea91bebb4"
+  },
+  {
+    "message_context_uri": "spotify:album:6b0Z6PZLKI7VKE90f7HtUT",
+    "timestamp_utc": "2024-06-03T14:25:07.557Z",
+    "context_time": 1717424707557,
+    "message_country": "AR",
+    "message_is_emitted_by_backplay": true,
+    "message_request_latency": 246,
+    "message_response_status": 200,
+    "message_session_id": "2cc5cfc9-6e32-487b-99c7-ff3d45d64e09"
+  },
+  {
+    "message_context_uri": "spotify:album:6b0Z6PZLKI7VKE90f7HtUT",
+    "timestamp_utc": "2024-06-03T14:24:45.153Z",
+    "context_time": 1717424685153,
+    "message_country": "AR",
+    "message_is_emitted_by_backplay": true,
+    "message_request_latency": 216,
+    "message_response_status": 200,
+    "message_session_id": "5fe89fa6-bab6-47b7-9822-856110be27c3"
+  },
+  {
+    "message_context_uri": "spotify:album:2hxBhd405LrdVwrUsRz3x8",
+    "timestamp_utc": "2024-04-24T15:05:39.148Z",
+    "context_time": 1713971139148,
+    "message_country": "AR",
+    "message_is_emitted_by_backplay": true,
+    "message_request_latency": 276,
+    "message_response_status": 200,
+    "message_session_id": "68fb1c31-7fcd-433b-89f5-b3693482915d"
+  },
+  {
+    "message_context_uri": "spotify:playlist:24CWsgZoljlBhX7RkvqxdU",
+    "timestamp_utc": "2024-03-11T11:42:20.631Z",
+    "context_time": 1710157340631,
+    "message_country": "AR",
+    "message_is_emitted_by_backplay": true,
+    "message_request_latency": 492,
+    "message_response_status": 200,
+    "message_session_id": "177d8976-7526-4469-aa03-3e1eb3463d66"
+  },
+  {
+    "message_context_uri": "spotify:album:5atrOg1aO4d5KEcYo4UBIA",
+    "timestamp_utc": "2024-03-28T19:52:06.047Z",
+    "context_time": 1711655526047,
+    "message_country": "AR",
+    "message_is_emitted_by_backplay": true,
+    "message_request_latency": 284,
+    "message_response_status": 200,
+    "message_session_id": "9072bd13-76f3-4bef-bbc7-ff0f7de20de7"
+  },
+  {
+    "message_context_uri": "spotify:album:4E8q20fmm8onDCc7NK217d",
+    "timestamp_utc": "2024-05-07T02:59:00.537Z",
+    "context_time": 1715050740537,
+    "message_country": "AR",
+    "message_is_emitted_by_backplay": true,
+    "message_request_latency": 268,
+    "message_response_status": 200,
+    "message_session_id": "3nVs63BEmRaf97lcwM0MKF"
+  },
+  {
+    "message_context_uri": "spotify:album:7mpTSR6E855VhdCeoPgpCF",
+    "timestamp_utc": "2024-03-15T03:36:02.544Z",
+    "context_time": 1710473762544,
+    "message_country": "AR",
+    "message_is_emitted_by_backplay": true,
+    "message_request_latency": 275,
+    "message_response_status": 200,
+    "message_session_id": "7469d4c6-2b95-41bb-86e0-ac0d41d312ec"
+  },
+  {
+    "message_context_uri": "spotify:playlist:3HK6mNQoO16nKa5IeBtvQ4",
+    "timestamp_utc": "2024-04-18T00:45:22.706Z",
+    "context_time": 1713401122706,
+    "message_country": "AR",
+    "message_is_emitted_by_backplay": true,
+    "message_request_latency": 309,
+    "message_response_status": 200,
+    "message_session_id": "6TMX0i19arhSV1dDWklTUn"
+  },
+  {
+    "message_context_uri": "spotify:playlist:3oSGCcRcdgCKRZi9LFLprD",
+    "timestamp_utc": "2024-03-12T01:58:36.921Z",
+    "context_time": 1710208716921,
+    "message_country": "AR",
+    "message_is_emitted_by_backplay": true,
+    "message_request_latency": 409,
+    "message_response_status": 200,
+    "message_session_id": "3I7t4k1cU2xCO8DWxFCAkd"
+  },
+  {
+    "message_context_uri": "spotify:album:74Se02hUhvqr2eMdDbxCYb",
+    "timestamp_utc": "2024-04-23T03:26:05.964Z",
+    "context_time": 1713842765964,
+    "message_country": "AR",
+    "message_is_emitted_by_backplay": true,
+    "message_request_latency": 305,
+    "message_response_status": 200,
+    "message_session_id": "67pQYpghJsqVRD0GD6Byh7"
+  },
+  {
+    "message_context_uri": "spotify:playlist:24CWsgZoljlBhX7RkvqxdU",
+    "timestamp_utc": "2024-03-09T22:01:56.151Z",
+    "context_time": 1710021716151,
+    "message_country": "AR",
+    "message_is_emitted_by_backplay": true,
+    "message_request_latency": 532,
+    "message_response_status": 200,
+    "message_session_id": "2b5674e5-02e2-43cb-98b4-17ca25a445f2"
+  },
+  {
+    "message_context_uri": "spotify:album:7IriScvheoIW22aJFAxEao",
+    "timestamp_utc": "2024-04-20T01:05:26.054Z",
+    "context_time": 1713575126054,
+    "message_country": "AR",
+    "message_is_emitted_by_backplay": true,
+    "message_request_latency": 332,
+    "message_response_status": 200,
+    "message_session_id": "7thLjlz70p2JeVEDBt9sV8"
+  },
+  {
+    "message_context_uri": "spotify:search:four+tet+your+life",
+    "timestamp_utc": "2024-03-15T01:41:00.177Z",
+    "context_time": 1710466860177,
+    "message_country": "AR",
+    "message_is_emitted_by_backplay": true,
+    "message_request_latency": 326,
+    "message_response_status": 200,
+    "message_session_id": "6e7133ee-c6ac-4fc3-bd2a-0e6b73c9ad9b"
+  },
+  {
+    "message_context_uri": "spotify:album:07aLEJ68A2wz9em0AwnuS2",
+    "timestamp_utc": "2024-04-29T20:24:15.160Z",
+    "context_time": 1714422255160,
+    "message_country": "AR",
+    "message_is_emitted_by_backplay": true,
+    "message_request_latency": 304,
+    "message_response_status": 200,
+    "message_session_id": "b5dd7101-c319-496e-9e05-614d9a559d01"
+  },
+  {
+    "message_context_uri": "spotify:album:0Zwz9ASQnojGbTmpwSEL8B",
+    "timestamp_utc": "2024-04-18T23:40:52.438Z",
+    "context_time": 1713483652438,
+    "message_country": "AR",
+    "message_is_emitted_by_backplay": true,
+    "message_request_latency": 442,
+    "message_response_status": 200,
+    "message_session_id": "34a673b9-2052-4e75-9a23-84ffd9cfdf1e"
+  },
+  {
+    "message_context_uri": "spotify:album:07aLEJ68A2wz9em0AwnuS2",
+    "timestamp_utc": "2024-03-26T23:32:48.762Z",
+    "context_time": 1711495968762,
+    "message_country": "AR",
+    "message_is_emitted_by_backplay": true,
+    "message_request_latency": 249,
+    "message_response_status": 200,
+    "message_session_id": "7a65ebce-14ec-410d-ad1a-b1d016782357"
+  },
+  {
+    "message_context_uri": "spotify:album:7dAxRaeGVamTt5urf9UURz",
+    "timestamp_utc": "2024-05-24T20:43:43.594Z",
+    "context_time": 1716583423594,
+    "message_country": "AR",
+    "message_is_emitted_by_backplay": true,
+    "message_request_latency": 335,
+    "message_response_status": 200,
+    "message_session_id": "9e149471-3c9b-46db-91cf-9b888e8782cf"
+  },
+  {
+    "message_context_uri": "spotify:album:5N1rI6GM0UniU6pYVcOwca",
+    "timestamp_utc": "2024-05-14T19:41:23.961Z",
+    "context_time": 1715715683961,
+    "message_country": "AR",
+    "message_is_emitted_by_backplay": true,
+    "message_request_latency": 282,
+    "message_response_status": 200,
+    "message_session_id": "3838de5d-34be-4244-93d8-7705652c7d46"
+  },
+  {
+    "message_context_uri": "spotify:search",
+    "timestamp_utc": "2024-04-24T22:32:49.291Z",
+    "context_time": 1713997969291,
+    "message_country": "AR",
+    "message_is_emitted_by_backplay": true,
+    "message_request_latency": 408,
+    "message_response_status": 200,
+    "message_session_id": "8b1373f0-6f19-4b4d-a6ce-bacbd50cd5fc"
+  },
+  {
+    "message_context_uri": "spotify:album:7dAxRaeGVamTt5urf9UURz",
+    "timestamp_utc": "2024-05-24T20:45:02.850Z",
+    "context_time": 1716583502850,
+    "message_country": "AR",
+    "message_is_emitted_by_backplay": true,
+    "message_request_latency": 304,
+    "message_response_status": 200,
+    "message_session_id": "2152dd89-3337-4f60-8ce3-1a120a79aaf9"
+  },
+  {
+    "message_context_uri": "spotify:playlist:3HK6mNQoO16nKa5IeBtvQ4",
+    "timestamp_utc": "2024-05-07T01:33:18.757Z",
+    "context_time": 1715045598757,
+    "message_country": "AR",
+    "message_is_emitted_by_backplay": true,
+    "message_request_latency": 380,
+    "message_response_status": 200,
+    "message_session_id": "4uC1bPA2JHvBeAcTNj7ZQu"
+  },
+  {
+    "message_context_uri": "spotify:playlist:3HK6mNQoO16nKa5IeBtvQ4",
+    "timestamp_utc": "2024-04-19T21:26:23.058Z",
+    "context_time": 1713561983058,
+    "message_country": "AR",
+    "message_is_emitted_by_backplay": true,
+    "message_request_latency": 423,
+    "message_response_status": 200,
+    "message_session_id": "ef5eea28-935d-4692-804d-50a204db14e5"
+  },
+  {
+    "message_context_uri": "spotify:album:1J3enVyckc2vOR0xOK1jZX",
+    "timestamp_utc": "2024-04-04T12:25:16.334Z",
+    "context_time": 1712233516334,
+    "message_country": "AR",
+    "message_is_emitted_by_backplay": true,
+    "message_request_latency": 317,
+    "message_response_status": 200,
+    "message_session_id": "5tr5wX0MDQlG5JiP10K1v0"
+  },
+  {
+    "message_context_uri": "spotify:album:6b0Z6PZLKI7VKE90f7HtUT",
+    "timestamp_utc": "2024-06-03T14:25:58.795Z",
+    "context_time": 1717424758795,
+    "message_country": "AR",
+    "message_is_emitted_by_backplay": true,
+    "message_request_latency": 283,
+    "message_response_status": 200,
+    "message_session_id": "d5c8c4d7-436c-42f2-a48d-89a5030a476e"
+  },
+  {
+    "message_context_uri": "spotify:album:0HHwQdBjZev2tAj1BPPuCx",
+    "timestamp_utc": "2024-05-12T22:39:21.939Z",
+    "context_time": 1715553561939,
+    "message_country": "AR",
+    "message_is_emitted_by_backplay": true,
+    "message_request_latency": 290,
+    "message_response_status": 200,
+    "message_session_id": "6cec9836-affe-4ee7-b266-d43d7353bebb"
+  },
+  {
+    "message_context_uri": "spotify:album:2IUOts60qcpH9RJhWE5iZP",
+    "timestamp_utc": "2024-05-24T20:59:07.992Z",
+    "context_time": 1716584347992,
+    "message_country": "AR",
+    "message_is_emitted_by_backplay": true,
+    "message_request_latency": 330,
+    "message_response_status": 200,
+    "message_session_id": "864b424b-1ae5-416a-9fbc-7584df054036"
+  },
+  {
+    "message_context_uri": "spotify:playlist:3HK6mNQoO16nKa5IeBtvQ4",
+    "timestamp_utc": "2024-04-21T20:49:15.475Z",
+    "context_time": 1713732555475,
+    "message_country": "AR",
+    "message_is_emitted_by_backplay": true,
+    "message_request_latency": 524,
+    "message_response_status": 200,
+    "message_session_id": "9f9fb280-5883-4250-9077-56fb4740b882"
+  },
+  {
+    "message_context_uri": "spotify:album:5kjtn0uTZSq2dy1sk0PJK6",
+    "timestamp_utc": "2024-04-15T22:33:41.468Z",
+    "context_time": 1713220421468,
+    "message_country": "AR",
+    "message_is_emitted_by_backplay": true,
+    "message_request_latency": 363,
+    "message_response_status": 200,
+    "message_session_id": "e29a711d-a06d-4b06-b3a8-7f39af7b2cdf"
+  },
+  {
+    "message_context_uri": "spotify:search:music+is+the+answer+original+extended+12-inch+mix",
+    "timestamp_utc": "2024-04-24T23:39:46.892Z",
+    "context_time": 1714001986892,
+    "message_country": "AR",
+    "message_is_emitted_by_backplay": true,
+    "message_request_latency": 240,
+    "message_response_status": 200,
+    "message_session_id": "61fe2572-93f3-426c-9afe-b279900e4943"
+  },
+  {
+    "message_context_uri": "spotify:album:52rqxAyOOyU4i5pAT1wKvR",
+    "timestamp_utc": "2024-04-16T22:15:12.380Z",
+    "context_time": 1713305712380,
+    "message_country": "AR",
+    "message_is_emitted_by_backplay": true,
+    "message_request_latency": 221,
+    "message_response_status": 200,
+    "message_session_id": "6ec4fbac-475a-41d1-965b-f0dd8313a9b1"
+  },
+  {
+    "message_context_uri": "spotify:playlist:3oSGCcRcdgCKRZi9LFLprD",
+    "timestamp_utc": "2024-03-12T18:46:16.436Z",
+    "context_time": 1710269176436,
+    "message_country": "AR",
+    "message_is_emitted_by_backplay": true,
+    "message_request_latency": 523,
+    "message_response_status": 200,
+    "message_session_id": "020549ea-97e5-484d-ab1a-0d84bc86f10b"
+  },
+  {
+    "message_context_uri": "spotify:search:music+is+the+an",
+    "timestamp_utc": "2024-04-24T23:39:17.067Z",
+    "context_time": 1714001957067,
+    "message_country": "AR",
+    "message_is_emitted_by_backplay": true,
+    "message_request_latency": 206,
+    "message_response_status": 200,
+    "message_session_id": "f754a385-30f2-4028-8807-3ffe04922679"
+  },
+  {
+    "message_context_uri": "spotify:album:2o9XlNQi48ByNvGugamREw",
+    "timestamp_utc": "2024-05-04T00:53:31.351Z",
+    "context_time": 1714784011351,
+    "message_country": "AR",
+    "message_is_emitted_by_backplay": true,
+    "message_request_latency": 317,
+    "message_response_status": 200,
+    "message_session_id": "6ef80f0b-53c8-49ae-908a-676a7b5248c5"
+  },
+  {
+    "message_context_uri": "spotify:album:6b0Z6PZLKI7VKE90f7HtUT",
+    "timestamp_utc": "2024-06-03T14:25:58.760Z",
+    "context_time": 1717424758760,
+    "message_country": "AR",
+    "message_is_emitted_by_backplay": true,
+    "message_request_latency": 248,
+    "message_response_status": 200,
+    "message_session_id": "e7f83edd-b16a-418e-bc89-8d8f25bf8b66"
+  },
+  {
+    "message_context_uri": "spotify:album:5atrOg1aO4d5KEcYo4UBIA",
+    "timestamp_utc": "2024-03-28T19:52:05.992Z",
+    "context_time": 1711655525992,
+    "message_country": "AR",
+    "message_is_emitted_by_backplay": true,
+    "message_request_latency": 392,
+    "message_response_status": 200,
+    "message_session_id": "9072bd13-76f3-4bef-bbc7-ff0f7de20de7"
+  },
+  {
+    "message_context_uri": "spotify:album:1ejlm7Dl4L1sry7K2YQYEl",
+    "timestamp_utc": "2024-03-28T20:12:47.387Z",
+    "context_time": 1711656767387,
+    "message_country": "AR",
+    "message_is_emitted_by_backplay": true,
+    "message_request_latency": 266,
+    "message_response_status": 200,
+    "message_session_id": "61gJvpTm8XpcivmJWcTR57"
+  },
+  {
+    "message_context_uri": "spotify:search:music+is+the+answer+original+extended+12-inch+mix",
+    "timestamp_utc": "2024-04-24T23:39:48.136Z",
+    "context_time": 1714001988136,
+    "message_country": "AR",
+    "message_is_emitted_by_backplay": true,
+    "message_request_latency": 241,
+    "message_response_status": 200,
+    "message_session_id": "2655e290-64fa-4bba-989c-4b5f9fe1ac24"
+  },
+  {
+    "message_context_uri": "spotify:playlist:3HK6mNQoO16nKa5IeBtvQ4",
+    "timestamp_utc": "2024-04-21T20:49:15.589Z",
+    "context_time": 1713732555589,
+    "message_country": "AR",
+    "message_is_emitted_by_backplay": true,
+    "message_request_latency": 483,
+    "message_response_status": 200,
+    "message_session_id": "9f9fb280-5883-4250-9077-56fb4740b882"
+  },
+  {
+    "message_context_uri": "spotify:album:2Z0yypS9AyYAbuxzeOAMhx",
+    "timestamp_utc": "2024-04-14T19:20:28.288Z",
+    "context_time": 1713122428288,
+    "message_country": "AR",
+    "message_is_emitted_by_backplay": true,
+    "message_request_latency": 270,
+    "message_response_status": 200,
+    "message_session_id": "ebc4b0f3-2528-46e3-ba03-efbf81c753c7"
+  },
+  {
+    "message_context_uri": "spotify:album:1ejlm7Dl4L1sry7K2YQYEl",
+    "timestamp_utc": "2024-03-28T20:12:48.292Z",
+    "context_time": 1711656768292,
+    "message_country": "AR",
+    "message_is_emitted_by_backplay": true,
+    "message_request_latency": 270,
+    "message_response_status": 200,
+    "message_session_id": "61gJvpTm8XpcivmJWcTR57"
+  },
+  {
+    "message_context_uri": "spotify:playlist:24CWsgZoljlBhX7RkvqxdU",
+    "timestamp_utc": "2024-03-11T11:42:19.760Z",
+    "context_time": 1710157339760,
+    "message_country": "AR",
+    "message_is_emitted_by_backplay": true,
+    "message_request_latency": 505,
+    "message_response_status": 200,
+    "message_session_id": "ac3920c7-3662-4829-919f-7f78803d6649"
+  },
+  {
+    "message_context_uri": "spotify:playlist:3oSGCcRcdgCKRZi9LFLprD:recommended",
+    "timestamp_utc": "2024-03-22T02:30:18.377Z",
+    "context_time": 1711074618377,
+    "message_country": "AR",
+    "message_is_emitted_by_backplay": true,
+    "message_request_latency": 547,
+    "message_response_status": 200,
+    "message_session_id": "d69b8f89-d190-480b-99aa-51de43745e0d"
+  },
+  {
+    "message_context_uri": "spotify:album:5N1rI6GM0UniU6pYVcOwca",
+    "timestamp_utc": "2024-05-14T19:33:18.626Z",
+    "context_time": 1715715198626,
+    "message_country": "AR",
+    "message_is_emitted_by_backplay": true,
+    "message_request_latency": 307,
+    "message_response_status": 200,
+    "message_session_id": "f489cad8-1329-40da-96e6-638a7337b928"
+  },
+  {
+    "message_context_uri": "spotify:album:74Se02hUhvqr2eMdDbxCYb",
+    "timestamp_utc": "2024-04-23T03:26:06.015Z",
+    "context_time": 1713842766015,
+    "message_country": "AR",
+    "message_is_emitted_by_backplay": true,
+    "message_request_latency": 232,
+    "message_response_status": 200,
+    "message_session_id": "67pQYpghJsqVRD0GD6Byh7"
+  },
+  {
+    "message_context_uri": "spotify:playlist:24CWsgZoljlBhX7RkvqxdU",
+    "timestamp_utc": "2024-03-11T11:42:18.389Z",
+    "context_time": 1710157338389,
+    "message_country": "AR",
+    "message_is_emitted_by_backplay": true,
+    "message_request_latency": 472,
+    "message_response_status": 200,
+    "message_session_id": "658ec9e0-7df5-446b-b936-28e78780d518"
+  },
+  {
+    "message_context_uri": "spotify:search:taka",
+    "timestamp_utc": "2024-04-18T04:26:24.248Z",
+    "context_time": 1713414384248,
+    "message_country": "AR",
+    "message_is_emitted_by_backplay": true,
+    "message_request_latency": 230,
+    "message_response_status": 200,
+    "message_session_id": "f858b691-69b8-46a6-a491-b35c047971e8"
+  },
+  {
+    "message_context_uri": "spotify:album:1ejlm7Dl4L1sry7K2YQYEl",
+    "timestamp_utc": "2024-03-28T20:12:46.338Z",
+    "context_time": 1711656766338,
+    "message_country": "AR",
+    "message_is_emitted_by_backplay": true,
+    "message_request_latency": 304,
+    "message_response_status": 200,
+    "message_session_id": "1GT5BIi52vqyKi6moOynK6"
+  },
+  {
+    "message_context_uri": "spotify:playlist:1IA7FaEQUZTBV1dAE3ySCg",
+    "timestamp_utc": "2024-05-24T02:40:30.702Z",
+    "context_time": 1716518430702,
+    "message_country": "AR",
+    "message_is_emitted_by_backplay": true,
+    "message_request_latency": 407,
+    "message_response_status": 200,
+    "message_session_id": "3a29ea31-ed43-46ea-95df-5b7ca370ac74"
+  },
+  {
+    "message_context_uri": "spotify:album:0HHwQdBjZev2tAj1BPPuCx",
+    "timestamp_utc": "2024-05-12T22:39:21.954Z",
+    "context_time": 1715553561954,
+    "message_country": "AR",
+    "message_is_emitted_by_backplay": true,
+    "message_request_latency": 274,
+    "message_response_status": 200,
+    "message_session_id": "6cec9836-affe-4ee7-b266-d43d7353bebb"
+  },
+  {
+    "message_context_uri": "spotify:album:5N1rI6GM0UniU6pYVcOwca",
+    "timestamp_utc": "2024-05-14T19:38:54.038Z",
+    "context_time": 1715715534038,
+    "message_country": "AR",
+    "message_is_emitted_by_backplay": true,
+    "message_request_latency": 287,
+    "message_response_status": 200,
+    "message_session_id": "5b5c9c6f-7ab8-4b29-8f6f-ff13759e7df6"
+  },
+  {
+    "message_context_uri": "spotify:playlist:3HK6mNQoO16nKa5IeBtvQ4",
+    "timestamp_utc": "2024-04-21T20:49:15.330Z",
+    "context_time": 1713732555330,
+    "message_country": "AR",
+    "message_is_emitted_by_backplay": true,
+    "message_request_latency": 381,
+    "message_response_status": 200,
+    "message_session_id": "9f9fb280-5883-4250-9077-56fb4740b882"
+  },
+  {
+    "message_context_uri": "spotify:album:2IUOts60qcpH9RJhWE5iZP",
+    "timestamp_utc": "2024-05-29T04:21:52.169Z",
+    "context_time": 1716956512169,
+    "message_country": "AR",
+    "message_is_emitted_by_backplay": true,
+    "message_request_latency": 263,
+    "message_response_status": 200,
+    "message_session_id": "0ysk8T46E82RC5Xq5AwuZI"
+  },
+  {
+    "message_context_uri": "spotify:search:since",
+    "timestamp_utc": "2024-03-12T00:44:06.076Z",
+    "context_time": 1710204246076,
+    "message_country": "AR",
+    "message_is_emitted_by_backplay": true,
+    "message_request_latency": 299,
+    "message_response_status": 200,
+    "message_session_id": "244be105-74c0-4eb3-b256-e69d6e8ba922"
+  },
+  {
+    "message_context_uri": "spotify:album:6b0Z6PZLKI7VKE90f7HtUT",
+    "timestamp_utc": "2024-06-03T14:25:07.561Z",
+    "context_time": 1717424707561,
+    "message_country": "AR",
+    "message_is_emitted_by_backplay": true,
+    "message_request_latency": 240,
+    "message_response_status": 200,
+    "message_session_id": "8ba49b54-7662-479b-a4cb-49a0e8628b8b"
+  },
+  {
+    "message_context_uri": "spotify:album:2Z0yypS9AyYAbuxzeOAMhx",
+    "timestamp_utc": "2024-04-14T19:20:26.372Z",
+    "context_time": 1713122426372,
+    "message_country": "AR",
+    "message_is_emitted_by_backplay": true,
+    "message_request_latency": 374,
+    "message_response_status": 200,
+    "message_session_id": "5c0b2de1-8006-42e7-8618-74765d6a0169"
+  },
+  {
+    "message_context_uri": "spotify:playlist:1IA7FaEQUZTBV1dAE3ySCg",
+    "timestamp_utc": "2024-05-29T01:47:09.591Z",
+    "context_time": 1716947229591,
+    "message_country": "AR",
+    "message_is_emitted_by_backplay": true,
+    "message_request_latency": 430,
+    "message_response_status": 200,
+    "message_session_id": "7440e887-172d-4c54-ab85-74025dc969ee"
+  },
+  {
+    "message_context_uri": "spotify:album:5N1rI6GM0UniU6pYVcOwca",
+    "timestamp_utc": "2024-05-14T19:33:51.508Z",
+    "context_time": 1715715231508,
+    "message_country": "AR",
+    "message_is_emitted_by_backplay": true,
+    "message_request_latency": 389,
+    "message_response_status": 200,
+    "message_session_id": "e01b6d32-3bdb-4897-b619-4f1064608821"
+  },
+  {
+    "message_context_uri": "spotify:search:piha",
+    "timestamp_utc": "2024-05-16T00:33:11.057Z",
+    "context_time": 1715819591057,
+    "message_country": "AR",
+    "message_is_emitted_by_backplay": true,
+    "message_request_latency": 278,
+    "message_response_status": 200,
+    "message_session_id": "49b4fc6a-c987-4ee3-b12a-047367c9aee1"
+  },
+  {
+    "message_context_uri": "spotify:search:music+is+the+an",
+    "timestamp_utc": "2024-04-24T23:39:27.748Z",
+    "context_time": 1714001967748,
+    "message_country": "AR",
+    "message_is_emitted_by_backplay": true,
+    "message_request_latency": 289,
+    "message_response_status": 200,
+    "message_session_id": "9511c3eb-7b3e-45a7-abee-f505781415c8"
+  },
+  {
+    "message_context_uri": "spotify:playlist:24CWsgZoljlBhX7RkvqxdU",
+    "timestamp_utc": "2024-03-09T22:06:12.053Z",
+    "context_time": 1710021972053,
+    "message_country": "AR",
+    "message_is_emitted_by_backplay": true,
+    "message_request_latency": 512,
+    "message_response_status": 200,
+    "message_session_id": "4c785bc5-2824-4dba-9da8-c4e08abb1a7c"
+  },
+  {
+    "message_context_uri": "spotify:search:garden",
+    "timestamp_utc": "2024-05-29T03:23:23.485Z",
+    "context_time": 1716953003485,
+    "message_country": "AR",
+    "message_is_emitted_by_backplay": true,
+    "message_request_latency": 263,
+    "message_response_status": 200,
+    "message_session_id": "714531b8-4880-4e64-9381-3ecd985c6f6d"
+  },
+  {
+    "message_context_uri": "spotify:album:0Zwz9ASQnojGbTmpwSEL8B",
+    "timestamp_utc": "2024-04-18T23:40:40.123Z",
+    "context_time": 1713483640123,
+    "message_country": "AR",
+    "message_is_emitted_by_backplay": true,
+    "message_request_latency": 293,
+    "message_response_status": 200,
+    "message_session_id": "e5afebd3-83a3-43e5-9f8f-a11f571bf799"
+  },
+  {
+    "message_context_uri": "spotify:playlist:4ZdINXQPnnOLbGK6joIP9A",
+    "timestamp_utc": "2024-05-11T23:52:10.498Z",
+    "context_time": 1715471530498,
+    "message_country": "AR",
+    "message_is_emitted_by_backplay": true,
+    "message_request_latency": 421,
+    "message_response_status": 200,
+    "message_session_id": "aebe656c-6a8f-4983-ba08-c9a7ca683049"
+  },
+  {
+    "message_context_uri": "spotify:search:when+i+first+met+you+",
+    "timestamp_utc": "2024-04-19T21:25:24.964Z",
+    "context_time": 1713561924964,
+    "message_country": "AR",
+    "message_is_emitted_by_backplay": true,
+    "message_request_latency": 341,
+    "message_response_status": 200,
+    "message_session_id": "e840ad70-782c-48b0-b382-8c9bc5af64aa"
+  },
+  {
+    "message_context_uri": "spotify:search:music+is+the+an",
+    "timestamp_utc": "2024-04-24T23:39:11.847Z",
+    "context_time": 1714001951847,
+    "message_country": "AR",
+    "message_is_emitted_by_backplay": true,
+    "message_request_latency": 334,
+    "message_response_status": 200,
+    "message_session_id": "13b305e8-589e-4a82-ad8f-75c407fbd871"
+  },
+  {
+    "message_context_uri": "spotify:album:2IUOts60qcpH9RJhWE5iZP",
+    "timestamp_utc": "2024-05-29T04:21:53.463Z",
+    "context_time": 1716956513463,
+    "message_country": "AR",
+    "message_is_emitted_by_backplay": true,
+    "message_request_latency": 226,
+    "message_response_status": 200,
+    "message_session_id": "2zn6NDqgQhfdw7iDa0GsZp"
+  },
+  {
+    "message_context_uri": "spotify:album:1ejlm7Dl4L1sry7K2YQYEl",
+    "timestamp_utc": "2024-03-28T20:12:48.924Z",
+    "context_time": 1711656768924,
+    "message_country": "AR",
+    "message_is_emitted_by_backplay": true,
+    "message_request_latency": 270,
+    "message_response_status": 200,
+    "message_session_id": "61gJvpTm8XpcivmJWcTR57"
+  },
+  {
+    "message_context_uri": "spotify:playlist:24CWsgZoljlBhX7RkvqxdU",
+    "timestamp_utc": "2024-03-10T21:16:42.412Z",
+    "context_time": 1710105402412,
+    "message_country": "AR",
+    "message_is_emitted_by_backplay": true,
+    "message_request_latency": 400,
+    "message_response_status": 200,
+    "message_session_id": "0d39c9a4-b1c9-47a9-8834-e3a79f23abef"
+  },
+  {
+    "message_context_uri": "spotify:playlist:24CWsgZoljlBhX7RkvqxdU",
+    "timestamp_utc": "2024-03-10T12:45:11.083Z",
+    "context_time": 1710074711083,
+    "message_country": "AR",
+    "message_is_emitted_by_backplay": true,
+    "message_request_latency": 525,
+    "message_response_status": 200,
+    "message_session_id": "51f9f859-9f81-4217-b9b0-3042160ee4f1"
+  },
+  {
+    "message_context_uri": "spotify:search:since+i+left+you",
+    "timestamp_utc": "2024-05-04T02:03:29.045Z",
+    "context_time": 1714788209045,
+    "message_country": "AR",
+    "message_is_emitted_by_backplay": true,
+    "message_request_latency": 221,
+    "message_response_status": 200,
+    "message_session_id": "24dc2faa-ee26-4688-ac2b-d387d742ffdd"
+  },
+  {
+    "message_context_uri": "spotify:album:7mpTSR6E855VhdCeoPgpCF",
+    "timestamp_utc": "2024-05-04T01:28:32.074Z",
+    "context_time": 1714786112074,
+    "message_country": "AR",
+    "message_is_emitted_by_backplay": true,
+    "message_request_latency": 242,
+    "message_response_status": 200,
+    "message_session_id": "1bXPRc1E72W9RR7DPrNEJt"
+  },
+  {
+    "message_context_uri": "spotify:album:5atrOg1aO4d5KEcYo4UBIA",
+    "timestamp_utc": "2024-03-28T19:52:05.933Z",
+    "context_time": 1711655525933,
+    "message_country": "AR",
+    "message_is_emitted_by_backplay": true,
+    "message_request_latency": 334,
+    "message_response_status": 200,
+    "message_session_id": "9072bd13-76f3-4bef-bbc7-ff0f7de20de7"
+  },
+  {
+    "message_context_uri": "spotify:album:2IUOts60qcpH9RJhWE5iZP",
+    "timestamp_utc": "2024-05-23T23:52:07.789Z",
+    "context_time": 1716508327789,
+    "message_country": "AR",
+    "message_is_emitted_by_backplay": true,
+    "message_request_latency": 274,
+    "message_response_status": 200,
+    "message_session_id": "ce858ac0-e496-42ea-b67a-6c5c15fe09e6"
+  },
+  {
+    "message_context_uri": "spotify:album:74Se02hUhvqr2eMdDbxCYb",
+    "timestamp_utc": "2024-04-23T03:26:05.929Z",
+    "context_time": 1713842765929,
+    "message_country": "AR",
+    "message_is_emitted_by_backplay": true,
+    "message_request_latency": 278,
+    "message_response_status": 200,
+    "message_session_id": "67pQYpghJsqVRD0GD6Byh7"
+  },
+  {
+    "message_context_uri": "spotify:search:garden",
+    "timestamp_utc": "2024-05-29T03:23:22.696Z",
+    "context_time": 1716953002696,
+    "message_country": "AR",
+    "message_is_emitted_by_backplay": true,
+    "message_request_latency": 297,
+    "message_response_status": 200,
+    "message_session_id": "2042c5b9-d88e-4b0b-b36d-87a33276548e"
+  },
+  {
+    "message_context_uri": "spotify:album:07aLEJ68A2wz9em0AwnuS2",
+    "timestamp_utc": "2024-04-29T20:52:25.065Z",
+    "context_time": 1714423945065,
+    "message_country": "AR",
+    "message_is_emitted_by_backplay": true,
+    "message_request_latency": 288,
+    "message_response_status": 200,
+    "message_session_id": "728b60ad-5cc0-4e84-a2cd-d3a1a0a29bb0"
+  },
+  {
+    "message_context_uri": "spotify:album:4Ch1rT1sIURz12ZVKH0a4p",
+    "timestamp_utc": "2024-03-29T22:30:06.013Z",
+    "context_time": 1711751406013,
+    "message_country": "AR",
+    "message_is_emitted_by_backplay": true,
+    "message_request_latency": 341,
+    "message_response_status": 200,
+    "message_session_id": "d2c6a57a-6bc2-4a7d-9e10-f56780852351"
+  },
+  {
+    "message_context_uri": "spotify:album:4E8q20fmm8onDCc7NK217d",
+    "timestamp_utc": "2024-05-07T02:59:01.720Z",
+    "context_time": 1715050741720,
+    "message_country": "AR",
+    "message_is_emitted_by_backplay": true,
+    "message_request_latency": 283,
+    "message_response_status": 200,
+    "message_session_id": "4YJX8Uucejov4IHkBnHIGr"
+  },
+  {
+    "message_context_uri": "spotify:album:2Z0yypS9AyYAbuxzeOAMhx",
+    "timestamp_utc": "2024-04-01T00:42:16.411Z",
+    "context_time": 1711932136411,
+    "message_country": "AR",
+    "message_is_emitted_by_backplay": true,
+    "message_request_latency": 304,
+    "message_response_status": 200,
+    "message_session_id": "b6440bac-c668-4c54-88cb-2569984d5e69"
+  },
+  {
+    "message_context_uri": "spotify:album:2IUOts60qcpH9RJhWE5iZP",
+    "timestamp_utc": "2024-05-24T20:59:05.232Z",
+    "context_time": 1716584345232,
+    "message_country": "AR",
+    "message_is_emitted_by_backplay": true,
+    "message_request_latency": 389,
+    "message_response_status": 200,
+    "message_session_id": "a17c739a-0c9d-4185-8d4e-3113db2572a4"
+  },
+  {
+    "message_context_uri": "spotify:album:0MzST3tsqGaycz3lNuknpC",
+    "timestamp_utc": "2024-04-19T23:42:15.876Z",
+    "context_time": 1713570135876,
+    "message_country": "AR",
+    "message_is_emitted_by_backplay": true,
+    "message_request_latency": 437,
+    "message_response_status": 200,
+    "message_session_id": "0195cb79-56ac-4def-8863-c785395f292e"
+  },
+  {
+    "message_context_uri": "spotify:album:5N1rI6GM0UniU6pYVcOwca",
+    "timestamp_utc": "2024-05-14T19:33:18.637Z",
+    "context_time": 1715715198637,
+    "message_country": "AR",
+    "message_is_emitted_by_backplay": true,
+    "message_request_latency": 465,
+    "message_response_status": 200,
+    "message_session_id": "b67a389f-8f3a-4415-80cf-4d4b6e363b15"
+  },
+  {
+    "message_context_uri": "spotify:playlist:3oSGCcRcdgCKRZi9LFLprD",
+    "timestamp_utc": "2024-03-11T23:54:43.797Z",
+    "context_time": 1710201283797,
+    "message_country": "AR",
+    "message_is_emitted_by_backplay": true,
+    "message_request_latency": 505,
+    "message_response_status": 200,
+    "message_session_id": "00694b16-c7af-40a3-913d-389cb40ad16b"
+  },
+  {
+    "message_context_uri": "spotify:playlist:3HK6mNQoO16nKa5IeBtvQ4",
+    "timestamp_utc": "2024-04-21T14:46:21.990Z",
+    "context_time": 1713710781990,
+    "message_country": "AR",
+    "message_is_emitted_by_backplay": true,
+    "message_request_latency": 469,
+    "message_response_status": 200,
+    "message_session_id": "b0dd3d5e-470e-4294-b82b-4d7e036d435a"
+  },
+  {
+    "message_context_uri": "spotify:album:2f5GP1oiD2rwBY2HWiIKh8",
+    "timestamp_utc": "2024-05-07T00:42:57.002Z",
+    "context_time": 1715042577002,
+    "message_country": "AR",
+    "message_is_emitted_by_backplay": true,
+    "message_request_latency": 271,
+    "message_response_status": 200,
+    "message_session_id": "46131c3e-638e-44b6-8371-74bcbd7926ba"
+  },
+  {
+    "message_context_uri": "spotify:playlist:3HK6mNQoO16nKa5IeBtvQ4",
+    "timestamp_utc": "2024-04-17T01:29:19.091Z",
+    "context_time": 1713317359091,
+    "message_country": "AR",
+    "message_is_emitted_by_backplay": true,
+    "message_request_latency": 476,
+    "message_response_status": 200,
+    "message_session_id": "2FS5NLDJ6c6vNpoC9GLm7m"
+  },
+  {
+    "message_context_uri": "spotify:playlist:3oSGCcRcdgCKRZi9LFLprD",
+    "timestamp_utc": "2024-03-11T23:47:35.143Z",
+    "context_time": 1710200855143,
+    "message_country": "AR",
+    "message_is_emitted_by_backplay": true,
+    "message_request_latency": 478,
+    "message_response_status": 200,
+    "message_session_id": "db3b4280-58e9-4dc0-94d1-e9b49e7322e1"
+  },
+  {
+    "message_context_uri": "spotify:album:2hxBhd405LrdVwrUsRz3x8",
+    "timestamp_utc": "2024-04-24T22:29:50.504Z",
+    "context_time": 1713997790504,
+    "message_country": "AR",
+    "message_is_emitted_by_backplay": true,
+    "message_request_latency": 392,
+    "message_response_status": 200,
+    "message_session_id": "c73facb2-13ed-4972-af8e-36634d0b7d5f"
+  },
+  {
+    "message_context_uri": "spotify:album:7dAxRaeGVamTt5urf9UURz",
+    "timestamp_utc": "2024-05-24T20:43:39.097Z",
+    "context_time": 1716583419097,
+    "message_country": "AR",
+    "message_is_emitted_by_backplay": true,
+    "message_request_latency": 315,
+    "message_response_status": 200,
+    "message_session_id": "26560846-0595-48dd-b706-48ad2e1c4a3f"
+  },
+  {
+    "message_context_uri": "spotify:album:3x2HrFHyqi6tNXkxZKkRhW",
+    "timestamp_utc": "2024-05-12T00:45:17.568Z",
+    "context_time": 1715474717568,
+    "message_country": "AR",
+    "message_is_emitted_by_backplay": true,
+    "message_request_latency": 204,
+    "message_response_status": 200,
+    "message_session_id": "5837a279-b5f1-45fe-9892-b34aae75ea0b"
+  },
+  {
+    "message_context_uri": "spotify:playlist:24CWsgZoljlBhX7RkvqxdU",
+    "timestamp_utc": "2024-03-09T02:14:25.300Z",
+    "context_time": 1709950465300,
+    "message_country": "AR",
+    "message_is_emitted_by_backplay": true,
+    "message_request_latency": 365,
+    "message_response_status": 200,
+    "message_session_id": "3d9e25dd-aaf4-4a07-b5e6-265516d367d7"
+  },
+  {
+    "message_context_uri": "spotify:album:5N1rI6GM0UniU6pYVcOwca",
+    "timestamp_utc": "2024-05-14T19:35:00.709Z",
+    "context_time": 1715715300709,
+    "message_country": "AR",
+    "message_is_emitted_by_backplay": true,
+    "message_request_latency": 300,
+    "message_response_status": 200,
+    "message_session_id": "2944f862-9a6b-46ef-8490-b5358f00940c"
+  },
+  {
+    "message_context_uri": "spotify:search:children+talking",
+    "timestamp_utc": "2024-05-29T02:33:11.495Z",
+    "context_time": 1716949991495,
+    "message_country": "AR",
+    "message_is_emitted_by_backplay": true,
+    "message_request_latency": 317,
+    "message_response_status": 200,
+    "message_session_id": "6b8d4a5e-0e5a-4539-be90-b34b39819a26"
+  }
+]

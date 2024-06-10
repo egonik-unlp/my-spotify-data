@@ -1,0 +1,19 @@
+[
+  {
+    "timestamp_utc": "2024-02-08T14:21:22.761Z",
+    "context_application_version": null,
+    "context_conn_country": null,
+    "context_receiver_service_timestamp": 1707402082776,
+    "context_time": 1707402082761,
+    "context_user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+    "message_action": "click",
+    "message_category": "masthead",
+    "message_context": null,
+    "message_country": "AR",
+    "message_destination_url": "https://developer.spotify.com/",
+    "message_flow_id": null,
+    "message_label": "developers",
+    "message_os": "Linux",
+    "message_sp_t": "cd4773a329de636e1f95ed3961ba959c"
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "timestamp_utc": "2024-03-22T18:41:13.520Z",
+    "context_application_version": "8.9.22.539",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1711132882096,
+    "context_time": 1711132873520,
+    "message_components": "SocialListeningTap,SocialListeningInvite",
+    "message_reason": "FailureAlreadyStarted"
+  },
+  {
+    "timestamp_utc": "2024-04-05T17:25:04.467Z",
+    "context_application_version": "8.9.26.592",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1712337911564,
+    "context_time": 1712337904467,
+    "message_components": "SocialListeningTap,SocialListeningInvite",
+    "message_reason": "FailureBluetoothNotSupported"
+  }
+]

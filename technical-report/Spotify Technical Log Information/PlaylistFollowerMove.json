@@ -1,0 +1,20 @@
+[
+  {
+    "timestamp_utc": "2024-04-12T17:14:22.753Z",
+    "context_time": 1712942062753,
+    "message_original_follower_rootlist_revision": "443,2762f0156278efe39cb1eb73840fd17a5908ead3",
+    "message_outcome": "Move skipped, not following source playlist",
+    "message_resulting_follower_rootlist_revision": null,
+    "message_source_playlist_id": "37i9dQZF1DWWzc8XPy0ntN",
+    "message_target_playlist_id": "37i9dQZF1DWUraJYejk11q"
+  },
+  {
+    "timestamp_utc": "2024-04-12T03:45:41.776Z",
+    "context_time": 1712893541776,
+    "message_original_follower_rootlist_revision": "442,77ceb98ac864f5df1b10d7098f7f4955d386cdfe",
+    "message_outcome": "Move successful",
+    "message_resulting_follower_rootlist_revision": "443,2762f0156278efe39cb1eb73840fd17a5908ead3",
+    "message_source_playlist_id": "37i9dQZF1DWWzc8XPy0ntN",
+    "message_target_playlist_id": "37i9dQZF1DWZ7mSWCFIT7v"
+  }
+]

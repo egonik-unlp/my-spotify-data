@@ -1,0 +1,86 @@
+[
+  {
+    "timestamp_utc": "2024-06-05T21:46:56.993Z",
+    "context_time": 1717624016993,
+    "message_action": "PLAY",
+    "message_content_type": "MUSIC",
+    "message_feature_identifier": "android-auto",
+    "message_has_tts_intro": false,
+    "message_interaction_id": "3412ea48-e234-4886-9de2-fa052d274fc8",
+    "message_request_id": "",
+    "message_result": "SUCCESS",
+    "message_user_context": [
+      "android-auto"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-03-17T11:35:06.926Z",
+    "context_time": 1710675306926,
+    "message_action": "RESUME",
+    "message_content_type": "MUSIC",
+    "message_feature_identifier": "driving-jumpstart",
+    "message_has_tts_intro": null,
+    "message_interaction_id": "b671686b-4fee-4759-9129-beb3e82195c2",
+    "message_request_id": "",
+    "message_result": "SUCCESS",
+    "message_user_context": [
+      "car"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-05-04T10:01:10.058Z",
+    "context_time": 1714816870058,
+    "message_action": "PLAY",
+    "message_content_type": "MUSIC",
+    "message_feature_identifier": "driving-jumpstart",
+    "message_has_tts_intro": false,
+    "message_interaction_id": "13102c58-dd82-4fd5-9911-1dc8a7e14af7",
+    "message_request_id": "",
+    "message_result": "SUCCESS",
+    "message_user_context": [
+      "car"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-05-04T02:42:14.391Z",
+    "context_time": 1714790534391,
+    "message_action": "PLAY",
+    "message_content_type": "MUSIC",
+    "message_feature_identifier": "driving-jumpstart",
+    "message_has_tts_intro": false,
+    "message_interaction_id": "f9c608fd-632d-410f-930a-fde03eb1330d",
+    "message_request_id": "",
+    "message_result": "SUCCESS",
+    "message_user_context": [
+      "car"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-06-05T21:46:53Z",
+    "context_time": 1717624013000,
+    "message_action": "RESUME",
+    "message_content_type": "MUSIC",
+    "message_feature_identifier": "driving-jumpstart",
+    "message_has_tts_intro": false,
+    "message_interaction_id": "833c8da5-13a7-4cba-9b04-a09ebb0580d1",
+    "message_request_id": "",
+    "message_result": "SUCCESS",
+    "message_user_context": [
+      "car"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-03-17T11:40:18.351Z",
+    "context_time": 1710675618351,
+    "message_action": "RESUME",
+    "message_content_type": "MUSIC",
+    "message_feature_identifier": "driving-jumpstart",
+    "message_has_tts_intro": null,
+    "message_interaction_id": "4c5a7ef5-8946-4fb2-b088-7a099cf1d4fa",
+    "message_request_id": "",
+    "message_result": "SUCCESS",
+    "message_user_context": [
+      "car"
+    ]
+  }
+]

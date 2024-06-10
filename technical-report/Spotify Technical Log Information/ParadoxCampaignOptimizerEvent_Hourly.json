@@ -1,0 +1,3000 @@
+[
+  {
+    "timestamp_utc": "2024-04-14T21:17:22.845Z",
+    "context_time": 1713129442845,
+    "message_business_metric": "Consumption",
+    "message_business_metric_sub_category": "",
+    "message_campaign_id": "81909",
+    "message_channel": "INAPP",
+    "message_experiment_properties": [
+      {
+        "key": "multi_objective_selection",
+        "value": "NO_CHANGE"
+      },
+      {
+        "key": "inapp_frequency_model_strategy",
+        "value": "MODEL"
+      },
+      {
+        "key": "call_uplift_proxy",
+        "value": "NO_CALL"
+      },
+      {
+        "key": "optimize_in_app_frequency",
+        "value": "APPLY_OPTIMIZATION"
+      }
+    ],
+    "message_filter_reason": null,
+    "message_holdouts": [
+    ],
+    "message_locale": "es-419",
+    "message_message_id": "143260",
+    "message_module_channel": "EXISTINGUSER_INAPP",
+    "message_ppc_action": null,
+    "message_priority": 13,
+    "message_product": "PREMIUM",
+    "message_rank": 0,
+    "message_region": "us-central1",
+    "message_reorder_occurred": false,
+    "message_request_index": 0,
+    "message_stages": [
+      {
+        "key": "NewUserProtectionStage",
+        "value": "false"
+      },
+      {
+        "key": "InAppNewUserUpliftStage",
+        "value": "false"
+      },
+      {
+        "key": "MultiObjectiveSelectionStage",
+        "value": "false"
+      },
+      {
+        "key": "FrequencyModelStage",
+        "value": "true"
+      },
+      {
+        "key": "PushEmailPulRankingStage",
+        "value": "false"
+      },
+      {
+        "key": "SalemRankingModelStage",
+        "value": "false"
+      },
+      {
+        "key": "InAppPulRankingStage",
+        "value": "false"
+      },
+      {
+        "key": "InAppExistingUserUpliftStage",
+        "value": "false"
+      },
+      {
+        "key": "ProductPromotionCoordinatorStage",
+        "value": "false"
+      },
+      {
+        "key": "PushEmailNewUserProtectionStage",
+        "value": "false"
+      }
+    ],
+    "message_uplift_variant": "false"
+  },
+  {
+    "timestamp_utc": "2024-05-06T03:42:58.966Z",
+    "context_time": 1714966978966,
+    "message_business_metric": "Consumption",
+    "message_business_metric_sub_category": "",
+    "message_campaign_id": "82267",
+    "message_channel": "INAPP",
+    "message_experiment_properties": [
+      {
+        "key": "multi_objective_selection",
+        "value": "NO_CHANGE"
+      },
+      {
+        "key": "inapp_frequency_model_strategy",
+        "value": "MODEL"
+      },
+      {
+        "key": "call_uplift_proxy",
+        "value": "NO_CALL"
+      },
+      {
+        "key": "optimize_in_app_frequency",
+        "value": "APPLY_OPTIMIZATION"
+      }
+    ],
+    "message_filter_reason": "FREQUENCY_OPTIMIZATION_MODEL",
+    "message_holdouts": [
+    ],
+    "message_locale": "es-419",
+    "message_message_id": "144353",
+    "message_module_channel": "EXISTINGUSER_INAPP",
+    "message_ppc_action": null,
+    "message_priority": 13,
+    "message_product": "PREMIUM",
+    "message_rank": 0,
+    "message_region": "us-central1",
+    "message_reorder_occurred": false,
+    "message_request_index": 0,
+    "message_stages": [
+      {
+        "key": "NewUserProtectionStage",
+        "value": "false"
+      },
+      {
+        "key": "InAppNewUserUpliftStage",
+        "value": "false"
+      },
+      {
+        "key": "MultiObjectiveSelectionStage",
+        "value": "false"
+      },
+      {
+        "key": "FrequencyModelStage",
+        "value": "true"
+      },
+      {
+        "key": "PushEmailPulRankingStage",
+        "value": "false"
+      },
+      {
+        "key": "SalemRankingModelStage",
+        "value": "false"
+      },
+      {
+        "key": "InAppPulRankingStage",
+        "value": "false"
+      },
+      {
+        "key": "InAppExistingUserUpliftStage",
+        "value": "false"
+      },
+      {
+        "key": "ProductPromotionCoordinatorStage",
+        "value": "false"
+      },
+      {
+        "key": "PushEmailNewUserProtectionStage",
+        "value": "false"
+      }
+    ],
+    "message_uplift_variant": "false"
+  },
+  {
+    "timestamp_utc": "2024-04-30T16:06:03.662Z",
+    "context_time": 1714493163662,
+    "message_business_metric": "Consumption",
+    "message_business_metric_sub_category": "",
+    "message_campaign_id": "73097",
+    "message_channel": "PUSH",
+    "message_experiment_properties": [
+    ],
+    "message_filter_reason": null,
+    "message_holdouts": [
+    ],
+    "message_locale": "en",
+    "message_message_id": "139799",
+    "message_module_channel": "ENGAGEMENT_PUSH",
+    "message_ppc_action": null,
+    "message_priority": 1,
+    "message_product": "PREMIUM",
+    "message_rank": 0,
+    "message_region": "europe-west1",
+    "message_reorder_occurred": false,
+    "message_request_index": 0,
+    "message_stages": [
+      {
+        "key": "NewUserProtectionStage",
+        "value": "false"
+      },
+      {
+        "key": "InAppNewUserUpliftStage",
+        "value": "false"
+      },
+      {
+        "key": "MultiObjectiveSelectionStage",
+        "value": "false"
+      },
+      {
+        "key": "FrequencyModelStage",
+        "value": "false"
+      },
+      {
+        "key": "PushEmailPulRankingStage",
+        "value": "false"
+      },
+      {
+        "key": "SalemRankingModelStage",
+        "value": "false"
+      },
+      {
+        "key": "InAppPulRankingStage",
+        "value": "false"
+      },
+      {
+        "key": "InAppExistingUserUpliftStage",
+        "value": "false"
+      },
+      {
+        "key": "ProductPromotionCoordinatorStage",
+        "value": "false"
+      },
+      {
+        "key": "PushEmailNewUserProtectionStage",
+        "value": "false"
+      }
+    ],
+    "message_uplift_variant": "false"
+  },
+  {
+    "timestamp_utc": "2024-05-10T03:13:11.627Z",
+    "context_time": 1715310791627,
+    "message_business_metric": "Consumption",
+    "message_business_metric_sub_category": "",
+    "message_campaign_id": "82267",
+    "message_channel": "INAPP",
+    "message_experiment_properties": [
+      {
+        "key": "multi_objective_selection",
+        "value": "NO_CHANGE"
+      },
+      {
+        "key": "inapp_frequency_model_strategy",
+        "value": "MODEL"
+      },
+      {
+        "key": "call_uplift_proxy",
+        "value": "NO_CALL"
+      },
+      {
+        "key": "optimize_in_app_frequency",
+        "value": "APPLY_OPTIMIZATION"
+      }
+    ],
+    "message_filter_reason": "FREQUENCY_OPTIMIZATION_MODEL",
+    "message_holdouts": [
+    ],
+    "message_locale": "es-419",
+    "message_message_id": "144353",
+    "message_module_channel": "EXISTINGUSER_INAPP",
+    "message_ppc_action": null,
+    "message_priority": 13,
+    "message_product": "PREMIUM",
+    "message_rank": 0,
+    "message_region": "us-central1",
+    "message_reorder_occurred": false,
+    "message_request_index": 0,
+    "message_stages": [
+      {
+        "key": "NewUserProtectionStage",
+        "value": "false"
+      },
+      {
+        "key": "InAppNewUserUpliftStage",
+        "value": "false"
+      },
+      {
+        "key": "MultiObjectiveSelectionStage",
+        "value": "false"
+      },
+      {
+        "key": "FrequencyModelStage",
+        "value": "true"
+      },
+      {
+        "key": "PushEmailPulRankingStage",
+        "value": "false"
+      },
+      {
+        "key": "SalemRankingModelStage",
+        "value": "false"
+      },
+      {
+        "key": "InAppPulRankingStage",
+        "value": "false"
+      },
+      {
+        "key": "InAppExistingUserUpliftStage",
+        "value": "false"
+      },
+      {
+        "key": "ProductPromotionCoordinatorStage",
+        "value": "false"
+      },
+      {
+        "key": "PushEmailNewUserProtectionStage",
+        "value": "false"
+      }
+    ],
+    "message_uplift_variant": "false"
+  },
+  {
+    "timestamp_utc": "2024-05-07T02:58:09.270Z",
+    "context_time": 1715050689270,
+    "message_business_metric": "Consumption",
+    "message_business_metric_sub_category": "",
+    "message_campaign_id": "82267",
+    "message_channel": "INAPP",
+    "message_experiment_properties": [
+      {
+        "key": "multi_objective_selection",
+        "value": "NO_CHANGE"
+      },
+      {
+        "key": "inapp_frequency_model_strategy",
+        "value": "MODEL"
+      },
+      {
+        "key": "call_uplift_proxy",
+        "value": "NO_CALL"
+      },
+      {
+        "key": "optimize_in_app_frequency",
+        "value": "APPLY_OPTIMIZATION"
+      }
+    ],
+    "message_filter_reason": "FREQUENCY_OPTIMIZATION_MODEL",
+    "message_holdouts": [
+    ],
+    "message_locale": "es-419",
+    "message_message_id": "144353",
+    "message_module_channel": "EXISTINGUSER_INAPP",
+    "message_ppc_action": null,
+    "message_priority": 13,
+    "message_product": "PREMIUM",
+    "message_rank": 0,
+    "message_region": "us-central1",
+    "message_reorder_occurred": false,
+    "message_request_index": 0,
+    "message_stages": [
+      {
+        "key": "NewUserProtectionStage",
+        "value": "false"
+      },
+      {
+        "key": "InAppNewUserUpliftStage",
+        "value": "false"
+      },
+      {
+        "key": "MultiObjectiveSelectionStage",
+        "value": "false"
+      },
+      {
+        "key": "FrequencyModelStage",
+        "value": "true"
+      },
+      {
+        "key": "PushEmailPulRankingStage",
+        "value": "false"
+      },
+      {
+        "key": "SalemRankingModelStage",
+        "value": "false"
+      },
+      {
+        "key": "InAppPulRankingStage",
+        "value": "false"
+      },
+      {
+        "key": "InAppExistingUserUpliftStage",
+        "value": "false"
+      },
+      {
+        "key": "ProductPromotionCoordinatorStage",
+        "value": "false"
+      },
+      {
+        "key": "PushEmailNewUserProtectionStage",
+        "value": "false"
+      }
+    ],
+    "message_uplift_variant": "false"
+  },
+  {
+    "timestamp_utc": "2024-05-07T00:47:43.865Z",
+    "context_time": 1715042863865,
+    "message_business_metric": "Consumption",
+    "message_business_metric_sub_category": "",
+    "message_campaign_id": "82267",
+    "message_channel": "INAPP",
+    "message_experiment_properties": [
+      {
+        "key": "multi_objective_selection",
+        "value": "NO_CHANGE"
+      },
+      {
+        "key": "inapp_frequency_model_strategy",
+        "value": "MODEL"
+      },
+      {
+        "key": "call_uplift_proxy",
+        "value": "NO_CALL"
+      },
+      {
+        "key": "optimize_in_app_frequency",
+        "value": "APPLY_OPTIMIZATION"
+      }
+    ],
+    "message_filter_reason": "FREQUENCY_OPTIMIZATION_MODEL",
+    "message_holdouts": [
+    ],
+    "message_locale": "es-419",
+    "message_message_id": "144353",
+    "message_module_channel": "EXISTINGUSER_INAPP",
+    "message_ppc_action": null,
+    "message_priority": 13,
+    "message_product": "PREMIUM",
+    "message_rank": 0,
+    "message_region": "us-central1",
+    "message_reorder_occurred": false,
+    "message_request_index": 0,
+    "message_stages": [
+      {
+        "key": "NewUserProtectionStage",
+        "value": "false"
+      },
+      {
+        "key": "InAppNewUserUpliftStage",
+        "value": "false"
+      },
+      {
+        "key": "MultiObjectiveSelectionStage",
+        "value": "false"
+      },
+      {
+        "key": "FrequencyModelStage",
+        "value": "true"
+      },
+      {
+        "key": "PushEmailPulRankingStage",
+        "value": "false"
+      },
+      {
+        "key": "SalemRankingModelStage",
+        "value": "false"
+      },
+      {
+        "key": "InAppPulRankingStage",
+        "value": "false"
+      },
+      {
+        "key": "InAppExistingUserUpliftStage",
+        "value": "false"
+      },
+      {
+        "key": "ProductPromotionCoordinatorStage",
+        "value": "false"
+      },
+      {
+        "key": "PushEmailNewUserProtectionStage",
+        "value": "false"
+      }
+    ],
+    "message_uplift_variant": "false"
+  },
+  {
+    "timestamp_utc": "2024-03-14T15:16:57.994Z",
+    "context_time": 1710429417994,
+    "message_business_metric": "MAU",
+    "message_business_metric_sub_category": "",
+    "message_campaign_id": "80457",
+    "message_channel": "INAPP",
+    "message_experiment_properties": [
+      {
+        "key": "multi_objective_selection",
+        "value": "NO_CHANGE"
+      },
+      {
+        "key": "call_uplift_proxy",
+        "value": "CALL_AND_USE"
+      },
+      {
+        "key": "optimize_in_app_frequency",
+        "value": "ALWAYS_SEND"
+      }
+    ],
+    "message_filter_reason": null,
+    "message_holdouts": [
+    ],
+    "message_locale": "es-419",
+    "message_message_id": "136347",
+    "message_module_channel": "EXISTINGUSER_INAPP",
+    "message_ppc_action": null,
+    "message_priority": 13,
+    "message_product": "PREMIUM",
+    "message_rank": 0,
+    "message_region": "us-central1",
+    "message_reorder_occurred": false,
+    "message_request_index": 0,
+    "message_stages": [
+      {
+        "key": "NewUserProtectionStage",
+        "value": "false"
+      },
+      {
+        "key": "InAppNewUserUpliftStage",
+        "value": "false"
+      },
+      {
+        "key": "MultiObjectiveSelectionStage",
+        "value": "false"
+      },
+      {
+        "key": "FrequencyModelStage",
+        "value": "false"
+      },
+      {
+        "key": "PushEmailPulRankingStage",
+        "value": "false"
+      },
+      {
+        "key": "SalemRankingModelStage",
+        "value": "false"
+      },
+      {
+        "key": "MultiChannelStage",
+        "value": "false"
+      },
+      {
+        "key": "InAppPulRankingStage",
+        "value": "false"
+      },
+      {
+        "key": "InAppExistingUserUpliftStage",
+        "value": "true"
+      },
+      {
+        "key": "ProductPromotionCoordinatorStage",
+        "value": "false"
+      },
+      {
+        "key": "PushEmailNewUserProtectionStage",
+        "value": "false"
+      }
+    ],
+    "message_uplift_variant": "true"
+  },
+  {
+    "timestamp_utc": "2024-05-10T02:10:44.299Z",
+    "context_time": 1715307044299,
+    "message_business_metric": "Consumption",
+    "message_business_metric_sub_category": "",
+    "message_campaign_id": "82267",
+    "message_channel": "INAPP",
+    "message_experiment_properties": [
+      {
+        "key": "multi_objective_selection",
+        "value": "NO_CHANGE"
+      },
+      {
+        "key": "inapp_frequency_model_strategy",
+        "value": "MODEL"
+      },
+      {
+        "key": "call_uplift_proxy",
+        "value": "NO_CALL"
+      },
+      {
+        "key": "optimize_in_app_frequency",
+        "value": "APPLY_OPTIMIZATION"
+      }
+    ],
+    "message_filter_reason": "FREQUENCY_OPTIMIZATION_MODEL",
+    "message_holdouts": [
+    ],
+    "message_locale": "es-419",
+    "message_message_id": "144353",
+    "message_module_channel": "EXISTINGUSER_INAPP",
+    "message_ppc_action": null,
+    "message_priority": 13,
+    "message_product": "PREMIUM",
+    "message_rank": 0,
+    "message_region": "us-central1",
+    "message_reorder_occurred": false,
+    "message_request_index": 0,
+    "message_stages": [
+      {
+        "key": "NewUserProtectionStage",
+        "value": "false"
+      },
+      {
+        "key": "InAppNewUserUpliftStage",
+        "value": "false"
+      },
+      {
+        "key": "MultiObjectiveSelectionStage",
+        "value": "false"
+      },
+      {
+        "key": "FrequencyModelStage",
+        "value": "true"
+      },
+      {
+        "key": "PushEmailPulRankingStage",
+        "value": "false"
+      },
+      {
+        "key": "SalemRankingModelStage",
+        "value": "false"
+      },
+      {
+        "key": "InAppPulRankingStage",
+        "value": "false"
+      },
+      {
+        "key": "InAppExistingUserUpliftStage",
+        "value": "false"
+      },
+      {
+        "key": "ProductPromotionCoordinatorStage",
+        "value": "false"
+      },
+      {
+        "key": "PushEmailNewUserProtectionStage",
+        "value": "false"
+      }
+    ],
+    "message_uplift_variant": "false"
+  },
+  {
+    "timestamp_utc": "2024-05-06T17:14:31.291Z",
+    "context_time": 1715015671291,
+    "message_business_metric": "Consumption",
+    "message_business_metric_sub_category": "",
+    "message_campaign_id": "82267",
+    "message_channel": "INAPP",
+    "message_experiment_properties": [
+      {
+        "key": "multi_objective_selection",
+        "value": "NO_CHANGE"
+      },
+      {
+        "key": "inapp_frequency_model_strategy",
+        "value": "MODEL"
+      },
+      {
+        "key": "call_uplift_proxy",
+        "value": "NO_CALL"
+      },
+      {
+        "key": "optimize_in_app_frequency",
+        "value": "APPLY_OPTIMIZATION"
+      }
+    ],
+    "message_filter_reason": "FREQUENCY_OPTIMIZATION_MODEL",
+    "message_holdouts": [
+    ],
+    "message_locale": "es-419",
+    "message_message_id": "144353",
+    "message_module_channel": "EXISTINGUSER_INAPP",
+    "message_ppc_action": null,
+    "message_priority": 13,
+    "message_product": "PREMIUM",
+    "message_rank": 0,
+    "message_region": "us-central1",
+    "message_reorder_occurred": false,
+    "message_request_index": 0,
+    "message_stages": [
+      {
+        "key": "NewUserProtectionStage",
+        "value": "false"
+      },
+      {
+        "key": "InAppNewUserUpliftStage",
+        "value": "false"
+      },
+      {
+        "key": "MultiObjectiveSelectionStage",
+        "value": "false"
+      },
+      {
+        "key": "FrequencyModelStage",
+        "value": "true"
+      },
+      {
+        "key": "PushEmailPulRankingStage",
+        "value": "false"
+      },
+      {
+        "key": "SalemRankingModelStage",
+        "value": "false"
+      },
+      {
+        "key": "InAppPulRankingStage",
+        "value": "false"
+      },
+      {
+        "key": "InAppExistingUserUpliftStage",
+        "value": "false"
+      },
+      {
+        "key": "ProductPromotionCoordinatorStage",
+        "value": "false"
+      },
+      {
+        "key": "PushEmailNewUserProtectionStage",
+        "value": "false"
+      }
+    ],
+    "message_uplift_variant": "false"
+  },
+  {
+    "timestamp_utc": "2024-03-15T02:54:07.257Z",
+    "context_time": 1710471247257,
+    "message_business_metric": "MAU",
+    "message_business_metric_sub_category": "",
+    "message_campaign_id": "80457",
+    "message_channel": "INAPP",
+    "message_experiment_properties": [
+      {
+        "key": "multi_objective_selection",
+        "value": "NO_CHANGE"
+      },
+      {
+        "key": "call_uplift_proxy",
+        "value": "CALL_AND_USE"
+      },
+      {
+        "key": "optimize_in_app_frequency",
+        "value": "ALWAYS_SEND"
+      }
+    ],
+    "message_filter_reason": null,
+    "message_holdouts": [
+    ],
+    "message_locale": "es-419",
+    "message_message_id": "136347",
+    "message_module_channel": "EXISTINGUSER_INAPP",
+    "message_ppc_action": null,
+    "message_priority": 13,
+    "message_product": "PREMIUM",
+    "message_rank": 0,
+    "message_region": "us-central1",
+    "message_reorder_occurred": false,
+    "message_request_index": 0,
+    "message_stages": [
+      {
+        "key": "NewUserProtectionStage",
+        "value": "false"
+      },
+      {
+        "key": "InAppNewUserUpliftStage",
+        "value": "false"
+      },
+      {
+        "key": "MultiObjectiveSelectionStage",
+        "value": "false"
+      },
+      {
+        "key": "FrequencyModelStage",
+        "value": "false"
+      },
+      {
+        "key": "PushEmailPulRankingStage",
+        "value": "false"
+      },
+      {
+        "key": "SalemRankingModelStage",
+        "value": "false"
+      },
+      {
+        "key": "MultiChannelStage",
+        "value": "false"
+      },
+      {
+        "key": "InAppPulRankingStage",
+        "value": "false"
+      },
+      {
+        "key": "InAppExistingUserUpliftStage",
+        "value": "true"
+      },
+      {
+        "key": "ProductPromotionCoordinatorStage",
+        "value": "false"
+      },
+      {
+        "key": "PushEmailNewUserProtectionStage",
+        "value": "false"
+      }
+    ],
+    "message_uplift_variant": "true"
+  },
+  {
+    "timestamp_utc": "2024-03-14T20:33:55.799Z",
+    "context_time": 1710448435799,
+    "message_business_metric": "MAU",
+    "message_business_metric_sub_category": "",
+    "message_campaign_id": "80457",
+    "message_channel": "INAPP",
+    "message_experiment_properties": [
+      {
+        "key": "multi_objective_selection",
+        "value": "NO_CHANGE"
+      },
+      {
+        "key": "call_uplift_proxy",
+        "value": "CALL_AND_USE"
+      },
+      {
+        "key": "optimize_in_app_frequency",
+        "value": "ALWAYS_SEND"
+      }
+    ],
+    "message_filter_reason": null,
+    "message_holdouts": [
+    ],
+    "message_locale": "es-419",
+    "message_message_id": "136347",
+    "message_module_channel": "EXISTINGUSER_INAPP",
+    "message_ppc_action": null,
+    "message_priority": 13,
+    "message_product": "PREMIUM",
+    "message_rank": 0,
+    "message_region": "us-central1",
+    "message_reorder_occurred": false,
+    "message_request_index": 0,
+    "message_stages": [
+      {
+        "key": "NewUserProtectionStage",
+        "value": "false"
+      },
+      {
+        "key": "InAppNewUserUpliftStage",
+        "value": "false"
+      },
+      {
+        "key": "MultiObjectiveSelectionStage",
+        "value": "false"
+      },
+      {
+        "key": "FrequencyModelStage",
+        "value": "false"
+      },
+      {
+        "key": "PushEmailPulRankingStage",
+        "value": "false"
+      },
+      {
+        "key": "SalemRankingModelStage",
+        "value": "false"
+      },
+      {
+        "key": "MultiChannelStage",
+        "value": "false"
+      },
+      {
+        "key": "InAppPulRankingStage",
+        "value": "false"
+      },
+      {
+        "key": "InAppExistingUserUpliftStage",
+        "value": "true"
+      },
+      {
+        "key": "ProductPromotionCoordinatorStage",
+        "value": "false"
+      },
+      {
+        "key": "PushEmailNewUserProtectionStage",
+        "value": "false"
+      }
+    ],
+    "message_uplift_variant": "true"
+  },
+  {
+    "timestamp_utc": "2024-05-08T02:03:05.951Z",
+    "context_time": 1715133785951,
+    "message_business_metric": "Consumption",
+    "message_business_metric_sub_category": "",
+    "message_campaign_id": "82267",
+    "message_channel": "INAPP",
+    "message_experiment_properties": [
+      {
+        "key": "multi_objective_selection",
+        "value": "NO_CHANGE"
+      },
+      {
+        "key": "inapp_frequency_model_strategy",
+        "value": "MODEL"
+      },
+      {
+        "key": "call_uplift_proxy",
+        "value": "NO_CALL"
+      },
+      {
+        "key": "optimize_in_app_frequency",
+        "value": "APPLY_OPTIMIZATION"
+      }
+    ],
+    "message_filter_reason": "FREQUENCY_OPTIMIZATION_MODEL",
+    "message_holdouts": [
+    ],
+    "message_locale": "es-419",
+    "message_message_id": "144353",
+    "message_module_channel": "EXISTINGUSER_INAPP",
+    "message_ppc_action": null,
+    "message_priority": 13,
+    "message_product": "PREMIUM",
+    "message_rank": 0,
+    "message_region": "us-central1",
+    "message_reorder_occurred": false,
+    "message_request_index": 0,
+    "message_stages": [
+      {
+        "key": "NewUserProtectionStage",
+        "value": "false"
+      },
+      {
+        "key": "InAppNewUserUpliftStage",
+        "value": "false"
+      },
+      {
+        "key": "MultiObjectiveSelectionStage",
+        "value": "false"
+      },
+      {
+        "key": "FrequencyModelStage",
+        "value": "true"
+      },
+      {
+        "key": "PushEmailPulRankingStage",
+        "value": "false"
+      },
+      {
+        "key": "SalemRankingModelStage",
+        "value": "false"
+      },
+      {
+        "key": "InAppPulRankingStage",
+        "value": "false"
+      },
+      {
+        "key": "InAppExistingUserUpliftStage",
+        "value": "false"
+      },
+      {
+        "key": "ProductPromotionCoordinatorStage",
+        "value": "false"
+      },
+      {
+        "key": "PushEmailNewUserProtectionStage",
+        "value": "false"
+      }
+    ],
+    "message_uplift_variant": "false"
+  },
+  {
+    "timestamp_utc": "2024-03-14T15:16:57.999Z",
+    "context_time": 1710429417999,
+    "message_business_metric": "MAU",
+    "message_business_metric_sub_category": "",
+    "message_campaign_id": "80457",
+    "message_channel": "INAPP",
+    "message_experiment_properties": [
+      {
+        "key": "multi_objective_selection",
+        "value": "NO_CHANGE"
+      },
+      {
+        "key": "call_uplift_proxy",
+        "value": "CALL_AND_USE"
+      },
+      {
+        "key": "optimize_in_app_frequency",
+        "value": "ALWAYS_SEND"
+      }
+    ],
+    "message_filter_reason": null,
+    "message_holdouts": [
+    ],
+    "message_locale": "es-419",
+    "message_message_id": "136347",
+    "message_module_channel": "EXISTINGUSER_INAPP",
+    "message_ppc_action": null,
+    "message_priority": 13,
+    "message_product": "PREMIUM",
+    "message_rank": 0,
+    "message_region": "us-central1",
+    "message_reorder_occurred": false,
+    "message_request_index": 0,
+    "message_stages": [
+      {
+        "key": "NewUserProtectionStage",
+        "value": "false"
+      },
+      {
+        "key": "InAppNewUserUpliftStage",
+        "value": "false"
+      },
+      {
+        "key": "MultiObjectiveSelectionStage",
+        "value": "false"
+      },
+      {
+        "key": "FrequencyModelStage",
+        "value": "false"
+      },
+      {
+        "key": "PushEmailPulRankingStage",
+        "value": "false"
+      },
+      {
+        "key": "SalemRankingModelStage",
+        "value": "false"
+      },
+      {
+        "key": "MultiChannelStage",
+        "value": "false"
+      },
+      {
+        "key": "InAppPulRankingStage",
+        "value": "false"
+      },
+      {
+        "key": "InAppExistingUserUpliftStage",
+        "value": "true"
+      },
+      {
+        "key": "ProductPromotionCoordinatorStage",
+        "value": "false"
+      },
+      {
+        "key": "PushEmailNewUserProtectionStage",
+        "value": "false"
+      }
+    ],
+    "message_uplift_variant": "true"
+  },
+  {
+    "timestamp_utc": "2024-03-27T14:04:47.818Z",
+    "context_time": 1711548287818,
+    "message_business_metric": "Consumption",
+    "message_business_metric_sub_category": "",
+    "message_campaign_id": "73097",
+    "message_channel": "PUSH",
+    "message_experiment_properties": [
+    ],
+    "message_filter_reason": null,
+    "message_holdouts": [
+    ],
+    "message_locale": "en",
+    "message_message_id": "139799",
+    "message_module_channel": "ENGAGEMENT_PUSH",
+    "message_ppc_action": null,
+    "message_priority": 1,
+    "message_product": "PREMIUM",
+    "message_rank": 0,
+    "message_region": "asia-east1",
+    "message_reorder_occurred": false,
+    "message_request_index": 0,
+    "message_stages": [
+      {
+        "key": "NewUserProtectionStage",
+        "value": "false"
+      },
+      {
+        "key": "InAppNewUserUpliftStage",
+        "value": "false"
+      },
+      {
+        "key": "MultiObjectiveSelectionStage",
+        "value": "false"
+      },
+      {
+        "key": "FrequencyModelStage",
+        "value": "false"
+      },
+      {
+        "key": "PushEmailPulRankingStage",
+        "value": "false"
+      },
+      {
+        "key": "SalemRankingModelStage",
+        "value": "false"
+      },
+      {
+        "key": "MultiChannelStage",
+        "value": "false"
+      },
+      {
+        "key": "InAppPulRankingStage",
+        "value": "false"
+      },
+      {
+        "key": "InAppExistingUserUpliftStage",
+        "value": "false"
+      },
+      {
+        "key": "ProductPromotionCoordinatorStage",
+        "value": "false"
+      },
+      {
+        "key": "PushEmailNewUserProtectionStage",
+        "value": "false"
+      }
+    ],
+    "message_uplift_variant": "false"
+  },
+  {
+    "timestamp_utc": "2024-03-19T15:58:04.971Z",
+    "context_time": 1710863884971,
+    "message_business_metric": "Consumption",
+    "message_business_metric_sub_category": "",
+    "message_campaign_id": "73097",
+    "message_channel": "PUSH",
+    "message_experiment_properties": [
+    ],
+    "message_filter_reason": null,
+    "message_holdouts": [
+    ],
+    "message_locale": "en",
+    "message_message_id": "139799",
+    "message_module_channel": "ENGAGEMENT_PUSH",
+    "message_ppc_action": null,
+    "message_priority": 1,
+    "message_product": "PREMIUM",
+    "message_rank": 0,
+    "message_region": "us-central1",
+    "message_reorder_occurred": false,
+    "message_request_index": 0,
+    "message_stages": [
+      {
+        "key": "NewUserProtectionStage",
+        "value": "false"
+      },
+      {
+        "key": "InAppNewUserUpliftStage",
+        "value": "false"
+      },
+      {
+        "key": "MultiObjectiveSelectionStage",
+        "value": "false"
+      },
+      {
+        "key": "FrequencyModelStage",
+        "value": "false"
+      },
+      {
+        "key": "PushEmailPulRankingStage",
+        "value": "false"
+      },
+      {
+        "key": "SalemRankingModelStage",
+        "value": "false"
+      },
+      {
+        "key": "MultiChannelStage",
+        "value": "false"
+      },
+      {
+        "key": "InAppPulRankingStage",
+        "value": "false"
+      },
+      {
+        "key": "InAppExistingUserUpliftStage",
+        "value": "false"
+      },
+      {
+        "key": "ProductPromotionCoordinatorStage",
+        "value": "false"
+      },
+      {
+        "key": "PushEmailNewUserProtectionStage",
+        "value": "false"
+      }
+    ],
+    "message_uplift_variant": "false"
+  },
+  {
+    "timestamp_utc": "2024-05-10T23:40:31.190Z",
+    "context_time": 1715384431190,
+    "message_business_metric": "Consumption",
+    "message_business_metric_sub_category": "",
+    "message_campaign_id": "82267",
+    "message_channel": "INAPP",
+    "message_experiment_properties": [
+      {
+        "key": "multi_objective_selection",
+        "value": "NO_CHANGE"
+      },
+      {
+        "key": "inapp_frequency_model_strategy",
+        "value": "MODEL"
+      },
+      {
+        "key": "call_uplift_proxy",
+        "value": "NO_CALL"
+      },
+      {
+        "key": "optimize_in_app_frequency",
+        "value": "APPLY_OPTIMIZATION"
+      }
+    ],
+    "message_filter_reason": "FREQUENCY_OPTIMIZATION_MODEL",
+    "message_holdouts": [
+    ],
+    "message_locale": "es-419",
+    "message_message_id": "144353",
+    "message_module_channel": "EXISTINGUSER_INAPP",
+    "message_ppc_action": null,
+    "message_priority": 13,
+    "message_product": "PREMIUM",
+    "message_rank": 0,
+    "message_region": "us-central1",
+    "message_reorder_occurred": false,
+    "message_request_index": 0,
+    "message_stages": [
+      {
+        "key": "NewUserProtectionStage",
+        "value": "false"
+      },
+      {
+        "key": "InAppNewUserUpliftStage",
+        "value": "false"
+      },
+      {
+        "key": "MultiObjectiveSelectionStage",
+        "value": "false"
+      },
+      {
+        "key": "FrequencyModelStage",
+        "value": "true"
+      },
+      {
+        "key": "PushEmailPulRankingStage",
+        "value": "false"
+      },
+      {
+        "key": "SalemRankingModelStage",
+        "value": "false"
+      },
+      {
+        "key": "InAppPulRankingStage",
+        "value": "false"
+      },
+      {
+        "key": "InAppExistingUserUpliftStage",
+        "value": "false"
+      },
+      {
+        "key": "ProductPromotionCoordinatorStage",
+        "value": "false"
+      },
+      {
+        "key": "PushEmailNewUserProtectionStage",
+        "value": "false"
+      }
+    ],
+    "message_uplift_variant": "false"
+  },
+  {
+    "timestamp_utc": "2024-05-07T21:27:44.141Z",
+    "context_time": 1715117264141,
+    "message_business_metric": "Consumption",
+    "message_business_metric_sub_category": "",
+    "message_campaign_id": "82267",
+    "message_channel": "INAPP",
+    "message_experiment_properties": [
+      {
+        "key": "multi_objective_selection",
+        "value": "NO_CHANGE"
+      },
+      {
+        "key": "inapp_frequency_model_strategy",
+        "value": "MODEL"
+      },
+      {
+        "key": "call_uplift_proxy",
+        "value": "NO_CALL"
+      },
+      {
+        "key": "optimize_in_app_frequency",
+        "value": "APPLY_OPTIMIZATION"
+      }
+    ],
+    "message_filter_reason": "FREQUENCY_OPTIMIZATION_MODEL",
+    "message_holdouts": [
+    ],
+    "message_locale": "es-419",
+    "message_message_id": "144353",
+    "message_module_channel": "EXISTINGUSER_INAPP",
+    "message_ppc_action": null,
+    "message_priority": 13,
+    "message_product": "PREMIUM",
+    "message_rank": 0,
+    "message_region": "us-central1",
+    "message_reorder_occurred": false,
+    "message_request_index": 0,
+    "message_stages": [
+      {
+        "key": "NewUserProtectionStage",
+        "value": "false"
+      },
+      {
+        "key": "InAppNewUserUpliftStage",
+        "value": "false"
+      },
+      {
+        "key": "MultiObjectiveSelectionStage",
+        "value": "false"
+      },
+      {
+        "key": "FrequencyModelStage",
+        "value": "true"
+      },
+      {
+        "key": "PushEmailPulRankingStage",
+        "value": "false"
+      },
+      {
+        "key": "SalemRankingModelStage",
+        "value": "false"
+      },
+      {
+        "key": "InAppPulRankingStage",
+        "value": "false"
+      },
+      {
+        "key": "InAppExistingUserUpliftStage",
+        "value": "false"
+      },
+      {
+        "key": "ProductPromotionCoordinatorStage",
+        "value": "false"
+      },
+      {
+        "key": "PushEmailNewUserProtectionStage",
+        "value": "false"
+      }
+    ],
+    "message_uplift_variant": "false"
+  },
+  {
+    "timestamp_utc": "2024-03-19T15:58:44.423Z",
+    "context_time": 1710863924423,
+    "message_business_metric": "Consumption",
+    "message_business_metric_sub_category": "",
+    "message_campaign_id": "73097",
+    "message_channel": "PUSH",
+    "message_experiment_properties": [
+    ],
+    "message_filter_reason": null,
+    "message_holdouts": [
+    ],
+    "message_locale": "en",
+    "message_message_id": "139799",
+    "message_module_channel": "ENGAGEMENT_PUSH",
+    "message_ppc_action": null,
+    "message_priority": 1,
+    "message_product": "PREMIUM",
+    "message_rank": 0,
+    "message_region": "us-central1",
+    "message_reorder_occurred": false,
+    "message_request_index": 0,
+    "message_stages": [
+      {
+        "key": "NewUserProtectionStage",
+        "value": "false"
+      },
+      {
+        "key": "InAppNewUserUpliftStage",
+        "value": "false"
+      },
+      {
+        "key": "MultiObjectiveSelectionStage",
+        "value": "false"
+      },
+      {
+        "key": "FrequencyModelStage",
+        "value": "false"
+      },
+      {
+        "key": "PushEmailPulRankingStage",
+        "value": "false"
+      },
+      {
+        "key": "SalemRankingModelStage",
+        "value": "false"
+      },
+      {
+        "key": "MultiChannelStage",
+        "value": "false"
+      },
+      {
+        "key": "InAppPulRankingStage",
+        "value": "false"
+      },
+      {
+        "key": "InAppExistingUserUpliftStage",
+        "value": "false"
+      },
+      {
+        "key": "ProductPromotionCoordinatorStage",
+        "value": "false"
+      },
+      {
+        "key": "PushEmailNewUserProtectionStage",
+        "value": "false"
+      }
+    ],
+    "message_uplift_variant": "false"
+  },
+  {
+    "timestamp_utc": "2024-03-19T16:00:21.881Z",
+    "context_time": 1710864021881,
+    "message_business_metric": "Consumption",
+    "message_business_metric_sub_category": "",
+    "message_campaign_id": "73097",
+    "message_channel": "PUSH",
+    "message_experiment_properties": [
+    ],
+    "message_filter_reason": null,
+    "message_holdouts": [
+    ],
+    "message_locale": "en",
+    "message_message_id": "139799",
+    "message_module_channel": "ENGAGEMENT_PUSH",
+    "message_ppc_action": null,
+    "message_priority": 1,
+    "message_product": "PREMIUM",
+    "message_rank": 0,
+    "message_region": "us-central1",
+    "message_reorder_occurred": false,
+    "message_request_index": 0,
+    "message_stages": [
+      {
+        "key": "NewUserProtectionStage",
+        "value": "false"
+      },
+      {
+        "key": "InAppNewUserUpliftStage",
+        "value": "false"
+      },
+      {
+        "key": "MultiObjectiveSelectionStage",
+        "value": "false"
+      },
+      {
+        "key": "FrequencyModelStage",
+        "value": "false"
+      },
+      {
+        "key": "PushEmailPulRankingStage",
+        "value": "false"
+      },
+      {
+        "key": "SalemRankingModelStage",
+        "value": "false"
+      },
+      {
+        "key": "MultiChannelStage",
+        "value": "false"
+      },
+      {
+        "key": "InAppPulRankingStage",
+        "value": "false"
+      },
+      {
+        "key": "InAppExistingUserUpliftStage",
+        "value": "false"
+      },
+      {
+        "key": "ProductPromotionCoordinatorStage",
+        "value": "false"
+      },
+      {
+        "key": "PushEmailNewUserProtectionStage",
+        "value": "false"
+      }
+    ],
+    "message_uplift_variant": "false"
+  },
+  {
+    "timestamp_utc": "2024-05-09T13:19:56.152Z",
+    "context_time": 1715260796152,
+    "message_business_metric": "Consumption",
+    "message_business_metric_sub_category": "",
+    "message_campaign_id": "82267",
+    "message_channel": "INAPP",
+    "message_experiment_properties": [
+      {
+        "key": "multi_objective_selection",
+        "value": "NO_CHANGE"
+      },
+      {
+        "key": "inapp_frequency_model_strategy",
+        "value": "MODEL"
+      },
+      {
+        "key": "call_uplift_proxy",
+        "value": "NO_CALL"
+      },
+      {
+        "key": "optimize_in_app_frequency",
+        "value": "APPLY_OPTIMIZATION"
+      }
+    ],
+    "message_filter_reason": "FREQUENCY_OPTIMIZATION_MODEL",
+    "message_holdouts": [
+    ],
+    "message_locale": "es-419",
+    "message_message_id": "144353",
+    "message_module_channel": "EXISTINGUSER_INAPP",
+    "message_ppc_action": null,
+    "message_priority": 13,
+    "message_product": "PREMIUM",
+    "message_rank": 0,
+    "message_region": "us-central1",
+    "message_reorder_occurred": false,
+    "message_request_index": 0,
+    "message_stages": [
+      {
+        "key": "NewUserProtectionStage",
+        "value": "false"
+      },
+      {
+        "key": "InAppNewUserUpliftStage",
+        "value": "false"
+      },
+      {
+        "key": "MultiObjectiveSelectionStage",
+        "value": "false"
+      },
+      {
+        "key": "FrequencyModelStage",
+        "value": "true"
+      },
+      {
+        "key": "PushEmailPulRankingStage",
+        "value": "false"
+      },
+      {
+        "key": "SalemRankingModelStage",
+        "value": "false"
+      },
+      {
+        "key": "InAppPulRankingStage",
+        "value": "false"
+      },
+      {
+        "key": "InAppExistingUserUpliftStage",
+        "value": "false"
+      },
+      {
+        "key": "ProductPromotionCoordinatorStage",
+        "value": "false"
+      },
+      {
+        "key": "PushEmailNewUserProtectionStage",
+        "value": "false"
+      }
+    ],
+    "message_uplift_variant": "false"
+  },
+  {
+    "timestamp_utc": "2024-05-10T15:54:59Z",
+    "context_time": 1715356499000,
+    "message_business_metric": "Consumption",
+    "message_business_metric_sub_category": "",
+    "message_campaign_id": "82267",
+    "message_channel": "INAPP",
+    "message_experiment_properties": [
+      {
+        "key": "multi_objective_selection",
+        "value": "NO_CHANGE"
+      },
+      {
+        "key": "inapp_frequency_model_strategy",
+        "value": "MODEL"
+      },
+      {
+        "key": "call_uplift_proxy",
+        "value": "NO_CALL"
+      },
+      {
+        "key": "optimize_in_app_frequency",
+        "value": "APPLY_OPTIMIZATION"
+      }
+    ],
+    "message_filter_reason": "FREQUENCY_OPTIMIZATION_MODEL",
+    "message_holdouts": [
+    ],
+    "message_locale": "es-419",
+    "message_message_id": "144353",
+    "message_module_channel": "EXISTINGUSER_INAPP",
+    "message_ppc_action": null,
+    "message_priority": 13,
+    "message_product": "PREMIUM",
+    "message_rank": 0,
+    "message_region": "us-central1",
+    "message_reorder_occurred": false,
+    "message_request_index": 0,
+    "message_stages": [
+      {
+        "key": "NewUserProtectionStage",
+        "value": "false"
+      },
+      {
+        "key": "InAppNewUserUpliftStage",
+        "value": "false"
+      },
+      {
+        "key": "MultiObjectiveSelectionStage",
+        "value": "false"
+      },
+      {
+        "key": "FrequencyModelStage",
+        "value": "true"
+      },
+      {
+        "key": "PushEmailPulRankingStage",
+        "value": "false"
+      },
+      {
+        "key": "SalemRankingModelStage",
+        "value": "false"
+      },
+      {
+        "key": "InAppPulRankingStage",
+        "value": "false"
+      },
+      {
+        "key": "InAppExistingUserUpliftStage",
+        "value": "false"
+      },
+      {
+        "key": "ProductPromotionCoordinatorStage",
+        "value": "false"
+      },
+      {
+        "key": "PushEmailNewUserProtectionStage",
+        "value": "false"
+      }
+    ],
+    "message_uplift_variant": "false"
+  },
+  {
+    "timestamp_utc": "2024-04-04T20:49:21.453Z",
+    "context_time": 1712263761453,
+    "message_business_metric": "Consumption",
+    "message_business_metric_sub_category": "",
+    "message_campaign_id": "73097",
+    "message_channel": "PUSH",
+    "message_experiment_properties": [
+    ],
+    "message_filter_reason": null,
+    "message_holdouts": [
+    ],
+    "message_locale": "en",
+    "message_message_id": "139799",
+    "message_module_channel": "ENGAGEMENT_PUSH",
+    "message_ppc_action": null,
+    "message_priority": 1,
+    "message_product": "PREMIUM",
+    "message_rank": 0,
+    "message_region": "asia-east1",
+    "message_reorder_occurred": false,
+    "message_request_index": 0,
+    "message_stages": [
+      {
+        "key": "NewUserProtectionStage",
+        "value": "false"
+      },
+      {
+        "key": "InAppNewUserUpliftStage",
+        "value": "false"
+      },
+      {
+        "key": "MultiObjectiveSelectionStage",
+        "value": "false"
+      },
+      {
+        "key": "FrequencyModelStage",
+        "value": "false"
+      },
+      {
+        "key": "PushEmailPulRankingStage",
+        "value": "false"
+      },
+      {
+        "key": "SalemRankingModelStage",
+        "value": "false"
+      },
+      {
+        "key": "InAppPulRankingStage",
+        "value": "false"
+      },
+      {
+        "key": "InAppExistingUserUpliftStage",
+        "value": "false"
+      },
+      {
+        "key": "ProductPromotionCoordinatorStage",
+        "value": "false"
+      },
+      {
+        "key": "PushEmailNewUserProtectionStage",
+        "value": "false"
+      }
+    ],
+    "message_uplift_variant": "false"
+  },
+  {
+    "timestamp_utc": "2024-03-14T18:15:07.925Z",
+    "context_time": 1710440107925,
+    "message_business_metric": "MAU",
+    "message_business_metric_sub_category": "",
+    "message_campaign_id": "80457",
+    "message_channel": "INAPP",
+    "message_experiment_properties": [
+      {
+        "key": "multi_objective_selection",
+        "value": "NO_CHANGE"
+      },
+      {
+        "key": "call_uplift_proxy",
+        "value": "CALL_AND_USE"
+      },
+      {
+        "key": "optimize_in_app_frequency",
+        "value": "ALWAYS_SEND"
+      }
+    ],
+    "message_filter_reason": null,
+    "message_holdouts": [
+    ],
+    "message_locale": "es-419",
+    "message_message_id": "136347",
+    "message_module_channel": "EXISTINGUSER_INAPP",
+    "message_ppc_action": null,
+    "message_priority": 13,
+    "message_product": "PREMIUM",
+    "message_rank": 0,
+    "message_region": "us-central1",
+    "message_reorder_occurred": false,
+    "message_request_index": 0,
+    "message_stages": [
+      {
+        "key": "NewUserProtectionStage",
+        "value": "false"
+      },
+      {
+        "key": "InAppNewUserUpliftStage",
+        "value": "false"
+      },
+      {
+        "key": "MultiObjectiveSelectionStage",
+        "value": "false"
+      },
+      {
+        "key": "FrequencyModelStage",
+        "value": "false"
+      },
+      {
+        "key": "PushEmailPulRankingStage",
+        "value": "false"
+      },
+      {
+        "key": "SalemRankingModelStage",
+        "value": "false"
+      },
+      {
+        "key": "MultiChannelStage",
+        "value": "false"
+      },
+      {
+        "key": "InAppPulRankingStage",
+        "value": "false"
+      },
+      {
+        "key": "InAppExistingUserUpliftStage",
+        "value": "true"
+      },
+      {
+        "key": "ProductPromotionCoordinatorStage",
+        "value": "false"
+      },
+      {
+        "key": "PushEmailNewUserProtectionStage",
+        "value": "false"
+      }
+    ],
+    "message_uplift_variant": "true"
+  },
+  {
+    "timestamp_utc": "2024-05-15T17:05:52.381Z",
+    "context_time": 1715792752381,
+    "message_business_metric": "Non recurring revenue",
+    "message_business_metric_sub_category": "Concert Tickets",
+    "message_campaign_id": "68399",
+    "message_channel": "EMAIL",
+    "message_experiment_properties": [
+    ],
+    "message_filter_reason": null,
+    "message_holdouts": [
+    ],
+    "message_locale": "es-419",
+    "message_message_id": "120249",
+    "message_module_channel": "ENGAGEMENT_EMAIL",
+    "message_ppc_action": null,
+    "message_priority": 9,
+    "message_product": "PREMIUM",
+    "message_rank": 0,
+    "message_region": "us-central1",
+    "message_reorder_occurred": false,
+    "message_request_index": 0,
+    "message_stages": [
+      {
+        "key": "NewUserProtectionStage",
+        "value": "false"
+      },
+      {
+        "key": "InAppNewUserUpliftStage",
+        "value": "false"
+      },
+      {
+        "key": "MultiObjectiveSelectionStage",
+        "value": "false"
+      },
+      {
+        "key": "FrequencyModelStage",
+        "value": "false"
+      },
+      {
+        "key": "SalemRankingModelStage",
+        "value": "false"
+      },
+      {
+        "key": "InAppExistingUserUpliftStage",
+        "value": "false"
+      },
+      {
+        "key": "ProductPromotionCoordinatorStage",
+        "value": "false"
+      },
+      {
+        "key": "PushEmailNewUserProtectionStage",
+        "value": "false"
+      },
+      {
+        "key": "PulRankingStage",
+        "value": "false"
+      }
+    ],
+    "message_uplift_variant": "false"
+  },
+  {
+    "timestamp_utc": "2024-05-10T20:51:32.049Z",
+    "context_time": 1715374292049,
+    "message_business_metric": "Consumption",
+    "message_business_metric_sub_category": "",
+    "message_campaign_id": "82267",
+    "message_channel": "INAPP",
+    "message_experiment_properties": [
+      {
+        "key": "multi_objective_selection",
+        "value": "NO_CHANGE"
+      },
+      {
+        "key": "inapp_frequency_model_strategy",
+        "value": "MODEL"
+      },
+      {
+        "key": "call_uplift_proxy",
+        "value": "NO_CALL"
+      },
+      {
+        "key": "optimize_in_app_frequency",
+        "value": "APPLY_OPTIMIZATION"
+      }
+    ],
+    "message_filter_reason": "FREQUENCY_OPTIMIZATION_MODEL",
+    "message_holdouts": [
+    ],
+    "message_locale": "es-419",
+    "message_message_id": "144353",
+    "message_module_channel": "EXISTINGUSER_INAPP",
+    "message_ppc_action": null,
+    "message_priority": 13,
+    "message_product": "PREMIUM",
+    "message_rank": 0,
+    "message_region": "us-central1",
+    "message_reorder_occurred": false,
+    "message_request_index": 0,
+    "message_stages": [
+      {
+        "key": "NewUserProtectionStage",
+        "value": "false"
+      },
+      {
+        "key": "InAppNewUserUpliftStage",
+        "value": "false"
+      },
+      {
+        "key": "MultiObjectiveSelectionStage",
+        "value": "false"
+      },
+      {
+        "key": "FrequencyModelStage",
+        "value": "true"
+      },
+      {
+        "key": "PushEmailPulRankingStage",
+        "value": "false"
+      },
+      {
+        "key": "SalemRankingModelStage",
+        "value": "false"
+      },
+      {
+        "key": "InAppPulRankingStage",
+        "value": "false"
+      },
+      {
+        "key": "InAppExistingUserUpliftStage",
+        "value": "false"
+      },
+      {
+        "key": "ProductPromotionCoordinatorStage",
+        "value": "false"
+      },
+      {
+        "key": "PushEmailNewUserProtectionStage",
+        "value": "false"
+      }
+    ],
+    "message_uplift_variant": "false"
+  },
+  {
+    "timestamp_utc": "2024-05-07T19:59:18.721Z",
+    "context_time": 1715111958721,
+    "message_business_metric": "Consumption",
+    "message_business_metric_sub_category": "",
+    "message_campaign_id": "82267",
+    "message_channel": "INAPP",
+    "message_experiment_properties": [
+      {
+        "key": "multi_objective_selection",
+        "value": "NO_CHANGE"
+      },
+      {
+        "key": "inapp_frequency_model_strategy",
+        "value": "MODEL"
+      },
+      {
+        "key": "call_uplift_proxy",
+        "value": "NO_CALL"
+      },
+      {
+        "key": "optimize_in_app_frequency",
+        "value": "APPLY_OPTIMIZATION"
+      }
+    ],
+    "message_filter_reason": "FREQUENCY_OPTIMIZATION_MODEL",
+    "message_holdouts": [
+    ],
+    "message_locale": "es-419",
+    "message_message_id": "144353",
+    "message_module_channel": "EXISTINGUSER_INAPP",
+    "message_ppc_action": null,
+    "message_priority": 13,
+    "message_product": "PREMIUM",
+    "message_rank": 0,
+    "message_region": "us-central1",
+    "message_reorder_occurred": false,
+    "message_request_index": 0,
+    "message_stages": [
+      {
+        "key": "NewUserProtectionStage",
+        "value": "false"
+      },
+      {
+        "key": "InAppNewUserUpliftStage",
+        "value": "false"
+      },
+      {
+        "key": "MultiObjectiveSelectionStage",
+        "value": "false"
+      },
+      {
+        "key": "FrequencyModelStage",
+        "value": "true"
+      },
+      {
+        "key": "PushEmailPulRankingStage",
+        "value": "false"
+      },
+      {
+        "key": "SalemRankingModelStage",
+        "value": "false"
+      },
+      {
+        "key": "InAppPulRankingStage",
+        "value": "false"
+      },
+      {
+        "key": "InAppExistingUserUpliftStage",
+        "value": "false"
+      },
+      {
+        "key": "ProductPromotionCoordinatorStage",
+        "value": "false"
+      },
+      {
+        "key": "PushEmailNewUserProtectionStage",
+        "value": "false"
+      }
+    ],
+    "message_uplift_variant": "false"
+  },
+  {
+    "timestamp_utc": "2024-03-19T15:57:27.754Z",
+    "context_time": 1710863847754,
+    "message_business_metric": "Consumption",
+    "message_business_metric_sub_category": "",
+    "message_campaign_id": "73097",
+    "message_channel": "PUSH",
+    "message_experiment_properties": [
+    ],
+    "message_filter_reason": null,
+    "message_holdouts": [
+    ],
+    "message_locale": "en",
+    "message_message_id": "139799",
+    "message_module_channel": "ENGAGEMENT_PUSH",
+    "message_ppc_action": null,
+    "message_priority": 1,
+    "message_product": "PREMIUM",
+    "message_rank": 0,
+    "message_region": "us-central1",
+    "message_reorder_occurred": false,
+    "message_request_index": 0,
+    "message_stages": [
+      {
+        "key": "NewUserProtectionStage",
+        "value": "false"
+      },
+      {
+        "key": "InAppNewUserUpliftStage",
+        "value": "false"
+      },
+      {
+        "key": "MultiObjectiveSelectionStage",
+        "value": "false"
+      },
+      {
+        "key": "FrequencyModelStage",
+        "value": "false"
+      },
+      {
+        "key": "PushEmailPulRankingStage",
+        "value": "false"
+      },
+      {
+        "key": "SalemRankingModelStage",
+        "value": "false"
+      },
+      {
+        "key": "MultiChannelStage",
+        "value": "false"
+      },
+      {
+        "key": "InAppPulRankingStage",
+        "value": "false"
+      },
+      {
+        "key": "InAppExistingUserUpliftStage",
+        "value": "false"
+      },
+      {
+        "key": "ProductPromotionCoordinatorStage",
+        "value": "false"
+      },
+      {
+        "key": "PushEmailNewUserProtectionStage",
+        "value": "false"
+      }
+    ],
+    "message_uplift_variant": "false"
+  },
+  {
+    "timestamp_utc": "2024-03-14T15:16:57.989Z",
+    "context_time": 1710429417989,
+    "message_business_metric": "MAU",
+    "message_business_metric_sub_category": "",
+    "message_campaign_id": "80457",
+    "message_channel": "INAPP",
+    "message_experiment_properties": [
+      {
+        "key": "multi_objective_selection",
+        "value": "NO_CHANGE"
+      },
+      {
+        "key": "call_uplift_proxy",
+        "value": "CALL_AND_USE"
+      },
+      {
+        "key": "optimize_in_app_frequency",
+        "value": "ALWAYS_SEND"
+      }
+    ],
+    "message_filter_reason": null,
+    "message_holdouts": [
+    ],
+    "message_locale": "es-419",
+    "message_message_id": "136347",
+    "message_module_channel": "EXISTINGUSER_INAPP",
+    "message_ppc_action": null,
+    "message_priority": 13,
+    "message_product": "PREMIUM",
+    "message_rank": 0,
+    "message_region": "us-central1",
+    "message_reorder_occurred": false,
+    "message_request_index": 0,
+    "message_stages": [
+      {
+        "key": "NewUserProtectionStage",
+        "value": "false"
+      },
+      {
+        "key": "InAppNewUserUpliftStage",
+        "value": "false"
+      },
+      {
+        "key": "MultiObjectiveSelectionStage",
+        "value": "false"
+      },
+      {
+        "key": "FrequencyModelStage",
+        "value": "false"
+      },
+      {
+        "key": "PushEmailPulRankingStage",
+        "value": "false"
+      },
+      {
+        "key": "SalemRankingModelStage",
+        "value": "false"
+      },
+      {
+        "key": "MultiChannelStage",
+        "value": "false"
+      },
+      {
+        "key": "InAppPulRankingStage",
+        "value": "false"
+      },
+      {
+        "key": "InAppExistingUserUpliftStage",
+        "value": "true"
+      },
+      {
+        "key": "ProductPromotionCoordinatorStage",
+        "value": "false"
+      },
+      {
+        "key": "PushEmailNewUserProtectionStage",
+        "value": "false"
+      }
+    ],
+    "message_uplift_variant": "true"
+  },
+  {
+    "timestamp_utc": "2024-04-30T22:04:27.554Z",
+    "context_time": 1714514667554,
+    "message_business_metric": "Non recurring revenue",
+    "message_business_metric_sub_category": "Concert Tickets",
+    "message_campaign_id": "68399",
+    "message_channel": "EMAIL",
+    "message_experiment_properties": [
+    ],
+    "message_filter_reason": null,
+    "message_holdouts": [
+    ],
+    "message_locale": "es-419",
+    "message_message_id": "120220",
+    "message_module_channel": "ENGAGEMENT_EMAIL",
+    "message_ppc_action": null,
+    "message_priority": 9,
+    "message_product": "PREMIUM",
+    "message_rank": 0,
+    "message_region": "europe-west1",
+    "message_reorder_occurred": false,
+    "message_request_index": 0,
+    "message_stages": [
+      {
+        "key": "NewUserProtectionStage",
+        "value": "false"
+      },
+      {
+        "key": "InAppNewUserUpliftStage",
+        "value": "false"
+      },
+      {
+        "key": "MultiObjectiveSelectionStage",
+        "value": "false"
+      },
+      {
+        "key": "FrequencyModelStage",
+        "value": "false"
+      },
+      {
+        "key": "PushEmailPulRankingStage",
+        "value": "false"
+      },
+      {
+        "key": "SalemRankingModelStage",
+        "value": "false"
+      },
+      {
+        "key": "InAppPulRankingStage",
+        "value": "false"
+      },
+      {
+        "key": "InAppExistingUserUpliftStage",
+        "value": "false"
+      },
+      {
+        "key": "ProductPromotionCoordinatorStage",
+        "value": "false"
+      },
+      {
+        "key": "PushEmailNewUserProtectionStage",
+        "value": "false"
+      }
+    ],
+    "message_uplift_variant": "false"
+  },
+  {
+    "timestamp_utc": "2024-05-08T17:03:29.101Z",
+    "context_time": 1715187809101,
+    "message_business_metric": "Non recurring revenue",
+    "message_business_metric_sub_category": "Concert Tickets",
+    "message_campaign_id": "68399",
+    "message_channel": "EMAIL",
+    "message_experiment_properties": [
+    ],
+    "message_filter_reason": null,
+    "message_holdouts": [
+    ],
+    "message_locale": "es-419",
+    "message_message_id": "120220",
+    "message_module_channel": "ENGAGEMENT_EMAIL",
+    "message_ppc_action": null,
+    "message_priority": 9,
+    "message_product": "PREMIUM",
+    "message_rank": 0,
+    "message_region": "europe-west1",
+    "message_reorder_occurred": false,
+    "message_request_index": 0,
+    "message_stages": [
+      {
+        "key": "NewUserProtectionStage",
+        "value": "false"
+      },
+      {
+        "key": "InAppNewUserUpliftStage",
+        "value": "false"
+      },
+      {
+        "key": "MultiObjectiveSelectionStage",
+        "value": "false"
+      },
+      {
+        "key": "FrequencyModelStage",
+        "value": "false"
+      },
+      {
+        "key": "PushEmailPulRankingStage",
+        "value": "false"
+      },
+      {
+        "key": "SalemRankingModelStage",
+        "value": "false"
+      },
+      {
+        "key": "InAppPulRankingStage",
+        "value": "false"
+      },
+      {
+        "key": "InAppExistingUserUpliftStage",
+        "value": "false"
+      },
+      {
+        "key": "ProductPromotionCoordinatorStage",
+        "value": "false"
+      },
+      {
+        "key": "PushEmailNewUserProtectionStage",
+        "value": "false"
+      }
+    ],
+    "message_uplift_variant": "false"
+  },
+  {
+    "timestamp_utc": "2024-05-11T19:57:53.025Z",
+    "context_time": 1715457473025,
+    "message_business_metric": "Consumption",
+    "message_business_metric_sub_category": "",
+    "message_campaign_id": "82267",
+    "message_channel": "INAPP",
+    "message_experiment_properties": [
+      {
+        "key": "multi_objective_selection",
+        "value": "NO_CHANGE"
+      },
+      {
+        "key": "inapp_frequency_model_strategy",
+        "value": "MODEL"
+      },
+      {
+        "key": "call_uplift_proxy",
+        "value": "NO_CALL"
+      },
+      {
+        "key": "optimize_in_app_frequency",
+        "value": "APPLY_OPTIMIZATION"
+      }
+    ],
+    "message_filter_reason": null,
+    "message_holdouts": [
+    ],
+    "message_locale": "es-419",
+    "message_message_id": "144353",
+    "message_module_channel": "EXISTINGUSER_INAPP",
+    "message_ppc_action": null,
+    "message_priority": 13,
+    "message_product": "PREMIUM",
+    "message_rank": 0,
+    "message_region": "us-central1",
+    "message_reorder_occurred": false,
+    "message_request_index": 0,
+    "message_stages": [
+      {
+        "key": "NewUserProtectionStage",
+        "value": "false"
+      },
+      {
+        "key": "InAppNewUserUpliftStage",
+        "value": "false"
+      },
+      {
+        "key": "MultiObjectiveSelectionStage",
+        "value": "false"
+      },
+      {
+        "key": "FrequencyModelStage",
+        "value": "true"
+      },
+      {
+        "key": "PushEmailPulRankingStage",
+        "value": "false"
+      },
+      {
+        "key": "SalemRankingModelStage",
+        "value": "false"
+      },
+      {
+        "key": "InAppPulRankingStage",
+        "value": "false"
+      },
+      {
+        "key": "InAppExistingUserUpliftStage",
+        "value": "false"
+      },
+      {
+        "key": "ProductPromotionCoordinatorStage",
+        "value": "false"
+      },
+      {
+        "key": "PushEmailNewUserProtectionStage",
+        "value": "false"
+      }
+    ],
+    "message_uplift_variant": "false"
+  },
+  {
+    "timestamp_utc": "2024-05-10T00:11:40.419Z",
+    "context_time": 1715299900419,
+    "message_business_metric": "Consumption",
+    "message_business_metric_sub_category": "",
+    "message_campaign_id": "82267",
+    "message_channel": "INAPP",
+    "message_experiment_properties": [
+      {
+        "key": "multi_objective_selection",
+        "value": "NO_CHANGE"
+      },
+      {
+        "key": "inapp_frequency_model_strategy",
+        "value": "MODEL"
+      },
+      {
+        "key": "call_uplift_proxy",
+        "value": "NO_CALL"
+      },
+      {
+        "key": "optimize_in_app_frequency",
+        "value": "APPLY_OPTIMIZATION"
+      }
+    ],
+    "message_filter_reason": "FREQUENCY_OPTIMIZATION_MODEL",
+    "message_holdouts": [
+    ],
+    "message_locale": "es-419",
+    "message_message_id": "144353",
+    "message_module_channel": "EXISTINGUSER_INAPP",
+    "message_ppc_action": null,
+    "message_priority": 13,
+    "message_product": "PREMIUM",
+    "message_rank": 0,
+    "message_region": "us-central1",
+    "message_reorder_occurred": false,
+    "message_request_index": 0,
+    "message_stages": [
+      {
+        "key": "NewUserProtectionStage",
+        "value": "false"
+      },
+      {
+        "key": "InAppNewUserUpliftStage",
+        "value": "false"
+      },
+      {
+        "key": "MultiObjectiveSelectionStage",
+        "value": "false"
+      },
+      {
+        "key": "FrequencyModelStage",
+        "value": "true"
+      },
+      {
+        "key": "PushEmailPulRankingStage",
+        "value": "false"
+      },
+      {
+        "key": "SalemRankingModelStage",
+        "value": "false"
+      },
+      {
+        "key": "InAppPulRankingStage",
+        "value": "false"
+      },
+      {
+        "key": "InAppExistingUserUpliftStage",
+        "value": "false"
+      },
+      {
+        "key": "ProductPromotionCoordinatorStage",
+        "value": "false"
+      },
+      {
+        "key": "PushEmailNewUserProtectionStage",
+        "value": "false"
+      }
+    ],
+    "message_uplift_variant": "false"
+  },
+  {
+    "timestamp_utc": "2024-03-16T11:21:39.050Z",
+    "context_time": 1710588099050,
+    "message_business_metric": "MAU",
+    "message_business_metric_sub_category": "",
+    "message_campaign_id": "80452",
+    "message_channel": "PUSH",
+    "message_experiment_properties": [
+    ],
+    "message_filter_reason": null,
+    "message_holdouts": [
+    ],
+    "message_locale": "en",
+    "message_message_id": "136311",
+    "message_module_channel": "ENGAGEMENT_PUSH",
+    "message_ppc_action": null,
+    "message_priority": 13,
+    "message_product": "PREMIUM",
+    "message_rank": 0,
+    "message_region": "us-central1",
+    "message_reorder_occurred": false,
+    "message_request_index": 0,
+    "message_stages": [
+      {
+        "key": "NewUserProtectionStage",
+        "value": "false"
+      },
+      {
+        "key": "InAppNewUserUpliftStage",
+        "value": "false"
+      },
+      {
+        "key": "MultiObjectiveSelectionStage",
+        "value": "false"
+      },
+      {
+        "key": "FrequencyModelStage",
+        "value": "false"
+      },
+      {
+        "key": "PushEmailPulRankingStage",
+        "value": "false"
+      },
+      {
+        "key": "SalemRankingModelStage",
+        "value": "false"
+      },
+      {
+        "key": "MultiChannelStage",
+        "value": "false"
+      },
+      {
+        "key": "InAppPulRankingStage",
+        "value": "false"
+      },
+      {
+        "key": "InAppExistingUserUpliftStage",
+        "value": "false"
+      },
+      {
+        "key": "ProductPromotionCoordinatorStage",
+        "value": "false"
+      },
+      {
+        "key": "PushEmailNewUserProtectionStage",
+        "value": "false"
+      }
+    ],
+    "message_uplift_variant": "false"
+  },
+  {
+    "timestamp_utc": "2024-05-08T21:48:39.402Z",
+    "context_time": 1715204919402,
+    "message_business_metric": "Consumption",
+    "message_business_metric_sub_category": "",
+    "message_campaign_id": "82267",
+    "message_channel": "INAPP",
+    "message_experiment_properties": [
+      {
+        "key": "multi_objective_selection",
+        "value": "NO_CHANGE"
+      },
+      {
+        "key": "inapp_frequency_model_strategy",
+        "value": "MODEL"
+      },
+      {
+        "key": "call_uplift_proxy",
+        "value": "NO_CALL"
+      },
+      {
+        "key": "optimize_in_app_frequency",
+        "value": "APPLY_OPTIMIZATION"
+      }
+    ],
+    "message_filter_reason": "FREQUENCY_OPTIMIZATION_MODEL",
+    "message_holdouts": [
+    ],
+    "message_locale": "es-419",
+    "message_message_id": "144353",
+    "message_module_channel": "EXISTINGUSER_INAPP",
+    "message_ppc_action": null,
+    "message_priority": 13,
+    "message_product": "PREMIUM",
+    "message_rank": 0,
+    "message_region": "us-central1",
+    "message_reorder_occurred": false,
+    "message_request_index": 0,
+    "message_stages": [
+      {
+        "key": "NewUserProtectionStage",
+        "value": "false"
+      },
+      {
+        "key": "InAppNewUserUpliftStage",
+        "value": "false"
+      },
+      {
+        "key": "MultiObjectiveSelectionStage",
+        "value": "false"
+      },
+      {
+        "key": "FrequencyModelStage",
+        "value": "true"
+      },
+      {
+        "key": "PushEmailPulRankingStage",
+        "value": "false"
+      },
+      {
+        "key": "SalemRankingModelStage",
+        "value": "false"
+      },
+      {
+        "key": "InAppPulRankingStage",
+        "value": "false"
+      },
+      {
+        "key": "InAppExistingUserUpliftStage",
+        "value": "false"
+      },
+      {
+        "key": "ProductPromotionCoordinatorStage",
+        "value": "false"
+      },
+      {
+        "key": "PushEmailNewUserProtectionStage",
+        "value": "false"
+      }
+    ],
+    "message_uplift_variant": "false"
+  },
+  {
+    "timestamp_utc": "2024-03-14T18:15:07.943Z",
+    "context_time": 1710440107943,
+    "message_business_metric": "MAU",
+    "message_business_metric_sub_category": "",
+    "message_campaign_id": "80457",
+    "message_channel": "INAPP",
+    "message_experiment_properties": [
+      {
+        "key": "multi_objective_selection",
+        "value": "NO_CHANGE"
+      },
+      {
+        "key": "call_uplift_proxy",
+        "value": "CALL_AND_USE"
+      },
+      {
+        "key": "optimize_in_app_frequency",
+        "value": "ALWAYS_SEND"
+      }
+    ],
+    "message_filter_reason": null,
+    "message_holdouts": [
+    ],
+    "message_locale": "es-419",
+    "message_message_id": "136347",
+    "message_module_channel": "EXISTINGUSER_INAPP",
+    "message_ppc_action": null,
+    "message_priority": 13,
+    "message_product": "PREMIUM",
+    "message_rank": 0,
+    "message_region": "us-central1",
+    "message_reorder_occurred": false,
+    "message_request_index": 0,
+    "message_stages": [
+      {
+        "key": "NewUserProtectionStage",
+        "value": "false"
+      },
+      {
+        "key": "InAppNewUserUpliftStage",
+        "value": "false"
+      },
+      {
+        "key": "MultiObjectiveSelectionStage",
+        "value": "false"
+      },
+      {
+        "key": "FrequencyModelStage",
+        "value": "false"
+      },
+      {
+        "key": "PushEmailPulRankingStage",
+        "value": "false"
+      },
+      {
+        "key": "SalemRankingModelStage",
+        "value": "false"
+      },
+      {
+        "key": "MultiChannelStage",
+        "value": "false"
+      },
+      {
+        "key": "InAppPulRankingStage",
+        "value": "false"
+      },
+      {
+        "key": "InAppExistingUserUpliftStage",
+        "value": "true"
+      },
+      {
+        "key": "ProductPromotionCoordinatorStage",
+        "value": "false"
+      },
+      {
+        "key": "PushEmailNewUserProtectionStage",
+        "value": "false"
+      }
+    ],
+    "message_uplift_variant": "true"
+  },
+  {
+    "timestamp_utc": "2024-04-26T10:05:42.633Z",
+    "context_time": 1714125942633,
+    "message_business_metric": "Consumption",
+    "message_business_metric_sub_category": "",
+    "message_campaign_id": "73097",
+    "message_channel": "PUSH",
+    "message_experiment_properties": [
+    ],
+    "message_filter_reason": null,
+    "message_holdouts": [
+    ],
+    "message_locale": "en",
+    "message_message_id": "111046",
+    "message_module_channel": "ENGAGEMENT_PUSH",
+    "message_ppc_action": null,
+    "message_priority": 1,
+    "message_product": "PREMIUM",
+    "message_rank": 0,
+    "message_region": "asia-east1",
+    "message_reorder_occurred": false,
+    "message_request_index": 0,
+    "message_stages": [
+      {
+        "key": "NewUserProtectionStage",
+        "value": "false"
+      },
+      {
+        "key": "InAppNewUserUpliftStage",
+        "value": "false"
+      },
+      {
+        "key": "MultiObjectiveSelectionStage",
+        "value": "false"
+      },
+      {
+        "key": "FrequencyModelStage",
+        "value": "false"
+      },
+      {
+        "key": "PushEmailPulRankingStage",
+        "value": "false"
+      },
+      {
+        "key": "SalemRankingModelStage",
+        "value": "false"
+      },
+      {
+        "key": "InAppPulRankingStage",
+        "value": "false"
+      },
+      {
+        "key": "InAppExistingUserUpliftStage",
+        "value": "false"
+      },
+      {
+        "key": "ProductPromotionCoordinatorStage",
+        "value": "false"
+      },
+      {
+        "key": "PushEmailNewUserProtectionStage",
+        "value": "false"
+      }
+    ],
+    "message_uplift_variant": "false"
+  },
+  {
+    "timestamp_utc": "2024-04-05T11:24:52.870Z",
+    "context_time": 1712316292870,
+    "message_business_metric": "Consumption",
+    "message_business_metric_sub_category": "",
+    "message_campaign_id": "73097",
+    "message_channel": "PUSH",
+    "message_experiment_properties": [
+    ],
+    "message_filter_reason": null,
+    "message_holdouts": [
+    ],
+    "message_locale": "en",
+    "message_message_id": "139799",
+    "message_module_channel": "ENGAGEMENT_PUSH",
+    "message_ppc_action": null,
+    "message_priority": 1,
+    "message_product": "PREMIUM",
+    "message_rank": 0,
+    "message_region": "europe-west1",
+    "message_reorder_occurred": false,
+    "message_request_index": 0,
+    "message_stages": [
+      {
+        "key": "NewUserProtectionStage",
+        "value": "false"
+      },
+      {
+        "key": "InAppNewUserUpliftStage",
+        "value": "false"
+      },
+      {
+        "key": "MultiObjectiveSelectionStage",
+        "value": "false"
+      },
+      {
+        "key": "FrequencyModelStage",
+        "value": "false"
+      },
+      {
+        "key": "PushEmailPulRankingStage",
+        "value": "false"
+      },
+      {
+        "key": "SalemRankingModelStage",
+        "value": "false"
+      },
+      {
+        "key": "InAppPulRankingStage",
+        "value": "false"
+      },
+      {
+        "key": "InAppExistingUserUpliftStage",
+        "value": "false"
+      },
+      {
+        "key": "ProductPromotionCoordinatorStage",
+        "value": "false"
+      },
+      {
+        "key": "PushEmailNewUserProtectionStage",
+        "value": "false"
+      }
+    ],
+    "message_uplift_variant": "false"
+  },
+  {
+    "timestamp_utc": "2024-05-06T17:32:13.610Z",
+    "context_time": 1715016733610,
+    "message_business_metric": "Consumption",
+    "message_business_metric_sub_category": "",
+    "message_campaign_id": "82267",
+    "message_channel": "INAPP",
+    "message_experiment_properties": [
+      {
+        "key": "multi_objective_selection",
+        "value": "NO_CHANGE"
+      },
+      {
+        "key": "inapp_frequency_model_strategy",
+        "value": "MODEL"
+      },
+      {
+        "key": "call_uplift_proxy",
+        "value": "NO_CALL"
+      },
+      {
+        "key": "optimize_in_app_frequency",
+        "value": "APPLY_OPTIMIZATION"
+      }
+    ],
+    "message_filter_reason": "FREQUENCY_OPTIMIZATION_MODEL",
+    "message_holdouts": [
+    ],
+    "message_locale": "es-419",
+    "message_message_id": "144353",
+    "message_module_channel": "EXISTINGUSER_INAPP",
+    "message_ppc_action": null,
+    "message_priority": 13,
+    "message_product": "PREMIUM",
+    "message_rank": 0,
+    "message_region": "us-central1",
+    "message_reorder_occurred": false,
+    "message_request_index": 0,
+    "message_stages": [
+      {
+        "key": "NewUserProtectionStage",
+        "value": "false"
+      },
+      {
+        "key": "InAppNewUserUpliftStage",
+        "value": "false"
+      },
+      {
+        "key": "MultiObjectiveSelectionStage",
+        "value": "false"
+      },
+      {
+        "key": "FrequencyModelStage",
+        "value": "true"
+      },
+      {
+        "key": "PushEmailPulRankingStage",
+        "value": "false"
+      },
+      {
+        "key": "SalemRankingModelStage",
+        "value": "false"
+      },
+      {
+        "key": "InAppPulRankingStage",
+        "value": "false"
+      },
+      {
+        "key": "InAppExistingUserUpliftStage",
+        "value": "false"
+      },
+      {
+        "key": "ProductPromotionCoordinatorStage",
+        "value": "false"
+      },
+      {
+        "key": "PushEmailNewUserProtectionStage",
+        "value": "false"
+      }
+    ],
+    "message_uplift_variant": "false"
+  },
+  {
+    "timestamp_utc": "2024-03-19T15:59:26.761Z",
+    "context_time": 1710863966761,
+    "message_business_metric": "Consumption",
+    "message_business_metric_sub_category": "",
+    "message_campaign_id": "73097",
+    "message_channel": "PUSH",
+    "message_experiment_properties": [
+    ],
+    "message_filter_reason": null,
+    "message_holdouts": [
+    ],
+    "message_locale": "en",
+    "message_message_id": "139799",
+    "message_module_channel": "ENGAGEMENT_PUSH",
+    "message_ppc_action": null,
+    "message_priority": 1,
+    "message_product": "PREMIUM",
+    "message_rank": 0,
+    "message_region": "us-central1",
+    "message_reorder_occurred": false,
+    "message_request_index": 0,
+    "message_stages": [
+      {
+        "key": "NewUserProtectionStage",
+        "value": "false"
+      },
+      {
+        "key": "InAppNewUserUpliftStage",
+        "value": "false"
+      },
+      {
+        "key": "MultiObjectiveSelectionStage",
+        "value": "false"
+      },
+      {
+        "key": "FrequencyModelStage",
+        "value": "false"
+      },
+      {
+        "key": "PushEmailPulRankingStage",
+        "value": "false"
+      },
+      {
+        "key": "SalemRankingModelStage",
+        "value": "false"
+      },
+      {
+        "key": "MultiChannelStage",
+        "value": "false"
+      },
+      {
+        "key": "InAppPulRankingStage",
+        "value": "false"
+      },
+      {
+        "key": "InAppExistingUserUpliftStage",
+        "value": "false"
+      },
+      {
+        "key": "ProductPromotionCoordinatorStage",
+        "value": "false"
+      },
+      {
+        "key": "PushEmailNewUserProtectionStage",
+        "value": "false"
+      }
+    ],
+    "message_uplift_variant": "false"
+  }
+]

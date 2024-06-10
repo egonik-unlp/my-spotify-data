@@ -1,0 +1,23 @@
+[
+  {
+    "timestamp_utc": "2024-06-02T21:24:40.605Z",
+    "context_application_version": "8.9.44.368",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1717363482802,
+    "context_time": 1717363480605,
+    "message_etag": "",
+    "message_expiry": null,
+    "message_method": "metadata_refresh",
+    "message_playback_id": "c9U/zoe1uNuxCMGL5k7qvQ==",
+    "message_prev_etag": "",
+    "message_prev_expiry": 0,
+    "message_reason": "no_files_available",
+    "message_status": "metadata_not_expired",
+    "message_track": "spotify:track:0wMditvMpFP9aYzW3kDWnw"
+  }
+]

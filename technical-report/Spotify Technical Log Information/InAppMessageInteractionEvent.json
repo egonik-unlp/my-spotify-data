@@ -1,0 +1,17 @@
+[
+  {
+    "timestamp_utc": "2024-03-15T02:54:10.300Z",
+    "context_application_version": "8.9.20.574",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1710471271848,
+    "context_time": 1710471250300,
+    "message_action_type": "URL",
+    "message_client_timestamp": null,
+    "message_uuid": "91721777-865c-4ac8-ac00-af1520ce2692"
+  }
+]

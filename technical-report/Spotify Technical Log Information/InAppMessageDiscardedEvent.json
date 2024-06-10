@@ -1,0 +1,20 @@
+[
+  {
+    "timestamp_utc": "2024-03-14T20:33:56.615Z",
+    "context_application_version": "8.9.20.574",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1710448438648,
+    "context_time": 1710448436615,
+    "message_creative_id": "17780541",
+    "message_message_format": "CARDS",
+    "message_reason": "CONTEXT_SWITCHED",
+    "message_trigger_pattern": "spotify:home",
+    "message_trigger_type": "URI",
+    "message_uuid": "4ed683c0-e11f-40ad-82e5-b0df5558a7f9"
+  }
+]

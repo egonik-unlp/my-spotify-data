@@ -1,0 +1,53 @@
+[
+  {
+    "timestamp_utc": "2024-04-26T10:17:08.896Z",
+    "context_application_version": "8.9.34.590",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1714128370947,
+    "context_time": 1714126628896,
+    "message_app_device_id": "c5e5ef51-915b-35a0-a23e-b0cbd33a4b78",
+    "message_campaign_id": "111046",
+    "message_error_reason": null,
+    "message_push_id": "c072e892-e05f-4d3f-8dc6-3eb28eab07ec",
+    "message_timestamp_ms": 1714126628896
+  },
+  {
+    "timestamp_utc": "2024-04-05T11:27:30.300Z",
+    "context_application_version": "8.9.26.592",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1712316457728,
+    "context_time": 1712316450300,
+    "message_app_device_id": "c5e5ef51-915b-35a0-a23e-b0cbd33a4b78",
+    "message_campaign_id": "139799",
+    "message_error_reason": null,
+    "message_push_id": "14e7f750-e4aa-4bfc-b898-bb4b4c164fd7",
+    "message_timestamp_ms": 1712316450299
+  },
+  {
+    "timestamp_utc": "2024-04-30T16:08:00.282Z",
+    "context_application_version": "8.9.34.590",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1714493650035,
+    "context_time": 1714493280282,
+    "message_app_device_id": "c5e5ef51-915b-35a0-a23e-b0cbd33a4b78",
+    "message_campaign_id": "139799",
+    "message_error_reason": null,
+    "message_push_id": "5aa33c8a-6920-4ff1-8981-194b4f11772e",
+    "message_timestamp_ms": 1714493280282
+  }
+]

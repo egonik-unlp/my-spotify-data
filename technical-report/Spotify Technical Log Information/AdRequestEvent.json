@@ -1,0 +1,4296 @@
+[
+  {
+    "timestamp_utc": "2024-04-22T23:59:38.595Z",
+    "context_application_version": "8.9.32.624",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1713830399712,
+    "context_time": 1713830378595,
+    "message_feature_identifier": "cosmos_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 276,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-05-29T23:42:36.693Z",
+    "context_application_version": "8.9.42.575",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1717026181389,
+    "context_time": 1717026156693,
+    "message_feature_identifier": "cosmos_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 326,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-04-07T23:15:13.983Z",
+    "context_application_version": "8.9.26.592",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1712531744579,
+    "context_time": 1712531713983,
+    "message_feature_identifier": "cosmos_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 340,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-04-30T19:42:23.711Z",
+    "context_application_version": "8.9.34.590",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1714506148610,
+    "context_time": 1714506143711,
+    "message_feature_identifier": "cosmos_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 360,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-03-19T10:52:22.972Z",
+    "context_application_version": "8.9.22.539",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1710863290848,
+    "context_time": 1710845542972,
+    "message_feature_identifier": "cosmos_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 349,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-05-16T16:44:56.386Z",
+    "context_application_version": "8.9.40.509",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1715877910075,
+    "context_time": 1715877896386,
+    "message_feature_identifier": "cosmos_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 336,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-03-26T09:54:49.228Z",
+    "context_application_version": "8.9.24.633",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1711446921995,
+    "context_time": 1711446889228,
+    "message_feature_identifier": "cosmos_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 380,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-05-07T02:58:08.941Z",
+    "context_application_version": "8.9.36.616",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1715050705292,
+    "context_time": 1715050688941,
+    "message_feature_identifier": "cosmos_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 303,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-03-14T14:28:22.314Z",
+    "context_application_version": "8.9.20.574",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1710426510919,
+    "context_time": 1710426502314,
+    "message_feature_identifier": "cosmos_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 288,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-05-10T02:11:08.810Z",
+    "context_application_version": "8.9.36.616",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1715307072893,
+    "context_time": 1715307068810,
+    "message_feature_identifier": "cosmos_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 294,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-03-10T19:06:00.032Z",
+    "context_application_version": "8.9.20.574",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": null,
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1710097569013,
+    "context_time": 1710097560032,
+    "message_feature_identifier": "cosmos_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 392,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-06-06T01:53:52.494Z",
+    "context_application_version": "8.9.44.368",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1717638835328,
+    "context_time": 1717638832494,
+    "message_feature_identifier": "cosmos_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 318,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-06-05T23:15:52.357Z",
+    "context_application_version": "8.9.44.368",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1717629362240,
+    "context_time": 1717629352357,
+    "message_feature_identifier": "cosmos_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 310,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-04-24T15:18:03.005Z",
+    "context_application_version": "8.9.32.624",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1713971912719,
+    "context_time": 1713971883005,
+    "message_feature_identifier": "cosmos_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 382,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-04-08T12:33:27.483Z",
+    "context_application_version": "8.9.26.592",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1712579655572,
+    "context_time": 1712579607483,
+    "message_feature_identifier": "cosmos_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 988,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-04-02T21:32:31.409Z",
+    "context_application_version": "8.9.24.633",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1712093573259,
+    "context_time": 1712093551409,
+    "message_feature_identifier": "cosmos_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 372,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-05-07T21:27:43.807Z",
+    "context_application_version": "8.9.36.616",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1715117279357,
+    "context_time": 1715117263807,
+    "message_feature_identifier": "cosmos_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 406,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-03-17T02:58:57.338Z",
+    "context_application_version": "8.9.22.539",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1710644341558,
+    "context_time": 1710644337338,
+    "message_feature_identifier": "cosmos_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 351,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-03-14T16:00:48.232Z",
+    "context_application_version": "8.9.20.574",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1710432251220,
+    "context_time": 1710432048232,
+    "message_feature_identifier": "cosmos_slots",
+    "message_http_error_code": 8,
+    "message_latency_ms": 19366,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-03-17T02:56:38.278Z",
+    "context_application_version": "8.9.22.539",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1710644203841,
+    "context_time": 1710644198278,
+    "message_feature_identifier": "cosmos_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 333,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-05-20T19:28:10.199Z",
+    "context_application_version": "8.9.40.509",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1716233316665,
+    "context_time": 1716233290199,
+    "message_feature_identifier": "cosmos_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 556,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-03-14T18:15:07.809Z",
+    "context_application_version": "8.9.20.574",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1710440114921,
+    "context_time": 1710440107809,
+    "message_feature_identifier": "cosmos_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 345,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-03-17T02:58:47.299Z",
+    "context_application_version": "8.9.22.539",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1710644340131,
+    "context_time": 1710644327299,
+    "message_feature_identifier": "cosmos_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 314,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-04-27T13:30:01.252Z",
+    "context_application_version": "1.2.31.1205",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "Dell Inc.",
+    "context_device_model": "Inspiron 5559",
+    "context_device_type": "tablet",
+    "context_os_name": "linux",
+    "context_os_version": "6.1.85-1-MANJARO",
+    "context_receiver_service_timestamp": 1714224603537,
+    "context_time": 1714224601252,
+    "message_feature_identifier": "cosmos_ads",
+    "message_http_error_code": 0,
+    "message_latency_ms": 270,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "hpto"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-04-12T10:44:56.620Z",
+    "context_application_version": "8.9.30.433",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1712918699945,
+    "context_time": 1712918696620,
+    "message_feature_identifier": "cosmos_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 376,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-04-30T19:42:10.163Z",
+    "context_application_version": "8.9.34.590",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1714506148402,
+    "context_time": 1714506130163,
+    "message_feature_identifier": "cosmos_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 265,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-04-04T23:23:22.832Z",
+    "context_application_version": "8.9.26.592",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1712273026793,
+    "context_time": 1712273002832,
+    "message_feature_identifier": "cosmos_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 253,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-03-22T00:19:49.860Z",
+    "context_application_version": "8.9.22.539",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1711066795051,
+    "context_time": 1711066789860,
+    "message_feature_identifier": "cosmos_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 306,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-04-15T17:53:21.515Z",
+    "context_application_version": "8.9.30.433",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1713203618067,
+    "context_time": 1713203601515,
+    "message_feature_identifier": "cosmos_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 302,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-03-10T05:14:34.556Z",
+    "context_application_version": "1.2.26.1187",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "Dell Inc.",
+    "context_device_model": "Inspiron 5559",
+    "context_device_type": null,
+    "context_os_name": "linux",
+    "context_os_version": "6.1.69-1-MANJARO",
+    "context_receiver_service_timestamp": 1710047682351,
+    "context_time": 1710047674556,
+    "message_feature_identifier": "cosmos_ads",
+    "message_http_error_code": 0,
+    "message_latency_ms": 269,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "hpto"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-04-18T04:02:48.775Z",
+    "context_application_version": "8.9.30.433",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1713413308895,
+    "context_time": 1713412968775,
+    "message_feature_identifier": "cosmos_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 260,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-05-20T11:54:19.323Z",
+    "context_application_version": "8.9.40.509",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1716206064859,
+    "context_time": 1716206059323,
+    "message_feature_identifier": "cosmos_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 324,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-03-23T22:31:08.115Z",
+    "context_application_version": "8.9.24.633",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1711233111730,
+    "context_time": 1711233068115,
+    "message_feature_identifier": "cosmos_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 352,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-03-11T11:53:18.447Z",
+    "context_application_version": "8.9.20.574",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": null,
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1710158009939,
+    "context_time": 1710157998447,
+    "message_feature_identifier": "cosmos_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 278,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-05-29T01:55:27.639Z",
+    "context_application_version": "8.9.42.575",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1716947747832,
+    "context_time": 1716947727639,
+    "message_feature_identifier": "cosmos_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 226,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-05-12T03:52:56.586Z",
+    "context_application_version": "8.9.38.494",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1715485994286,
+    "context_time": 1715485976586,
+    "message_feature_identifier": "cosmos_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 288,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-03-27T11:17:09.132Z",
+    "context_application_version": "8.9.24.633",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1711538249504,
+    "context_time": 1711538229132,
+    "message_feature_identifier": "cosmos_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 337,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-04-25T23:36:22.433Z",
+    "context_application_version": "8.9.32.624",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1714088197297,
+    "context_time": 1714088182433,
+    "message_feature_identifier": "cosmos_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 357,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-04-10T18:55:14.908Z",
+    "context_application_version": "8.9.26.592",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1712775317454,
+    "context_time": 1712775314908,
+    "message_feature_identifier": "cosmos_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 252,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-04-23T00:06:01.701Z",
+    "context_application_version": "8.9.32.624",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1713830790643,
+    "context_time": 1713830761701,
+    "message_feature_identifier": "cosmos_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 336,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-03-15T12:32:30.561Z",
+    "context_application_version": "8.9.20.574",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1710505952992,
+    "context_time": 1710505950561,
+    "message_feature_identifier": "cosmos_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 394,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-03-11T11:53:24.080Z",
+    "context_application_version": "8.9.20.574",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": null,
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1710158010769,
+    "context_time": 1710158004080,
+    "message_feature_identifier": "cosmos_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 310,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-05-30T13:29:48.853Z",
+    "context_application_version": "8.9.42.575",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1717075810174,
+    "context_time": 1717075788853,
+    "message_feature_identifier": "cosmos_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 312,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-03-25T21:57:56.604Z",
+    "context_application_version": "8.9.24.633",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1711403901488,
+    "context_time": 1711403876604,
+    "message_feature_identifier": "cosmos_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 314,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-04-17T20:46:18.363Z",
+    "context_application_version": "8.9.30.433",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1713386801398,
+    "context_time": 1713386778363,
+    "message_feature_identifier": "cosmos_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 385,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-04-27T18:07:23.762Z",
+    "context_application_version": "8.9.34.590",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1714241244832,
+    "context_time": 1714241243762,
+    "message_feature_identifier": "cosmos_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 466,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-04-17T01:02:28.662Z",
+    "context_application_version": "8.9.30.433",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1713315777530,
+    "context_time": 1713315748662,
+    "message_feature_identifier": "cosmos_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 350,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-03-26T21:13:41.612Z",
+    "context_application_version": "8.9.24.633",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1711487633269,
+    "context_time": 1711487621612,
+    "message_feature_identifier": "cosmos_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 545,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-03-19T21:11:11.243Z",
+    "context_application_version": "8.9.22.539",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1710882748227,
+    "context_time": 1710882671243,
+    "message_feature_identifier": "cosmos_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 319,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-04-10T14:57:13.856Z",
+    "context_application_version": "8.9.26.592",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1712761044506,
+    "context_time": 1712761033856,
+    "message_feature_identifier": "cosmos_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 408,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-04-09T10:52:22.196Z",
+    "context_application_version": "8.9.26.592",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1712659964480,
+    "context_time": 1712659942196,
+    "message_feature_identifier": "cosmos_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 288,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-03-12T21:41:55.907Z",
+    "context_application_version": "8.9.20.574",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1710279727699,
+    "context_time": 1710279715907,
+    "message_feature_identifier": "cosmos_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 402,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-05-05T01:31:40.541Z",
+    "context_application_version": "8.9.36.616",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1714872724824,
+    "context_time": 1714872700541,
+    "message_feature_identifier": "cosmos_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 322,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-03-26T16:36:30.555Z",
+    "context_application_version": "8.9.24.633",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1711471028880,
+    "context_time": 1711470990555,
+    "message_feature_identifier": "cosmos_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 253,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-03-16T17:33:52.381Z",
+    "context_application_version": "8.9.22.539",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1710610440332,
+    "context_time": 1710610432381,
+    "message_feature_identifier": "cosmos_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 344,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-03-26T16:35:50.400Z",
+    "context_application_version": "8.9.24.633",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1711470969080,
+    "context_time": 1711470950400,
+    "message_feature_identifier": "cosmos_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 307,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-03-26T15:47:46.331Z",
+    "context_application_version": "8.9.24.633",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1711468116302,
+    "context_time": 1711468066331,
+    "message_feature_identifier": "cosmos_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 640,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-03-14T15:46:56.562Z",
+    "context_application_version": "8.9.20.574",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1710431224368,
+    "context_time": 1710431216562,
+    "message_feature_identifier": "cosmos_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 5631,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-06-06T01:51:51.097Z",
+    "context_application_version": "8.9.44.368",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1717638715303,
+    "context_time": 1717638711097,
+    "message_feature_identifier": "cosmos_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 292,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-05-10T00:19:56.315Z",
+    "context_application_version": "8.9.36.616",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1715300406945,
+    "context_time": 1715300396315,
+    "message_feature_identifier": "cosmos_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 308,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-03-11T14:01:49.530Z",
+    "context_application_version": "8.9.20.574",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": null,
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1710165729186,
+    "context_time": 1710165709530,
+    "message_feature_identifier": "cosmos_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 349,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-03-15T02:55:13.002Z",
+    "context_application_version": "8.9.20.574",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1710471332875,
+    "context_time": 1710471313002,
+    "message_feature_identifier": "cosmos_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 277,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-05-04T21:43:59.108Z",
+    "context_application_version": "8.9.36.616",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1714859049296,
+    "context_time": 1714859039108,
+    "message_feature_identifier": "cosmos_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 307,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-04-10T14:57:26.087Z",
+    "context_application_version": "8.9.26.592",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1712761073999,
+    "context_time": 1712761046087,
+    "message_feature_identifier": "cosmos_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 403,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-04-30T19:42:58.734Z",
+    "context_application_version": "8.9.34.590",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1714506207453,
+    "context_time": 1714506178734,
+    "message_feature_identifier": "cosmos_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 331,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-04-08T12:51:36.597Z",
+    "context_application_version": "8.9.26.592",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1712580705551,
+    "context_time": 1712580696597,
+    "message_feature_identifier": "cosmos_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 392,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-05-08T02:03:05.535Z",
+    "context_application_version": "8.9.36.616",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1715133806681,
+    "context_time": 1715133785535,
+    "message_feature_identifier": "cosmos_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 287,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-03-18T13:21:05.771Z",
+    "context_application_version": "8.9.22.539",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1710768092291,
+    "context_time": 1710768065771,
+    "message_feature_identifier": "cosmos_slots",
+    "message_http_error_code": 7,
+    "message_latency_ms": 10033,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-04-25T14:42:53.797Z",
+    "context_application_version": "1.2.31.1205",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "Dell Inc.",
+    "context_device_model": "Inspiron 5559",
+    "context_device_type": "tablet",
+    "context_os_name": "linux",
+    "context_os_version": "6.1.84-1-MANJARO",
+    "context_receiver_service_timestamp": 1714056176499,
+    "context_time": 1714056173797,
+    "message_feature_identifier": "cosmos_ads",
+    "message_http_error_code": 0,
+    "message_latency_ms": 417,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "hpto"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-03-09T22:24:59.339Z",
+    "context_application_version": "8.9.20.574",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": null,
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1710023112629,
+    "context_time": 1710023099339,
+    "message_feature_identifier": "cosmos_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 348,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-03-09T22:38:45.133Z",
+    "context_application_version": "8.9.20.574",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": null,
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1710023955331,
+    "context_time": 1710023925133,
+    "message_feature_identifier": "cosmos_slots",
+    "message_http_error_code": 8,
+    "message_latency_ms": 9497,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-03-24T00:20:02.545Z",
+    "context_application_version": "8.9.24.633",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1711239626390,
+    "context_time": 1711239602545,
+    "message_feature_identifier": "cosmos_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 526,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-05-10T02:53:17.855Z",
+    "context_application_version": "8.9.36.616",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1715309614860,
+    "context_time": 1715309597855,
+    "message_feature_identifier": "cosmos_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 264,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-03-26T15:47:43.391Z",
+    "context_application_version": "8.9.24.633",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1711468086427,
+    "context_time": 1711468063391,
+    "message_feature_identifier": "cosmos_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 269,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-04-15T18:15:00.524Z",
+    "context_application_version": "8.9.30.433",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1713205005563,
+    "context_time": 1713204900524,
+    "message_feature_identifier": "cosmos_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 317,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-03-09T19:20:41.233Z",
+    "context_application_version": "1.2.26.1187",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "Dell Inc.",
+    "context_device_model": "Inspiron 5559",
+    "context_device_type": null,
+    "context_os_name": "linux",
+    "context_os_version": "6.1.69-1-MANJARO",
+    "context_receiver_service_timestamp": 1710012042922,
+    "context_time": 1710012041233,
+    "message_feature_identifier": "cosmos_ads",
+    "message_http_error_code": 0,
+    "message_latency_ms": 253,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "hpto"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-05-20T19:32:21.810Z",
+    "context_application_version": "8.9.40.509",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1716233556672,
+    "context_time": 1716233541810,
+    "message_feature_identifier": "cosmos_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 373,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-04-10T19:11:40.005Z",
+    "context_application_version": "8.9.26.592",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1712776337465,
+    "context_time": 1712776300005,
+    "message_feature_identifier": "cosmos_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 327,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-04-02T22:27:53.949Z",
+    "context_application_version": "8.9.24.633",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1712096874201,
+    "context_time": 1712096873949,
+    "message_feature_identifier": "cosmos_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 274,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-05-01T14:57:03.879Z",
+    "context_application_version": "8.9.34.590",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1714575440801,
+    "context_time": 1714575423879,
+    "message_feature_identifier": "cosmos_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 380,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-05-10T03:13:41.865Z",
+    "context_application_version": "8.9.36.616",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1715310829180,
+    "context_time": 1715310821865,
+    "message_feature_identifier": "cosmos_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 260,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-04-21T02:49:23.215Z",
+    "context_application_version": "8.9.32.624",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1713667771993,
+    "context_time": 1713667763215,
+    "message_feature_identifier": "cosmos_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 276,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-04-25T11:14:35.285Z",
+    "context_application_version": "8.9.32.624",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1714043697857,
+    "context_time": 1714043675285,
+    "message_feature_identifier": "cosmos_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 377,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-04-30T21:01:58.316Z",
+    "context_application_version": "8.9.34.590",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1714510944486,
+    "context_time": 1714510918316,
+    "message_feature_identifier": "cosmos_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 749,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-05-10T03:06:39.046Z",
+    "context_application_version": "8.9.36.616",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1715310416531,
+    "context_time": 1715310399046,
+    "message_feature_identifier": "cosmos_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 324,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-03-17T02:58:50.681Z",
+    "context_application_version": "8.9.22.539",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1710644340887,
+    "context_time": 1710644330681,
+    "message_feature_identifier": "cosmos_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 277,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-04-10T14:57:05.964Z",
+    "context_application_version": "8.9.26.592",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1712761044506,
+    "context_time": 1712761025964,
+    "message_feature_identifier": "cosmos_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 351,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-03-22T18:46:04.674Z",
+    "context_application_version": "8.9.22.539",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1711133182091,
+    "context_time": 1711133164674,
+    "message_feature_identifier": "cosmos_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 376,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-04-22T19:17:57.224Z",
+    "context_application_version": "8.9.32.624",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1713813505321,
+    "context_time": 1713813477224,
+    "message_feature_identifier": "cosmos_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 455,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-03-12T21:12:06.310Z",
+    "context_application_version": "8.9.20.574",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1710277949472,
+    "context_time": 1710277926310,
+    "message_feature_identifier": "cosmos_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 637,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-03-15T02:57:18.803Z",
+    "context_application_version": "8.9.20.574",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1710471454155,
+    "context_time": 1710471438803,
+    "message_feature_identifier": "cosmos_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 250,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-03-24T00:19:58.248Z",
+    "context_application_version": "8.9.24.633",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1711239656008,
+    "context_time": 1711239598248,
+    "message_feature_identifier": "cosmos_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 411,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-05-04T01:28:12.703Z",
+    "context_application_version": "8.9.36.616",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1714786107424,
+    "context_time": 1714786092703,
+    "message_feature_identifier": "cosmos_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 265,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-04-16T10:21:33.972Z",
+    "context_application_version": "8.9.30.433",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1713262915149,
+    "context_time": 1713262893972,
+    "message_feature_identifier": "cosmos_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 397,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-03-15T02:55:05.164Z",
+    "context_application_version": "8.9.20.574",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1710471332009,
+    "context_time": 1710471305164,
+    "message_feature_identifier": "cosmos_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 296,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-06-05T23:15:23.848Z",
+    "context_application_version": "8.9.44.368",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1717629331927,
+    "context_time": 1717629323848,
+    "message_feature_identifier": "cosmos_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 339,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-04-16T19:15:24.853Z",
+    "context_application_version": "8.9.30.433",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1713294947848,
+    "context_time": 1713294924853,
+    "message_feature_identifier": "cosmos_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 373,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-03-14T15:17:11.660Z",
+    "context_application_version": "8.9.20.574",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1710430188708,
+    "context_time": 1710429431660,
+    "message_feature_identifier": "cosmos_slots",
+    "message_http_error_code": 7,
+    "message_latency_ms": 14140,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-05-01T11:40:22.705Z",
+    "context_application_version": "8.9.34.590",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1714563631940,
+    "context_time": 1714563622705,
+    "message_feature_identifier": "cosmos_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 315,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-04-18T04:28:36.456Z",
+    "context_application_version": "8.9.30.433",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1713414525493,
+    "context_time": 1713414516456,
+    "message_feature_identifier": "cosmos_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 242,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-05-06T17:36:14.948Z",
+    "context_application_version": "8.9.36.616",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1715017000482,
+    "context_time": 1715016974948,
+    "message_feature_identifier": "cosmos_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 328,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-03-15T10:51:01.997Z",
+    "context_application_version": "8.9.20.574",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1710499886727,
+    "context_time": 1710499861997,
+    "message_feature_identifier": "cosmos_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 823,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-05-03T22:26:35.990Z",
+    "context_application_version": "8.9.36.616",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1714775201683,
+    "context_time": 1714775195990,
+    "message_feature_identifier": "cosmos_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 284,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-04-12T10:49:02.811Z",
+    "context_application_version": "8.9.30.433",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1712918969994,
+    "context_time": 1712918942811,
+    "message_feature_identifier": "cosmos_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 419,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-04-25T20:33:00.591Z",
+    "context_application_version": "8.9.32.624",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1714077181495,
+    "context_time": 1714077180591,
+    "message_feature_identifier": "cosmos_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 381,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-03-10T02:59:07.698Z",
+    "context_application_version": "8.9.20.574",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": null,
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1710039550173,
+    "context_time": 1710039547698,
+    "message_feature_identifier": "cosmos_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 329,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-06-06T12:12:22.307Z",
+    "context_application_version": "8.9.46.426",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1717675956506,
+    "context_time": 1717675942307,
+    "message_feature_identifier": "cosmos_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 279,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-04-25T11:14:08.746Z",
+    "context_application_version": "8.9.32.624",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1714043668066,
+    "context_time": 1714043648746,
+    "message_feature_identifier": "cosmos_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 319,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-03-25T00:57:23.037Z",
+    "context_application_version": "8.9.24.633",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1711328266118,
+    "context_time": 1711328243037,
+    "message_feature_identifier": "cosmos_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 290,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-05-31T11:00:41.785Z",
+    "context_application_version": "8.9.44.368",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1717153247908,
+    "context_time": 1717153241785,
+    "message_feature_identifier": "cosmos_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 649,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-05-11T19:57:53.112Z",
+    "context_application_version": "8.9.38.494",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1715457493224,
+    "context_time": 1715457473112,
+    "message_feature_identifier": "cosmos_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 311,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-05-05T22:57:59.416Z",
+    "context_application_version": "8.9.36.616",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1714949909047,
+    "context_time": 1714949879416,
+    "message_feature_identifier": "cosmos_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 244,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-04-21T18:44:51.967Z",
+    "context_application_version": "8.9.32.624",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1713725096608,
+    "context_time": 1713725091967,
+    "message_feature_identifier": "cosmos_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 323,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-03-09T22:41:16.754Z",
+    "context_application_version": "8.9.20.574",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": null,
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1710024077443,
+    "context_time": 1710024076754,
+    "message_feature_identifier": "cosmos_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 324,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-05-12T00:10:09.480Z",
+    "context_application_version": "1.2.31.1205",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "Dell Inc.",
+    "context_device_model": "Inspiron 5559",
+    "context_device_type": "desktop",
+    "context_os_name": "linux",
+    "context_os_version": "6.1.85-1-MANJARO",
+    "context_receiver_service_timestamp": 1715472613885,
+    "context_time": 1715472609480,
+    "message_feature_identifier": "esperanto_ads",
+    "message_http_error_code": 0,
+    "message_latency_ms": 244,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "hpto"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-03-14T15:31:30.033Z",
+    "context_application_version": "8.9.20.574",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1710430342372,
+    "context_time": 1710430290033,
+    "message_feature_identifier": "cosmos_slots",
+    "message_http_error_code": 7,
+    "message_latency_ms": 10016,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-04-17T12:10:12.738Z",
+    "context_application_version": "1.2.31.1205",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "Dell Inc.",
+    "context_device_model": "Inspiron 5559",
+    "context_device_type": "tablet",
+    "context_os_name": "linux",
+    "context_os_version": "6.1.84-1-MANJARO",
+    "context_receiver_service_timestamp": 1713355825957,
+    "context_time": 1713355812738,
+    "message_feature_identifier": "cosmos_ads",
+    "message_http_error_code": 0,
+    "message_latency_ms": 204,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "hpto"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-05-05T16:24:17.858Z",
+    "context_application_version": "8.9.36.616",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1714926276813,
+    "context_time": 1714926257858,
+    "message_feature_identifier": "cosmos_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 354,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-03-11T14:57:55.327Z",
+    "context_application_version": "8.9.20.574",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": null,
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1710169093840,
+    "context_time": 1710169075327,
+    "message_feature_identifier": "cosmos_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 379,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-03-10T14:32:22.617Z",
+    "context_application_version": "1.2.26.1187",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "Dell Inc.",
+    "context_device_model": "Inspiron 5559",
+    "context_device_type": null,
+    "context_os_name": "linux",
+    "context_os_version": "6.1.69-1-MANJARO",
+    "context_receiver_service_timestamp": 1710081162376,
+    "context_time": 1710081142617,
+    "message_feature_identifier": "cosmos_ads",
+    "message_http_error_code": 0,
+    "message_latency_ms": 334,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "hpto"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-05-10T23:40:58.534Z",
+    "context_application_version": "8.9.38.494",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1715384488350,
+    "context_time": 1715384458534,
+    "message_feature_identifier": "cosmos_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 355,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-03-17T04:02:36.027Z",
+    "context_application_version": "8.9.22.539",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1710648169464,
+    "context_time": 1710648156027,
+    "message_feature_identifier": "cosmos_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 255,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-03-11T11:53:29.857Z",
+    "context_application_version": "8.9.20.574",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": null,
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1710158012311,
+    "context_time": 1710158009857,
+    "message_feature_identifier": "cosmos_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 289,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-04-21T18:47:09.644Z",
+    "context_application_version": "8.9.32.624",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1713725246137,
+    "context_time": 1713725229644,
+    "message_feature_identifier": "cosmos_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 336,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-05-02T00:57:43.458Z",
+    "context_application_version": "8.9.34.590",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1714611481010,
+    "context_time": 1714611463458,
+    "message_feature_identifier": "cosmos_slots",
+    "message_http_error_code": 33,
+    "message_latency_ms": 1155,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-03-14T15:38:02.072Z",
+    "context_application_version": "8.9.20.574",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1710430696193,
+    "context_time": 1710430682072,
+    "message_feature_identifier": "cosmos_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 711,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-04-21T02:48:52.481Z",
+    "context_application_version": "8.9.32.624",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1713667742284,
+    "context_time": 1713667732481,
+    "message_feature_identifier": "cosmos_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 364,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-03-28T19:57:03.836Z",
+    "context_application_version": "8.9.24.633",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1711655839050,
+    "context_time": 1711655823836,
+    "message_feature_identifier": "cosmos_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 386,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-05-04T21:19:53.998Z",
+    "context_application_version": "8.9.36.616",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1714857609069,
+    "context_time": 1714857593998,
+    "message_feature_identifier": "cosmos_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 290,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-05-12T03:23:16.472Z",
+    "context_application_version": "8.9.38.494",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1715484217084,
+    "context_time": 1715484196472,
+    "message_feature_identifier": "cosmos_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 325,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-04-09T17:47:15.643Z",
+    "context_application_version": "8.9.26.592",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1712684854984,
+    "context_time": 1712684835643,
+    "message_feature_identifier": "cosmos_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 282,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-05-10T02:30:46.276Z",
+    "context_application_version": "8.9.36.616",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1715308274084,
+    "context_time": 1715308246276,
+    "message_feature_identifier": "cosmos_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 277,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-03-17T03:53:24.803Z",
+    "context_application_version": "8.9.22.539",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1710647679999,
+    "context_time": 1710647604803,
+    "message_feature_identifier": "cosmos_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 254,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-04-08T17:01:27.262Z",
+    "context_application_version": "8.9.26.592",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1712595698704,
+    "context_time": 1712595687262,
+    "message_feature_identifier": "cosmos_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 361,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-05-06T17:36:42.903Z",
+    "context_application_version": "8.9.36.616",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1715017016226,
+    "context_time": 1715017002903,
+    "message_feature_identifier": "cosmos_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 409,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-03-10T14:31:59.065Z",
+    "context_application_version": "1.2.26.1187",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "Dell Inc.",
+    "context_device_model": "Inspiron 5559",
+    "context_device_type": null,
+    "context_os_name": "linux",
+    "context_os_version": "6.1.69-1-MANJARO",
+    "context_receiver_service_timestamp": 1710081132398,
+    "context_time": 1710081119065,
+    "message_feature_identifier": "cosmos_ads",
+    "message_http_error_code": 0,
+    "message_latency_ms": 283,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "hpto"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-03-21T11:37:26.261Z",
+    "context_application_version": "8.9.22.539",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1711021093550,
+    "context_time": 1711021046261,
+    "message_feature_identifier": "cosmos_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 326,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-04-20T22:46:24.468Z",
+    "context_application_version": "8.9.32.624",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1713653189635,
+    "context_time": 1713653184468,
+    "message_feature_identifier": "cosmos_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 255,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-04-25T12:52:13.922Z",
+    "context_application_version": "8.9.32.624",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1714050894974,
+    "context_time": 1714049533922,
+    "message_feature_identifier": "cosmos_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 4736,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-06-02T19:57:02.627Z",
+    "context_application_version": "8.9.44.368",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1717358248206,
+    "context_time": 1717358222627,
+    "message_feature_identifier": "cosmos_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 407,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-04-10T14:12:57.878Z",
+    "context_application_version": "8.9.26.592",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1712758421474,
+    "context_time": 1712758377878,
+    "message_feature_identifier": "cosmos_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 302,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-06-02T19:56:50.781Z",
+    "context_application_version": "8.9.44.368",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1717358218212,
+    "context_time": 1717358210781,
+    "message_feature_identifier": "cosmos_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 266,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-05-10T03:08:32.040Z",
+    "context_application_version": "8.9.36.616",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1715310518865,
+    "context_time": 1715310512040,
+    "message_feature_identifier": "cosmos_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 238,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-03-11T18:33:23.601Z",
+    "context_application_version": "8.9.20.574",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": null,
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1710182026603,
+    "context_time": 1710182003601,
+    "message_feature_identifier": "cosmos_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 3507,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-04-23T00:05:51.102Z",
+    "context_application_version": "8.9.32.624",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1713830760674,
+    "context_time": 1713830751102,
+    "message_feature_identifier": "cosmos_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 256,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-04-25T18:13:45.525Z",
+    "context_application_version": "8.9.32.624",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1714068827786,
+    "context_time": 1714068825525,
+    "message_feature_identifier": "cosmos_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 278,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-03-26T16:36:25.015Z",
+    "context_application_version": "8.9.24.633",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1711471028880,
+    "context_time": 1711470985015,
+    "message_feature_identifier": "cosmos_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 331,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-05-10T03:13:16.736Z",
+    "context_application_version": "8.9.36.616",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1715310799537,
+    "context_time": 1715310796736,
+    "message_feature_identifier": "cosmos_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 359,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-03-11T11:53:26.352Z",
+    "context_application_version": "8.9.20.574",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": null,
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1710158011208,
+    "context_time": 1710158006352,
+    "message_feature_identifier": "cosmos_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 344,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-03-30T01:03:55.832Z",
+    "context_application_version": "8.9.24.633",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1711760664340,
+    "context_time": 1711760635832,
+    "message_feature_identifier": "cosmos_slots",
+    "message_http_error_code": 7,
+    "message_latency_ms": 10012,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-04-24T15:33:04.177Z",
+    "context_application_version": "8.9.32.624",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1713972812701,
+    "context_time": 1713972784177,
+    "message_feature_identifier": "cosmos_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 363,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-04-21T03:26:05.841Z",
+    "context_application_version": "8.9.32.624",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1713669990266,
+    "context_time": 1713669965841,
+    "message_feature_identifier": "cosmos_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 255,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-03-10T12:44:44.374Z",
+    "context_application_version": "8.9.20.574",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": null,
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1710074704044,
+    "context_time": 1710074684374,
+    "message_feature_identifier": "cosmos_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 293,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-05-10T03:13:52.371Z",
+    "context_application_version": "8.9.36.616",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1715310859252,
+    "context_time": 1715310832371,
+    "message_feature_identifier": "cosmos_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 299,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-04-24T15:18:34.075Z",
+    "context_application_version": "8.9.32.624",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1713971942647,
+    "context_time": 1713971914075,
+    "message_feature_identifier": "cosmos_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 370,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-05-10T15:54:58.963Z",
+    "context_application_version": "8.9.38.494",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1715356519115,
+    "context_time": 1715356498963,
+    "message_feature_identifier": "cosmos_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 366,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-05-09T13:01:16.527Z",
+    "context_application_version": "8.9.36.616",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1715259704362,
+    "context_time": 1715259676527,
+    "message_feature_identifier": "cosmos_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 1044,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-03-31T19:50:08.597Z",
+    "context_application_version": "8.9.24.633",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1711914689449,
+    "context_time": 1711914608597,
+    "message_feature_identifier": "cosmos_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 277,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-03-16T17:36:16.394Z",
+    "context_application_version": "8.9.22.539",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1710610651473,
+    "context_time": 1710610576394,
+    "message_feature_identifier": "cosmos_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 369,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-06-06T12:12:11.557Z",
+    "context_application_version": "8.9.46.426",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1717675956277,
+    "context_time": 1717675931557,
+    "message_feature_identifier": "cosmos_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 273,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-05-10T16:06:46.672Z",
+    "context_application_version": "8.9.38.494",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1715357209389,
+    "context_time": 1715357206672,
+    "message_feature_identifier": "cosmos_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 342,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-04-16T10:22:07.987Z",
+    "context_application_version": "8.9.30.433",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1713262975086,
+    "context_time": 1713262927987,
+    "message_feature_identifier": "cosmos_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 349,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-04-22T21:53:22.297Z",
+    "context_application_version": "8.9.32.624",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1713822804063,
+    "context_time": 1713822802297,
+    "message_feature_identifier": "cosmos_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 463,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-03-14T14:28:16.710Z",
+    "context_application_version": "8.9.20.574",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1710426510236,
+    "context_time": 1710426496710,
+    "message_feature_identifier": "cosmos_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 348,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-03-12T21:42:16.293Z",
+    "context_application_version": "8.9.20.574",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1710279757717,
+    "context_time": 1710279736293,
+    "message_feature_identifier": "cosmos_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 318,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-05-28T02:19:30.766Z",
+    "context_application_version": "8.9.42.575",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1716862792528,
+    "context_time": 1716862770766,
+    "message_feature_identifier": "cosmos_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 250,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-04-20T01:30:44.710Z",
+    "context_application_version": "8.9.32.624",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1713576648951,
+    "context_time": 1713576644710,
+    "message_feature_identifier": "cosmos_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 258,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-03-22T18:46:24.713Z",
+    "context_application_version": "8.9.22.539",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1711133212128,
+    "context_time": 1711133184713,
+    "message_feature_identifier": "cosmos_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 437,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-03-17T02:56:43.052Z",
+    "context_application_version": "8.9.22.539",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1710644204650,
+    "context_time": 1710644203052,
+    "message_feature_identifier": "cosmos_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 308,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-03-11T17:25:47.811Z",
+    "context_application_version": "8.9.20.574",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": null,
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1710177961381,
+    "context_time": 1710177947811,
+    "message_feature_identifier": "cosmos_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 364,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-03-09T22:17:07.423Z",
+    "context_application_version": "8.9.20.574",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": null,
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1710022631929,
+    "context_time": 1710022627423,
+    "message_feature_identifier": "cosmos_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 259,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-03-22T10:53:29.508Z",
+    "context_application_version": "8.9.22.539",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1711132007475,
+    "context_time": 1711104809508,
+    "message_feature_identifier": "cosmos_slots",
+    "message_http_error_code": 7,
+    "message_latency_ms": 10056,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-03-17T02:04:32.550Z",
+    "context_application_version": "8.9.22.539",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1710641085684,
+    "context_time": 1710641072550,
+    "message_feature_identifier": "cosmos_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 280,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-05-14T19:35:35.016Z",
+    "context_application_version": "1.2.31.1205",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "Dell Inc.",
+    "context_device_model": "Inspiron 5559",
+    "context_device_type": "desktop",
+    "context_os_name": "linux",
+    "context_os_version": "6.1.85-1-MANJARO",
+    "context_receiver_service_timestamp": 1715715358474,
+    "context_time": 1715715335016,
+    "message_feature_identifier": "esperanto_ads",
+    "message_http_error_code": 0,
+    "message_latency_ms": 201,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "hpto"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-05-05T13:45:33.834Z",
+    "context_application_version": "8.9.36.616",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1714916762285,
+    "context_time": 1714916733834,
+    "message_feature_identifier": "cosmos_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 310,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-04-20T01:16:13.941Z",
+    "context_application_version": "8.9.32.624",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1713575782932,
+    "context_time": 1713575773941,
+    "message_feature_identifier": "cosmos_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 344,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-04-24T11:09:09.121Z",
+    "context_application_version": "8.9.32.624",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1713956965068,
+    "context_time": 1713956949121,
+    "message_feature_identifier": "cosmos_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 339,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-04-09T17:49:16.670Z",
+    "context_application_version": "8.9.26.592",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1712684974958,
+    "context_time": 1712684956670,
+    "message_feature_identifier": "cosmos_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 258,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-05-03T23:49:20.871Z",
+    "context_application_version": "8.9.36.616",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1714780263934,
+    "context_time": 1714780160871,
+    "message_feature_identifier": "cosmos_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 415,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-04-02T22:31:28.702Z",
+    "context_application_version": "8.9.24.633",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1712097114241,
+    "context_time": 1712097088702,
+    "message_feature_identifier": "cosmos_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 292,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-04-14T21:17:45.018Z",
+    "context_application_version": "8.9.30.433",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1713129499509,
+    "context_time": 1713129465018,
+    "message_feature_identifier": "cosmos_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 313,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-03-12T09:50:34.245Z",
+    "context_application_version": "8.9.20.574",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1710237058824,
+    "context_time": 1710237034245,
+    "message_feature_identifier": "cosmos_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 311,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-04-16T19:17:59.316Z",
+    "context_application_version": "8.9.30.433",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1713295097878,
+    "context_time": 1713295079316,
+    "message_feature_identifier": "cosmos_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 349,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-04-26T20:28:09.985Z",
+    "context_application_version": "8.9.34.590",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1714163379476,
+    "context_time": 1714163289985,
+    "message_feature_identifier": "cosmos_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 3862,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-03-11T11:53:31.201Z",
+    "context_application_version": "8.9.20.574",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": null,
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1710158012711,
+    "context_time": 1710158011201,
+    "message_feature_identifier": "cosmos_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 246,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-03-14T15:28:51.720Z",
+    "context_application_version": "8.9.20.574",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1710430228899,
+    "context_time": 1710430131720,
+    "message_feature_identifier": "cosmos_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 3193,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-03-17T02:26:18.566Z",
+    "context_application_version": "8.9.22.539",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1710642380734,
+    "context_time": 1710642378566,
+    "message_feature_identifier": "cosmos_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 258,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-03-18T13:37:39.900Z",
+    "context_application_version": "8.9.22.539",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1710769070812,
+    "context_time": 1710769059900,
+    "message_feature_identifier": "cosmos_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 396,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-03-10T05:14:06.476Z",
+    "context_application_version": "1.2.26.1187",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "Dell Inc.",
+    "context_device_model": "Inspiron 5559",
+    "context_device_type": null,
+    "context_os_name": "linux",
+    "context_os_version": "6.1.69-1-MANJARO",
+    "context_receiver_service_timestamp": 1710047652342,
+    "context_time": 1710047646476,
+    "message_feature_identifier": "cosmos_ads",
+    "message_http_error_code": 0,
+    "message_latency_ms": 173,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "hpto"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-05-10T02:35:03.701Z",
+    "context_application_version": "8.9.36.616",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1715308506864,
+    "context_time": 1715308503701,
+    "message_feature_identifier": "cosmos_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 271,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-05-06T17:58:15.380Z",
+    "context_application_version": "8.9.36.616",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1715018314651,
+    "context_time": 1715018295380,
+    "message_feature_identifier": "cosmos_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 367,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-06-01T04:15:37.733Z",
+    "context_application_version": "8.9.44.368",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1717215353779,
+    "context_time": 1717215337733,
+    "message_feature_identifier": "cosmos_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 271,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-03-25T23:52:48.167Z",
+    "context_application_version": "8.9.24.633",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1711410785131,
+    "context_time": 1711410768167,
+    "message_feature_identifier": "cosmos_slots",
+    "message_http_error_code": 7,
+    "message_latency_ms": 10415,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-05-10T02:49:05.774Z",
+    "context_application_version": "8.9.36.616",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1715309412969,
+    "context_time": 1715309345774,
+    "message_feature_identifier": "cosmos_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 301,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-05-04T21:20:01.796Z",
+    "context_application_version": "8.9.36.616",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1714857609336,
+    "context_time": 1714857601796,
+    "message_feature_identifier": "cosmos_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 313,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-04-18T04:02:28.650Z",
+    "context_application_version": "8.9.30.433",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1713412995830,
+    "context_time": 1713412948650,
+    "message_feature_identifier": "cosmos_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 271,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-05-12T03:23:04.189Z",
+    "context_application_version": "8.9.38.494",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1715484186766,
+    "context_time": 1715484184189,
+    "message_feature_identifier": "cosmos_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 351,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-03-17T01:22:48.101Z",
+    "context_application_version": "8.9.22.539",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1710638595364,
+    "context_time": 1710638568101,
+    "message_feature_identifier": "cosmos_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 293,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-05-05T01:02:38.787Z",
+    "context_application_version": "8.9.36.616",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1714872635403,
+    "context_time": 1714870958787,
+    "message_feature_identifier": "cosmos_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 328,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-04-24T15:17:23.257Z",
+    "context_application_version": "8.9.32.624",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1713971852736,
+    "context_time": 1713971843257,
+    "message_feature_identifier": "cosmos_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 413,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-03-14T15:39:13.281Z",
+    "context_application_version": "8.9.20.574",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1710430770198,
+    "context_time": 1710430753281,
+    "message_feature_identifier": "cosmos_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 872,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-03-24T00:30:17.881Z",
+    "context_application_version": "8.9.24.633",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1711240226040,
+    "context_time": 1711240217881,
+    "message_feature_identifier": "cosmos_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 399,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-04-22T19:01:47.339Z",
+    "context_application_version": "8.9.32.624",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1713812515243,
+    "context_time": 1713812507339,
+    "message_feature_identifier": "cosmos_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 320,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-05-08T21:48:38.962Z",
+    "context_application_version": "8.9.36.616",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1715204930327,
+    "context_time": 1715204918962,
+    "message_feature_identifier": "cosmos_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 277,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-05-12T03:34:36.820Z",
+    "context_application_version": "8.9.38.494",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1715484957656,
+    "context_time": 1715484876820,
+    "message_feature_identifier": "cosmos_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 310,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-03-24T00:19:54.360Z",
+    "context_application_version": "8.9.24.633",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1711239626390,
+    "context_time": 1711239594360,
+    "message_feature_identifier": "cosmos_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 536,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-03-10T14:28:57.998Z",
+    "context_application_version": "1.2.26.1187",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "Dell Inc.",
+    "context_device_model": "Inspiron 5559",
+    "context_device_type": null,
+    "context_os_name": "linux",
+    "context_os_version": "6.1.69-1-MANJARO",
+    "context_receiver_service_timestamp": 1710080952370,
+    "context_time": 1710080937998,
+    "message_feature_identifier": "cosmos_ads",
+    "message_http_error_code": 0,
+    "message_latency_ms": 221,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "hpto"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-03-09T22:25:12.533Z",
+    "context_application_version": "8.9.20.574",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": null,
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1710023113343,
+    "context_time": 1710023112533,
+    "message_feature_identifier": "cosmos_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 262,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-03-17T03:07:32.004Z",
+    "context_application_version": "8.9.22.539",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1710644865608,
+    "context_time": 1710644852004,
+    "message_feature_identifier": "cosmos_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 317,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-03-26T21:05:34.098Z",
+    "context_application_version": "8.9.24.633",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1711487153114,
+    "context_time": 1711487134098,
+    "message_feature_identifier": "cosmos_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 292,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-03-09T03:55:00.533Z",
+    "context_application_version": "8.9.18.512",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": null,
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1709956533589,
+    "context_time": 1709956500533,
+    "message_feature_identifier": "cosmos_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 325,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-03-16T17:02:57.660Z",
+    "context_application_version": "8.9.22.539",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1710608587337,
+    "context_time": 1710608577660,
+    "message_feature_identifier": "cosmos_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 426,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-04-22T21:50:07.047Z",
+    "context_application_version": "8.9.32.624",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1713822624006,
+    "context_time": 1713822607047,
+    "message_feature_identifier": "cosmos_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 440,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-03-12T09:50:47.073Z",
+    "context_application_version": "8.9.20.574",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1710237059286,
+    "context_time": 1710237047073,
+    "message_feature_identifier": "cosmos_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 305,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-04-17T12:07:23.904Z",
+    "context_application_version": "1.2.31.1205",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "Dell Inc.",
+    "context_device_model": "Inspiron 5559",
+    "context_device_type": "tablet",
+    "context_os_name": "linux",
+    "context_os_version": "6.1.84-1-MANJARO",
+    "context_receiver_service_timestamp": 1713355646665,
+    "context_time": 1713355643904,
+    "message_feature_identifier": "cosmos_ads",
+    "message_http_error_code": 0,
+    "message_latency_ms": 265,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "hpto"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-05-10T03:06:42.816Z",
+    "context_application_version": "8.9.36.616",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1715310416531,
+    "context_time": 1715310402816,
+    "message_feature_identifier": "cosmos_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 268,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-04-22T23:37:16.314Z",
+    "context_application_version": "8.9.32.624",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1713829063896,
+    "context_time": 1713829036314,
+    "message_feature_identifier": "cosmos_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 336,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-05-20T19:24:13.141Z",
+    "context_application_version": "8.9.40.509",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1716233076671,
+    "context_time": 1716233053141,
+    "message_feature_identifier": "cosmos_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 406,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-05-21T10:42:33.254Z",
+    "context_application_version": "8.9.40.509",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1716288236150,
+    "context_time": 1716288153254,
+    "message_feature_identifier": "cosmos_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 675,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-03-11T11:53:28.013Z",
+    "context_application_version": "8.9.20.574",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": null,
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1710158011763,
+    "context_time": 1710158008013,
+    "message_feature_identifier": "cosmos_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 295,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-03-26T22:18:30.798Z",
+    "context_application_version": "8.9.24.633",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1711491519642,
+    "context_time": 1711491510798,
+    "message_feature_identifier": "cosmos_slots",
+    "message_http_error_code": 7,
+    "message_latency_ms": 10007,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-05-08T02:03:51.256Z",
+    "context_application_version": "8.9.36.616",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1715133836646,
+    "context_time": 1715133831256,
+    "message_feature_identifier": "cosmos_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 282,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-04-04T16:03:10.347Z",
+    "context_application_version": "1.2.31.1205",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "Dell Inc.",
+    "context_device_model": "Inspiron 5559",
+    "context_device_type": "tablet",
+    "context_os_name": "linux",
+    "context_os_version": "6.1.80-1-MANJARO",
+    "context_receiver_service_timestamp": 1712246593301,
+    "context_time": 1712246590347,
+    "message_feature_identifier": "cosmos_ads",
+    "message_http_error_code": 0,
+    "message_latency_ms": 258,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "hpto"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-03-10T03:05:10.736Z",
+    "context_application_version": "8.9.20.574",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": null,
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1710039922313,
+    "context_time": 1710039910736,
+    "message_feature_identifier": "cosmos_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 341,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-03-17T02:57:01.077Z",
+    "context_application_version": "8.9.22.539",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1710644233650,
+    "context_time": 1710644221077,
+    "message_feature_identifier": "cosmos_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 267,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2024-04-10T15:38:01.148Z",
+    "context_application_version": "8.9.26.592",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1712763503886,
+    "context_time": 1712763481148,
+    "message_feature_identifier": "cosmos_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 251,
+    "message_requested_ad_type": null,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  }
+]

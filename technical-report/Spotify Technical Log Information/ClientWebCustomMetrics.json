@@ -1,0 +1,46 @@
+[
+  {
+    "timestamp_utc": "2024-03-26T16:39:06.989Z",
+    "context_application_version": "mobile-web-player_2024-03-26_1711462285045_11cfe14",
+    "context_conn_country": "AR",
+    "context_receiver_service_timestamp": 1711471148463,
+    "context_time": 1711471146989,
+    "context_user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36",
+    "message_metric_name": "FCP",
+    "message_metric_type": "web-vitals",
+    "message_metric_value": "1885.2999999523163"
+  },
+  {
+    "timestamp_utc": "2024-03-26T16:39:07.299Z",
+    "context_application_version": "mobile-web-player_2024-03-26_1711462285045_11cfe14",
+    "context_conn_country": "AR",
+    "context_receiver_service_timestamp": 1711471148463,
+    "context_time": 1711471147299,
+    "context_user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36",
+    "message_metric_name": "TTFB",
+    "message_metric_type": "web-vitals",
+    "message_metric_value": "1138.5"
+  },
+  {
+    "timestamp_utc": "2024-03-26T16:39:17.145Z",
+    "context_application_version": "mobile-web-player_2024-03-26_1711462285045_11cfe14",
+    "context_conn_country": "AR",
+    "context_receiver_service_timestamp": 1711471157605,
+    "context_time": 1711471157145,
+    "context_user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36",
+    "message_metric_name": "FID",
+    "message_metric_type": "web-vitals",
+    "message_metric_value": "10.5"
+  },
+  {
+    "timestamp_utc": "2024-03-26T16:39:19.786Z",
+    "context_application_version": "mobile-web-player_2024-03-26_1711462285045_11cfe14",
+    "context_conn_country": "AR",
+    "context_receiver_service_timestamp": 1711471160247,
+    "context_time": 1711471159786,
+    "context_user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36",
+    "message_metric_name": "INP",
+    "message_metric_type": "web-vitals",
+    "message_metric_value": "8"
+  }
+]

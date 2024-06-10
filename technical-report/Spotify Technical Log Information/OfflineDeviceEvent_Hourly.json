@@ -1,0 +1,172 @@
+[
+  {
+    "message_device_id": "64623737616431353636313237623563",
+    "message_name": "SM-G780G",
+    "timestamp_utc": "2024-03-20T16:20:00.168Z",
+    "context_time": 1710951600168,
+    "message_cache_id": "1fcafc9220db90af9abb1d0c1520bf55",
+    "message_connect_type": "SMARTPHONE",
+    "message_event": "put",
+    "message_platform": "ANDROID_ARM"
+  },
+  {
+    "message_device_id": "64623737616431353636313237623563",
+    "message_name": "Galaxy S20 FE",
+    "timestamp_utc": "2024-05-31T00:20:50.686Z",
+    "context_time": 1717114850686,
+    "message_cache_id": "1fcafc9220db90af9abb1d0c1520bf55",
+    "message_connect_type": "SMARTPHONE",
+    "message_event": "put",
+    "message_platform": "ANDROID_ARM"
+  },
+  {
+    "message_device_id": "64623737616431353636313237623563",
+    "message_name": "Galaxy S20 FE",
+    "timestamp_utc": "2024-03-27T20:51:49.735Z",
+    "context_time": 1711572709735,
+    "message_cache_id": "1fcafc9220db90af9abb1d0c1520bf55",
+    "message_connect_type": "SMARTPHONE",
+    "message_event": "put",
+    "message_platform": "ANDROID_ARM"
+  },
+  {
+    "message_device_id": "64623737616431353636313237623563",
+    "message_name": "SM-G780G",
+    "timestamp_utc": "2024-05-09T13:04:10.994Z",
+    "context_time": 1715259850994,
+    "message_cache_id": "1fcafc9220db90af9abb1d0c1520bf55",
+    "message_connect_type": "SMARTPHONE",
+    "message_event": "put",
+    "message_platform": "ANDROID_ARM"
+  },
+  {
+    "message_device_id": "64623737616431353636313237623563",
+    "message_name": "SM-G780G",
+    "timestamp_utc": "2024-03-13T14:31:56.103Z",
+    "context_time": 1710340316103,
+    "message_cache_id": "1fcafc9220db90af9abb1d0c1520bf55",
+    "message_connect_type": "SMARTPHONE",
+    "message_event": "put",
+    "message_platform": "ANDROID_ARM"
+  },
+  {
+    "message_device_id": "64623737616431353636313237623563",
+    "message_name": "Galaxy S20 FE",
+    "timestamp_utc": "2024-04-10T23:49:05.251Z",
+    "context_time": 1712792945251,
+    "message_cache_id": "1fcafc9220db90af9abb1d0c1520bf55",
+    "message_connect_type": "SMARTPHONE",
+    "message_event": "put",
+    "message_platform": "ANDROID_ARM"
+  },
+  {
+    "message_device_id": "64623737616431353636313237623563",
+    "message_name": "Galaxy S20 FE",
+    "timestamp_utc": "2024-05-23T16:30:46.182Z",
+    "context_time": 1716481846182,
+    "message_cache_id": "1fcafc9220db90af9abb1d0c1520bf55",
+    "message_connect_type": "SMARTPHONE",
+    "message_event": "put",
+    "message_platform": "ANDROID_ARM"
+  },
+  {
+    "message_device_id": "3161333238306635636437363438313561313339336430333961616635616266",
+    "message_name": "dell",
+    "timestamp_utc": "2024-04-25T14:46:24.366Z",
+    "context_time": 1714056384366,
+    "message_cache_id": "9e6a9661d8c57966fa39a52ad9f8a96f",
+    "message_connect_type": "COMPUTER",
+    "message_event": "put",
+    "message_platform": "LINUX_X86_64"
+  },
+  {
+    "message_device_id": "64623737616431353636313237623563",
+    "message_name": "Galaxy S20 FE",
+    "timestamp_utc": "2024-04-18T00:17:39.079Z",
+    "context_time": 1713399459079,
+    "message_cache_id": "1fcafc9220db90af9abb1d0c1520bf55",
+    "message_connect_type": "SMARTPHONE",
+    "message_event": "put",
+    "message_platform": "ANDROID_ARM"
+  },
+  {
+    "message_device_id": "3161333238306635636437363438313561313339336430333961616635616266",
+    "message_name": "dell",
+    "timestamp_utc": "2024-04-04T16:07:15.276Z",
+    "context_time": 1712246835276,
+    "message_cache_id": "9e6a9661d8c57966fa39a52ad9f8a96f",
+    "message_connect_type": "COMPUTER",
+    "message_event": "put",
+    "message_platform": "LINUX_X86_64"
+  },
+  {
+    "message_device_id": "3161333238306635636437363438313561313339336430333961616635616266",
+    "message_name": "dell",
+    "timestamp_utc": "2024-04-11T18:30:25.960Z",
+    "context_time": 1712860225960,
+    "message_cache_id": "9e6a9661d8c57966fa39a52ad9f8a96f",
+    "message_connect_type": "COMPUTER",
+    "message_event": "put",
+    "message_platform": "LINUX_X86_64"
+  },
+  {
+    "message_device_id": "64623737616431353636313237623563",
+    "message_name": "Galaxy S20 FE",
+    "timestamp_utc": "2024-05-02T12:15:44.891Z",
+    "context_time": 1714652144891,
+    "message_cache_id": "1fcafc9220db90af9abb1d0c1520bf55",
+    "message_connect_type": "SMARTPHONE",
+    "message_event": "put",
+    "message_platform": "ANDROID_ARM"
+  },
+  {
+    "message_device_id": "64623737616431353636313237623563",
+    "message_name": "Galaxy S20 FE",
+    "timestamp_utc": "2024-04-03T22:01:42.925Z",
+    "context_time": 1712181702925,
+    "message_cache_id": "1fcafc9220db90af9abb1d0c1520bf55",
+    "message_connect_type": "SMARTPHONE",
+    "message_event": "put",
+    "message_platform": "ANDROID_ARM"
+  },
+  {
+    "message_device_id": "3161333238306635636437363438313561313339336430333961616635616266",
+    "message_name": "dell",
+    "timestamp_utc": "2024-03-09T19:22:58.215Z",
+    "context_time": 1710012178215,
+    "message_cache_id": "9e6a9661d8c57966fa39a52ad9f8a96f",
+    "message_connect_type": "COMPUTER",
+    "message_event": "put",
+    "message_platform": "LINUX_X86_64"
+  },
+  {
+    "message_device_id": "64623737616431353636313237623563",
+    "message_name": "SM-G780G",
+    "timestamp_utc": "2024-05-16T15:42:33.660Z",
+    "context_time": 1715874153660,
+    "message_cache_id": "1fcafc9220db90af9abb1d0c1520bf55",
+    "message_connect_type": "SMARTPHONE",
+    "message_event": "put",
+    "message_platform": "ANDROID_ARM"
+  },
+  {
+    "message_device_id": "3161333238306635636437363438313561313339336430333961616635616266",
+    "message_name": "dell",
+    "timestamp_utc": "2024-05-08T15:13:52.117Z",
+    "context_time": 1715181232117,
+    "message_cache_id": "9e6a9661d8c57966fa39a52ad9f8a96f",
+    "message_connect_type": "COMPUTER",
+    "message_event": "put",
+    "message_platform": "LINUX_X86_64"
+  },
+  {
+    "message_device_id": "64623737616431353636313237623563",
+    "message_name": "SM-G780G",
+    "timestamp_utc": "2024-04-25T11:18:24.650Z",
+    "context_time": 1714043904650,
+    "message_cache_id": "1fcafc9220db90af9abb1d0c1520bf55",
+    "message_connect_type": "SMARTPHONE",
+    "message_event": "put",
+    "message_platform": "ANDROID_ARM"
+  }
+]

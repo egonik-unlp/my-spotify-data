@@ -1,0 +1,19 @@
+[
+  {
+    "timestamp_utc": "2024-03-31T16:38:14.004Z",
+    "context_application_version": "8.9.24.633",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1711903124941,
+    "context_time": 1711903094004,
+    "context_user_agent": null,
+    "message_client_timestamp": null,
+    "message_content_uri": "spotify:episode:3L46VaDTVDzc8LmtILEAnH",
+    "message_play_position": 225,
+    "message_playback_id": "b1df0549c6569bb18e780ecc96f04b74"
+  }
+]

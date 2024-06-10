@@ -1,0 +1,26 @@
+[
+  {
+    "message_http_referer": null,
+    "message_referrer": null,
+    "timestamp_utc": "2024-04-17T12:17:17.229Z",
+    "context_time": 1713356237229,
+    "message_context": "account-overview-hero",
+    "message_error_code": null,
+    "message_feature": "feature.pricechange",
+    "message_market": "us",
+    "message_step": "IMPRESSION",
+    "message_type": "FAILURE"
+  },
+  {
+    "message_http_referer": null,
+    "message_referrer": null,
+    "timestamp_utc": "2024-04-17T12:17:17.219Z",
+    "context_time": 1713356237219,
+    "message_context": "account-overview-hero",
+    "message_error_code": null,
+    "message_feature": "feature.pricechange",
+    "message_market": "us",
+    "message_step": "IMPRESSION",
+    "message_type": "INIT"
+  }
+]

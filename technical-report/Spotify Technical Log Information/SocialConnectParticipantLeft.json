@@ -1,0 +1,52 @@
+[
+  {
+    "timestamp_utc": "2024-01-07T05:55:06.501Z",
+    "context_time": 1704606906501,
+    "message_client_platform": "ANDROID_ARM",
+    "message_client_product": null,
+    "message_client_version": "889600364",
+    "message_num_participants": 1,
+    "message_session_id": "73401baaf2f2b2821c7b2b465fce1c3c",
+    "message_session_join_id": "7491f27c4f968d18edb2a0e29d9fd91c"
+  },
+  {
+    "timestamp_utc": "2024-06-02T19:24:37.352Z",
+    "context_time": 1717356277352,
+    "message_client_platform": "ANDROID_ARM",
+    "message_client_product": null,
+    "message_client_version": "894400368",
+    "message_num_participants": 1,
+    "message_session_id": "521d2739f72c847b4433bcedd71ac9ef",
+    "message_session_join_id": "9da7345f5d14ca59bd975f092fc8671a"
+  },
+  {
+    "timestamp_utc": "2024-06-02T21:27:49.108Z",
+    "context_time": 1717363669108,
+    "message_client_platform": "ANDROID_ARM",
+    "message_client_product": null,
+    "message_client_version": "894400368",
+    "message_num_participants": 1,
+    "message_session_id": "521d2739f72c847b4433bcedd71ac9ef",
+    "message_session_join_id": "af6f0f1682d65b628b41669a43c0c0d0"
+  },
+  {
+    "timestamp_utc": "2024-05-18T04:31:47.775Z",
+    "context_time": 1716006707775,
+    "message_client_platform": null,
+    "message_client_product": null,
+    "message_client_version": null,
+    "message_num_participants": 2,
+    "message_session_id": "298301dbaf9937e233620a8164ae4da9",
+    "message_session_join_id": "63f089184528d9c070ddc0e61c39f9ed"
+  },
+  {
+    "timestamp_utc": "2024-06-02T19:24:02.620Z",
+    "context_time": 1717356242620,
+    "message_client_platform": "ANDROID_ARM",
+    "message_client_product": null,
+    "message_client_version": "894400368",
+    "message_num_participants": 1,
+    "message_session_id": "521d2739f72c847b4433bcedd71ac9ef",
+    "message_session_join_id": "54c31033205eabd75d45f23fad2aa17e"
+  }
+]

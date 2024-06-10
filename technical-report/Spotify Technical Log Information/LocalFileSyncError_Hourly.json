@@ -1,0 +1,28 @@
+[
+  {
+    "timestamp_utc": "2024-05-12T21:06:30.492Z",
+    "context_application_version": "8.9.38.494",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1715548556822,
+    "context_time": 1715547990492,
+    "message_error": "rpc-file-terminated"
+  },
+  {
+    "timestamp_utc": "2024-05-13T13:43:03.754Z",
+    "context_application_version": "8.9.38.494",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1715629930993,
+    "context_time": 1715607783754,
+    "message_error": "rpc-file-terminated"
+  }
+]

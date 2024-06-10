@@ -1,0 +1,17 @@
+[
+  {
+    "timestamp_utc": "2024-05-01T11:29:34.451Z",
+    "context_application_version": "8.9.34.590",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1714563018469,
+    "context_time": 1714562974451,
+    "message_ms_played": 10000,
+    "message_preview_id": "ab6657726f8b10c49f6f418fa1bbc6c4ed592cc7",
+    "message_preview_url": "https://p.scdn.co/mp3-preview/ab6657726f8b10c49f6f418fa1bbc6c4ed592cc7"
+  }
+]

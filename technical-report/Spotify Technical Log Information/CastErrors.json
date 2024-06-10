@@ -1,0 +1,32 @@
+[
+  {
+    "timestamp_utc": "2024-05-13T01:47:58.046Z",
+    "context_application_version": "8.9.38.494",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1715564883103,
+    "context_time": 1715564878046,
+    "message_cast_sdk_error_code": "5",
+    "message_cause": "sdk_error",
+    "message_extra_info": "2152"
+  },
+  {
+    "timestamp_utc": "2024-04-22T23:54:04.831Z",
+    "context_application_version": "8.9.32.624",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1713830045273,
+    "context_time": 1713830044831,
+    "message_cast_sdk_error_code": "5",
+    "message_cause": "sdk_error",
+    "message_extra_info": "2152"
+  }
+]

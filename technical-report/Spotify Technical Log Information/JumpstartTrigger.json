@@ -1,0 +1,82 @@
+[
+  {
+    "timestamp_utc": "2024-05-04T02:42:14.336Z",
+    "context_application_version": "8.9.36.616",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1714790558751,
+    "context_time": 1714790534336,
+    "message_connected_accessories": [
+    ],
+    "message_trigger_feature_identifier": "car_detection",
+    "message_trigger_method": "play"
+  },
+  {
+    "timestamp_utc": "2024-03-17T11:40:18.595Z",
+    "context_application_version": "8.9.22.539",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1710675639758,
+    "context_time": 1710675618595,
+    "message_connected_accessories": [
+    ],
+    "message_trigger_feature_identifier": "car_detection",
+    "message_trigger_method": "play"
+  },
+  {
+    "timestamp_utc": "2024-06-05T21:46:53.052Z",
+    "context_application_version": "8.9.44.368",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1717624029260,
+    "context_time": 1717624013052,
+    "message_connected_accessories": [
+    ],
+    "message_trigger_feature_identifier": "car_detection",
+    "message_trigger_method": "play"
+  },
+  {
+    "timestamp_utc": "2024-05-04T10:01:09.975Z",
+    "context_application_version": "8.9.36.616",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1714816894201,
+    "context_time": 1714816869975,
+    "message_connected_accessories": [
+    ],
+    "message_trigger_feature_identifier": "car_detection",
+    "message_trigger_method": "play"
+  },
+  {
+    "timestamp_utc": "2024-03-17T11:35:06.879Z",
+    "context_application_version": "8.9.22.539",
+    "context_conn_country": "AR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-G780G",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "13",
+    "context_receiver_service_timestamp": 1710675310836,
+    "context_time": 1710675306879,
+    "message_connected_accessories": [
+    ],
+    "message_trigger_feature_identifier": "car_detection",
+    "message_trigger_method": "play"
+  }
+]

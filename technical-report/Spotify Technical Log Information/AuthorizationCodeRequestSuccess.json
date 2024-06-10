@@ -1,0 +1,74 @@
+[
+  {
+    "message_device_id": null,
+    "timestamp_utc": "2024-04-17T12:16:35.421Z",
+    "context_time": 1713356195421,
+    "message_client_id": "31a0b2b20718446799a0f6adef1f2892",
+    "message_event_id": "ff79a518-52db-4d86-94a7-19b0c820130e",
+    "message_redirect_uri": "https://support.spotify.com",
+    "message_scope": "user-read-email,user-read-private,user-close-account"
+  },
+  {
+    "message_device_id": null,
+    "timestamp_utc": "2024-04-17T12:16:35.403Z",
+    "context_time": 1713356195403,
+    "message_client_id": "31a0b2b20718446799a0f6adef1f2892",
+    "message_event_id": "a0eb5d3a-7937-4957-80b1-d07a73bca81e",
+    "message_redirect_uri": "https://support.spotify.com",
+    "message_scope": "user-read-email,user-read-private,user-close-account"
+  },
+  {
+    "message_device_id": null,
+    "timestamp_utc": "2024-04-17T13:12:36.882Z",
+    "context_time": 1713359556882,
+    "message_client_id": "31a0b2b20718446799a0f6adef1f2892",
+    "message_event_id": "cb762c69-60b4-472a-8b03-36796d712228",
+    "message_redirect_uri": "https://support.spotify.com",
+    "message_scope": "user-read-email,user-read-private,user-close-account"
+  },
+  {
+    "message_device_id": null,
+    "timestamp_utc": "2024-04-17T13:12:36.887Z",
+    "context_time": 1713359556887,
+    "message_client_id": "31a0b2b20718446799a0f6adef1f2892",
+    "message_event_id": "178ad378-dbaf-48ce-855d-18b5e93ab79f",
+    "message_redirect_uri": "https://support.spotify.com",
+    "message_scope": "user-read-email,user-read-private,user-close-account"
+  },
+  {
+    "message_device_id": null,
+    "timestamp_utc": "2024-04-17T13:12:36.886Z",
+    "context_time": 1713359556886,
+    "message_client_id": "31a0b2b20718446799a0f6adef1f2892",
+    "message_event_id": "4dd8902e-c572-44dc-ba56-6ffbb15ce847",
+    "message_redirect_uri": "https://support.spotify.com",
+    "message_scope": "user-read-email,user-read-private,user-close-account"
+  },
+  {
+    "message_device_id": null,
+    "timestamp_utc": "2024-04-17T12:16:35.419Z",
+    "context_time": 1713356195419,
+    "message_client_id": "31a0b2b20718446799a0f6adef1f2892",
+    "message_event_id": "6daff732-d946-45c2-864a-5deddbecdb32",
+    "message_redirect_uri": "https://support.spotify.com",
+    "message_scope": "user-read-email,user-read-private,user-close-account"
+  },
+  {
+    "message_device_id": null,
+    "timestamp_utc": "2024-04-17T12:16:35.416Z",
+    "context_time": 1713356195416,
+    "message_client_id": "31a0b2b20718446799a0f6adef1f2892",
+    "message_event_id": "5af40438-de03-434f-8c39-926e85427886",
+    "message_redirect_uri": "https://support.spotify.com",
+    "message_scope": "user-read-email,user-read-private,user-close-account"
+  },
+  {
+    "message_device_id": null,
+    "timestamp_utc": "2024-04-17T13:12:36.900Z",
+    "context_time": 1713359556900,
+    "message_client_id": "31a0b2b20718446799a0f6adef1f2892",
+    "message_event_id": "d03ff35b-bcf5-4f0d-b22c-5a17d694d70a",
+    "message_redirect_uri": "https://support.spotify.com",
+    "message_scope": "user-read-email,user-read-private,user-close-account"
+  }
+]

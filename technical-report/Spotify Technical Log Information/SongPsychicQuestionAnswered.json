@@ -1,0 +1,22 @@
+[
+  {
+    "timestamp_utc": "2024-03-15T02:54:55.101Z",
+    "context_time": 1710471295101,
+    "message_answer": [
+      "spotify:track:7kVJhAryCRy7BieEHqy1rL",
+      "spotify:track:4yQE9ulw1xxGYL20Drxey9",
+      "spotify:track:7AWP8WMI0vdsn95ltkc0rt",
+      "spotify:track:6KWTSRF9Aa2rFZaJpsCWfa",
+      "spotify:track:0J6dOwflFSy3h1AoKmkqKc",
+      "spotify:track:32QNjBLycSMFSpY0pJ1Hau",
+      "spotify:track:3z5hhUIqmEbANQBQ4HDJfe",
+      "spotify:track:7mYGB4BiT3EEkQOkGBKCae",
+      "spotify:track:4suenIuyqxZYV0VIjsbYrG",
+      "spotify:track:2lo0aKrsrO5lB4eFJ2yG3q"
+    ],
+    "message_answer_category": "NO",
+    "message_locale": "es-419",
+    "message_question": "category3_question4",
+    "message_question_category": "LOVE"
+  }
+]

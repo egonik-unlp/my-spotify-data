@@ -1,0 +1,2844 @@
+[
+  {
+    "timestamp_utc": "2024-01-01T18:00:57.137Z",
+    "context_time": 1704132057137,
+    "message_discovery_contents": [
+      "spotify:track:4Z4i631BesV0P6LTvfLAdL",
+      "spotify:track:125ABiFu87TxipoWAMK8LR"
+    ],
+    "message_mix_type": "GENRE",
+    "message_pl_id": "37i9dQZF1EQpoj8u9Hn81e",
+    "message_recdex_params": [
+    ]
+  },
+  {
+    "timestamp_utc": "2024-01-04T22:16:42.565Z",
+    "context_time": 1704406602565,
+    "message_discovery_contents": [
+      "spotify:track:4Z4i631BesV0P6LTvfLAdL",
+      "spotify:track:1CzfZY7lXaysy84x3a2jix",
+      "spotify:track:1ELW3mroLCVV20CIYnuCQn",
+      "spotify:track:2CH4mc6qWAI3ejAdqpON9B",
+      "spotify:track:19mC6xktT1JyyycK6cQaXA"
+    ],
+    "message_mix_type": "GENRE",
+    "message_pl_id": "37i9dQZF1EQpoj8u9Hn81e",
+    "message_recdex_params": [
+    ]
+  },
+  {
+    "timestamp_utc": "2024-01-25T22:28:28.006Z",
+    "context_time": 1706221708006,
+    "message_discovery_contents": [
+      "spotify:track:1ELW3mroLCVV20CIYnuCQn",
+      "spotify:track:4Z4i631BesV0P6LTvfLAdL",
+      "spotify:track:1M3ldz0gop7cJeEWUuJCfe"
+    ],
+    "message_mix_type": "GENRE",
+    "message_pl_id": "37i9dQZF1EQpoj8u9Hn81e",
+    "message_recdex_params": [
+    ]
+  },
+  {
+    "timestamp_utc": "2024-01-26T13:34:07.047Z",
+    "context_time": 1706276047047,
+    "message_discovery_contents": [
+      "spotify:track:4Z4i631BesV0P6LTvfLAdL",
+      "spotify:track:18nGprzEucUO4FF768lLhe",
+      "spotify:track:3SYFuQxFvEVrOD54vW0Hu7"
+    ],
+    "message_mix_type": "GENRE",
+    "message_pl_id": "37i9dQZF1EQpoj8u9Hn81e",
+    "message_recdex_params": [
+    ]
+  },
+  {
+    "timestamp_utc": "2024-01-27T23:22:10.644Z",
+    "context_time": 1706397730644,
+    "message_discovery_contents": [
+      "spotify:track:37D9O4De2WL1hA6gyResgl",
+      "spotify:track:7Aa0lfRO9KDcVi7zLpCjTH",
+      "spotify:track:3MYUHaITeEQh3WjMkHr67z",
+      "spotify:track:1kgHjcE0F72RDkaA8adtXG"
+    ],
+    "message_mix_type": "MOOD",
+    "message_pl_id": "37i9dQZF1EVHGWrwldPRtj",
+    "message_recdex_params": [
+    ]
+  },
+  {
+    "timestamp_utc": "2024-01-07T16:45:06.586Z",
+    "context_time": 1704645906586,
+    "message_discovery_contents": [
+      "spotify:track:2tMIzKu3vXQzvbDShxjbmu",
+      "spotify:track:2OGcwhOAldo9aiDwBnXMfc",
+      "spotify:track:0MuXZVMXHl01DBU5DdO3EP",
+      "spotify:track:6IPFsG4OpNShJfJ4LoeJW0",
+      "spotify:track:4Vldw0eUgCbhgyxAWY6JMk",
+      "spotify:track:4mNU7ddD6fRyjMRBOOfj28",
+      "spotify:track:09Rv6ctDE0t9z8zk5FINg8",
+      "spotify:track:01gDLZsi0j5fWC28FLPNO8",
+      "spotify:track:6I6QkE2UVSj9YX48oRrD6e",
+      "spotify:track:1vMGIZbIkpaLSagdF2ygcV",
+      "spotify:track:3CLEFS76bCwStAlaySu9zC",
+      "spotify:track:5jOhS3S7vTj9yQ4UmEk8qj",
+      "spotify:track:4IPATLSUoEdsmqwxwNjr4g",
+      "spotify:track:1BMFet4vUoOgpLYIl3kVMQ",
+      "spotify:track:1Ad2HcIX9zBqoWRvxtpYGf",
+      "spotify:track:3gWZ8TJ6oIpJWQBfrUOksW",
+      "spotify:track:3wRSZvxk09S0Tvuwg1L69N",
+      "spotify:track:2K1meYaIxerapOrEief7JH",
+      "spotify:track:08DeDU0qAaNSZ36YVCsBJW",
+      "spotify:track:4PQvPkoHfYx91W6cpCXoq5",
+      "spotify:track:6y0Etr2KJr0sdcEp7ajoUK",
+      "spotify:track:3BHxg5xwE1WllM1IHJNCEb",
+      "spotify:track:5iX7aAVoO3dzUOZ1eAvg6f",
+      "spotify:track:3hxRKXzZS0XRYGZ123JDNH",
+      "spotify:track:3AA8xNhDC0MpqwkGX3EP5V",
+      "spotify:track:38E7U60ipLSTVDcPIuVzZw",
+      "spotify:track:286TLtk120rnrmVeQClDTc",
+      "spotify:track:2NIIJ5WfrK4ANNPHcOhSeb",
+      "spotify:track:0hsrqeudoR9Kymm7RNiVoq",
+      "spotify:track:2Xb6wJYGi0QXwURw5WWvI5",
+      "spotify:track:0Ensfv1iBDcsOF6xNok14N",
+      "spotify:track:0ED79PS7Tgnnb1fr9fD7g4",
+      "spotify:track:1Rnx52PUuhrLrj306hOZHb",
+      "spotify:track:6a8LfgC5aAaHNhsQcGQY1r",
+      "spotify:track:2fGRJzoiYJYAzlQAyBONMb"
+    ],
+    "message_mix_type": "MOOD",
+    "message_pl_id": "37i9dQZF1EVJSvZp5AOML2",
+    "message_recdex_params": [
+    ]
+  },
+  {
+    "timestamp_utc": "2024-01-23T20:22:00.700Z",
+    "context_time": 1706041320700,
+    "message_discovery_contents": [
+      "spotify:track:2oJ8Il24SIiDCJv39RYzPp",
+      "spotify:track:3MYUHaITeEQh3WjMkHr67z",
+      "spotify:track:4zwq3QUKgMNk0NSLl7fpbP",
+      "spotify:track:35yZkNFNVosiHE6Uj0COVM",
+      "spotify:track:2k5SEAK05D29ZkqbnFgIVL"
+    ],
+    "message_mix_type": "DECADE",
+    "message_pl_id": "37i9dQZF1EQqedj0y9Uwvu",
+    "message_recdex_params": [
+    ]
+  },
+  {
+    "timestamp_utc": "2024-01-25T22:28:28.002Z",
+    "context_time": 1706221708002,
+    "message_discovery_contents": [
+      "spotify:track:1divptdjcWXvF1aflfTQnw",
+      "spotify:track:4ZOv9mx6Lz7RRaBFi5UNaE",
+      "spotify:track:2VGDntFPvgvqSiUf9ITEfW",
+      "spotify:track:1L8H6AuK4TaMmolSL0N0mR"
+    ],
+    "message_mix_type": "DECADE",
+    "message_pl_id": "37i9dQZF1EQn4jwNIohw50",
+    "message_recdex_params": [
+    ]
+  },
+  {
+    "timestamp_utc": "2024-01-23T20:22:02.357Z",
+    "context_time": 1706041322357,
+    "message_discovery_contents": [
+      "spotify:track:3b589i3VEOsWJRNdOdWDsK"
+    ],
+    "message_mix_type": "GENRE",
+    "message_pl_id": "37i9dQZF1EQp9BVPsNVof1",
+    "message_recdex_params": [
+    ]
+  },
+  {
+    "timestamp_utc": "2024-01-07T23:11:50.387Z",
+    "context_time": 1704669110387,
+    "message_discovery_contents": [
+      "spotify:track:18nGprzEucUO4FF768lLhe",
+      "spotify:track:1ELW3mroLCVV20CIYnuCQn",
+      "spotify:track:1BpG59DLyW6jZxN2PYiUA3"
+    ],
+    "message_mix_type": "GENRE",
+    "message_pl_id": "37i9dQZF1EQpoj8u9Hn81e",
+    "message_recdex_params": [
+    ]
+  },
+  {
+    "timestamp_utc": "2024-01-30T22:51:05.171Z",
+    "context_time": 1706655065171,
+    "message_discovery_contents": [
+      "spotify:track:1NHd4UVxT5d5EGYzlDq17T",
+      "spotify:track:5xcunlfaZvD9BDQsLONI7A"
+    ],
+    "message_mix_type": "GENRE",
+    "message_pl_id": "37i9dQZF1EQp9BVPsNVof1",
+    "message_recdex_params": [
+    ]
+  },
+  {
+    "timestamp_utc": "2024-01-25T22:28:28.048Z",
+    "context_time": 1706221708048,
+    "message_discovery_contents": [
+      "spotify:track:2yQweA8nCYuzFj15LiOb41",
+      "spotify:track:51NcW3cfbdI0FLsD8dgXAq",
+      "spotify:track:1fmoCZ6mtMiqA5GHWPcZz9"
+    ],
+    "message_mix_type": "GENRE",
+    "message_pl_id": "37i9dQZF1EQp9BVPsNVof1",
+    "message_recdex_params": [
+    ]
+  },
+  {
+    "timestamp_utc": "2024-01-22T22:13:10.958Z",
+    "context_time": 1705961590958,
+    "message_discovery_contents": [
+      "spotify:track:0uKrhHBDUQ4w5fv4qwOubP",
+      "spotify:track:3PURbsY67tLMyausOABtit",
+      "spotify:track:2CG6feguaKMR3C4zCMjDNR"
+    ],
+    "message_mix_type": "MOOD",
+    "message_pl_id": "37i9dQZF1EVHGWrwldPRtj",
+    "message_recdex_params": [
+    ]
+  },
+  {
+    "timestamp_utc": "2024-01-01T18:00:57.190Z",
+    "context_time": 1704132057190,
+    "message_discovery_contents": [
+      "spotify:track:1GZJu6ciZ55S8Kp1s8Z5ex",
+      "spotify:track:4lKuJy6ozGLRMMIXTGesg4",
+      "spotify:track:3vRYtf5xgPrYeVzAmqvzTd",
+      "spotify:track:0R7KkoK3CRaKwb9gYeH1st"
+    ],
+    "message_mix_type": "GENRE",
+    "message_pl_id": "37i9dQZF1EQp9BVPsNVof1",
+    "message_recdex_params": [
+    ]
+  },
+  {
+    "timestamp_utc": "2024-01-27T17:21:55.250Z",
+    "context_time": 1706376115250,
+    "message_discovery_contents": [
+      "spotify:track:0p8LlXT1FG9vnrCH70dbuo",
+      "spotify:track:5eksCJ1r2T1kNlZPTHBGG2",
+      "spotify:track:1yTD2sqFUnRvD1Z1WwrAjL",
+      "spotify:track:1B07caalifihHMrWSYWqNK",
+      "spotify:track:4STQXkYSbQMlLRhwUIDjhh",
+      "spotify:track:0AiCAbg6Xb4uGk9bB5L1jw",
+      "spotify:track:6s9n8j05v6iezQO4vdlClA",
+      "spotify:track:7tOAN6w4a1LD0iqkRnIrhZ",
+      "spotify:track:5Qa679CkfZaEEsLGUBfXFp",
+      "spotify:track:2jVYJ5WjkhqhEsTchOQyfW",
+      "spotify:track:7CSebbAAlgMqngWpEkhBl5",
+      "spotify:track:2aDPkl4GCO2b53goL5Ia4W",
+      "spotify:track:5zWd3igj3YbzlrWPLMzgqZ",
+      "spotify:track:4jo8s0TQGVHnmZ2gjErAQ2",
+      "spotify:track:166rSYrYi3SaZ2ncrBbl7J",
+      "spotify:track:5IdhVFJKEU4JNi7cwDnc6h",
+      "spotify:track:786hvlF3Hi3hdNAXHdIo8Q",
+      "spotify:track:5iX7aAVoO3dzUOZ1eAvg6f",
+      "spotify:track:6P74cWuc5hPhCZB5yuSZsH",
+      "spotify:track:4TesXLELrAp8TPGHckP6Ap",
+      "spotify:track:5aJI7OzC1n3XKVLgYAxgwj",
+      "spotify:track:3TPr2Em1i454nDS8UJbaFW",
+      "spotify:track:7I8UTLiBA1ptFm04WulwhH",
+      "spotify:track:2FYGZDfsAnNsrm1gVbyKnG",
+      "spotify:track:0zIAV4bCfP2SrihxJcZFAw"
+    ],
+    "message_mix_type": "GENRE",
+    "message_pl_id": "37i9dQZF1EQmK1rjZuPGDt",
+    "message_recdex_params": [
+    ]
+  },
+  {
+    "timestamp_utc": "2024-01-25T18:34:51.079Z",
+    "context_time": 1706207691079,
+    "message_discovery_contents": [
+      "spotify:track:1ELW3mroLCVV20CIYnuCQn",
+      "spotify:track:4Z4i631BesV0P6LTvfLAdL",
+      "spotify:track:1M3ldz0gop7cJeEWUuJCfe"
+    ],
+    "message_mix_type": "GENRE",
+    "message_pl_id": "37i9dQZF1EQpoj8u9Hn81e",
+    "message_recdex_params": [
+    ]
+  },
+  {
+    "timestamp_utc": "2024-01-30T22:51:05.126Z",
+    "context_time": 1706655065126,
+    "message_discovery_contents": [
+      "spotify:track:67wcAJeaNwGm0fcB4HzzYm",
+      "spotify:track:1L8H6AuK4TaMmolSL0N0mR",
+      "spotify:track:4EZ2C0321dYtzKD0zEfsUy",
+      "spotify:track:7jZBPuJmkOsfPkwFD30dAA",
+      "spotify:track:12YAZNNm2OuSgDBKjFQcNm",
+      "spotify:track:2cmRpmO04TLaKPzmAzySYZ"
+    ],
+    "message_mix_type": "GENRE",
+    "message_pl_id": "37i9dQZF1EQqkOPvHGajmW",
+    "message_recdex_params": [
+    ]
+  },
+  {
+    "timestamp_utc": "2024-01-27T23:22:10.629Z",
+    "context_time": 1706397730629,
+    "message_discovery_contents": [
+      "spotify:track:2073QOEC8rBtSyTsRyaWiP",
+      "spotify:track:2VGDntFPvgvqSiUf9ITEfW",
+      "spotify:track:1KjLbuPsJmYdZJt0CsyVAg",
+      "spotify:track:6guXQ9rHmOofkqp8uHYO8r"
+    ],
+    "message_mix_type": "GENRE",
+    "message_pl_id": "37i9dQZF1EQqkOPvHGajmW",
+    "message_recdex_params": [
+    ]
+  },
+  {
+    "timestamp_utc": "2024-01-27T16:45:48.970Z",
+    "context_time": 1706373948970,
+    "message_discovery_contents": [
+      "spotify:track:1kgHjcE0F72RDkaA8adtXG",
+      "spotify:track:1XAzFYJR94m9T4AgshhO99",
+      "spotify:track:4vh6Rn6FVG4w79JmlZ5p7d",
+      "spotify:track:5wTv501Kl9wLABLwHo11RJ"
+    ],
+    "message_mix_type": "MOOD",
+    "message_pl_id": "37i9dQZF1EVJHK7Q1TBABQ",
+    "message_recdex_params": [
+    ]
+  },
+  {
+    "timestamp_utc": "2024-01-04T22:16:42.475Z",
+    "context_time": 1704406602475,
+    "message_discovery_contents": [
+      "spotify:track:1L8H6AuK4TaMmolSL0N0mR",
+      "spotify:track:7jZBPuJmkOsfPkwFD30dAA",
+      "spotify:track:3kMWvClYqkjWK5hjgDIyYy",
+      "spotify:track:67wcAJeaNwGm0fcB4HzzYm",
+      "spotify:track:3DXHaJzqRCgv3rd5U9EoXU",
+      "spotify:track:5P2hEcHjoNMh33EsFPPOJE"
+    ],
+    "message_mix_type": "GENRE",
+    "message_pl_id": "37i9dQZF1EQqkOPvHGajmW",
+    "message_recdex_params": [
+    ]
+  },
+  {
+    "timestamp_utc": "2024-01-01T18:01:42.107Z",
+    "context_time": 1704132102107,
+    "message_discovery_contents": [
+      "spotify:track:1GZJu6ciZ55S8Kp1s8Z5ex",
+      "spotify:track:4lKuJy6ozGLRMMIXTGesg4",
+      "spotify:track:3vRYtf5xgPrYeVzAmqvzTd",
+      "spotify:track:0R7KkoK3CRaKwb9gYeH1st"
+    ],
+    "message_mix_type": "GENRE",
+    "message_pl_id": "37i9dQZF1EQp9BVPsNVof1",
+    "message_recdex_params": [
+    ]
+  },
+  {
+    "timestamp_utc": "2024-01-27T23:22:08.961Z",
+    "context_time": 1706397728961,
+    "message_discovery_contents": [
+      "spotify:track:2073QOEC8rBtSyTsRyaWiP",
+      "spotify:track:2VGDntFPvgvqSiUf9ITEfW",
+      "spotify:track:1KjLbuPsJmYdZJt0CsyVAg",
+      "spotify:track:6guXQ9rHmOofkqp8uHYO8r"
+    ],
+    "message_mix_type": "GENRE",
+    "message_pl_id": "37i9dQZF1EQqkOPvHGajmW",
+    "message_recdex_params": [
+    ]
+  },
+  {
+    "timestamp_utc": "2024-01-26T13:34:08.547Z",
+    "context_time": 1706276048547,
+    "message_discovery_contents": [
+      "spotify:track:2VGDntFPvgvqSiUf9ITEfW",
+      "spotify:track:4vh6Rn6FVG4w79JmlZ5p7d"
+    ],
+    "message_mix_type": "MOOD",
+    "message_pl_id": "37i9dQZF1EVJHK7Q1TBABQ",
+    "message_recdex_params": [
+    ]
+  },
+  {
+    "timestamp_utc": "2024-01-27T17:21:55.181Z",
+    "context_time": 1706376115181,
+    "message_discovery_contents": [
+      "spotify:track:37D9O4De2WL1hA6gyResgl",
+      "spotify:track:7Aa0lfRO9KDcVi7zLpCjTH"
+    ],
+    "message_mix_type": "MOOD",
+    "message_pl_id": "37i9dQZF1EVHGWrwldPRtj",
+    "message_recdex_params": [
+    ]
+  },
+  {
+    "timestamp_utc": "2024-01-23T20:22:00.699Z",
+    "context_time": 1706041320699,
+    "message_discovery_contents": [
+      "spotify:track:4rvnBqTmx66LlCJZLbLAOY",
+      "spotify:track:1CzfZY7lXaysy84x3a2jix",
+      "spotify:track:1YRmwmoN3oBezY2ND8jhyH",
+      "spotify:track:18nGprzEucUO4FF768lLhe",
+      "spotify:track:125ABiFu87TxipoWAMK8LR"
+    ],
+    "message_mix_type": "GENRE",
+    "message_pl_id": "37i9dQZF1EQpoj8u9Hn81e",
+    "message_recdex_params": [
+    ]
+  },
+  {
+    "timestamp_utc": "2024-01-26T13:34:08.551Z",
+    "context_time": 1706276048551,
+    "message_discovery_contents": [
+      "spotify:track:64R2n9O7Aif7YP3ivkOWYS",
+      "spotify:track:3RCj5fG55qjtmnEML1gpnA",
+      "spotify:track:2073QOEC8rBtSyTsRyaWiP",
+      "spotify:track:0rUIff1QHd5zlOBtlHVqd9",
+      "spotify:track:5gmv3BgePSYiHnPJgY7oTJ",
+      "spotify:track:67y8hDBlt0p74eeRwKz1KJ",
+      "spotify:track:5uTjNzGKCQ50synrf9dWmT",
+      "spotify:track:5ozqshq2dtU7SYCpCBu0NE"
+    ],
+    "message_mix_type": "GENRE",
+    "message_pl_id": "37i9dQZF1EQqkOPvHGajmW",
+    "message_recdex_params": [
+    ]
+  },
+  {
+    "timestamp_utc": "2024-01-27T23:32:07.930Z",
+    "context_time": 1706398327930,
+    "message_discovery_contents": [
+      "spotify:track:0jiKqHfWmSgPInSsGWBjbL",
+      "spotify:track:3RCj5fG55qjtmnEML1gpnA"
+    ],
+    "message_mix_type": "DECADE",
+    "message_pl_id": "37i9dQZF1EQn4jwNIohw50",
+    "message_recdex_params": [
+    ]
+  },
+  {
+    "timestamp_utc": "2024-01-22T22:13:07.913Z",
+    "context_time": 1705961587913,
+    "message_discovery_contents": [
+      "spotify:track:64DRmqvCT6xC1ox9Zst1Rc",
+      "spotify:track:4AKUOaCRcoKTFnVI9LtsrN"
+    ],
+    "message_mix_type": "DECADE",
+    "message_pl_id": "37i9dQZF1EQqedj0y9Uwvu",
+    "message_recdex_params": [
+    ]
+  },
+  {
+    "timestamp_utc": "2024-01-22T22:13:10.987Z",
+    "context_time": 1705961590987,
+    "message_discovery_contents": [
+      "spotify:track:7xpw5FSNYXKfdQSBuO0THv",
+      "spotify:track:1b2G6vSI7JF3slSMirS4oz",
+      "spotify:track:4wcWI3GEtaGm38dbdDFbyI"
+    ],
+    "message_mix_type": "DECADE",
+    "message_pl_id": "37i9dQZF1EQn2GRFTFMl2A",
+    "message_recdex_params": [
+    ]
+  },
+  {
+    "timestamp_utc": "2024-01-26T13:34:07.037Z",
+    "context_time": 1706276047037,
+    "message_discovery_contents": [
+      "spotify:track:58FsmlVRQxpjFmXF8vSKMT",
+      "spotify:track:2OQ1V0e2O56AeIo4ywuYKF",
+      "spotify:track:35yZkNFNVosiHE6Uj0COVM"
+    ],
+    "message_mix_type": "DECADE",
+    "message_pl_id": "37i9dQZF1EQqedj0y9Uwvu",
+    "message_recdex_params": [
+    ]
+  },
+  {
+    "timestamp_utc": "2024-01-27T16:45:48.934Z",
+    "context_time": 1706373948934,
+    "message_discovery_contents": [
+      "spotify:track:0p8LlXT1FG9vnrCH70dbuo",
+      "spotify:track:5eksCJ1r2T1kNlZPTHBGG2",
+      "spotify:track:7IMU8eXXQnXiWChljmRlxh",
+      "spotify:track:1B07caalifihHMrWSYWqNK",
+      "spotify:track:4STQXkYSbQMlLRhwUIDjhh",
+      "spotify:track:0AiCAbg6Xb4uGk9bB5L1jw",
+      "spotify:track:5Qa679CkfZaEEsLGUBfXFp",
+      "spotify:track:2jVYJ5WjkhqhEsTchOQyfW",
+      "spotify:track:1yTD2sqFUnRvD1Z1WwrAjL",
+      "spotify:track:2aDPkl4GCO2b53goL5Ia4W",
+      "spotify:track:5zWd3igj3YbzlrWPLMzgqZ",
+      "spotify:track:4jo8s0TQGVHnmZ2gjErAQ2",
+      "spotify:track:166rSYrYi3SaZ2ncrBbl7J",
+      "spotify:track:5IdhVFJKEU4JNi7cwDnc6h",
+      "spotify:track:5iX7aAVoO3dzUOZ1eAvg6f",
+      "spotify:track:6P74cWuc5hPhCZB5yuSZsH",
+      "spotify:track:4TesXLELrAp8TPGHckP6Ap",
+      "spotify:track:5aJI7OzC1n3XKVLgYAxgwj",
+      "spotify:track:3TPr2Em1i454nDS8UJbaFW",
+      "spotify:track:2FYGZDfsAnNsrm1gVbyKnG",
+      "spotify:track:0zIAV4bCfP2SrihxJcZFAw",
+      "spotify:track:5u6y4u5EgDv0peILf60H5t",
+      "spotify:track:4WAdzFPrvnq77ZS7woIkfv"
+    ],
+    "message_mix_type": "GENRE",
+    "message_pl_id": "37i9dQZF1EQmK1rjZuPGDt",
+    "message_recdex_params": [
+    ]
+  },
+  {
+    "timestamp_utc": "2024-01-24T14:22:14.598Z",
+    "context_time": 1706106134598,
+    "message_discovery_contents": [
+      "spotify:track:5I6jxFTcbN8sHT3MPUeTAH"
+    ],
+    "message_mix_type": "DECADE",
+    "message_pl_id": "37i9dQZF1EQn2GRFTFMl2A",
+    "message_recdex_params": [
+    ]
+  },
+  {
+    "timestamp_utc": "2024-01-23T23:01:59.965Z",
+    "context_time": 1706050919965,
+    "message_discovery_contents": [
+      "spotify:track:1L8H6AuK4TaMmolSL0N0mR",
+      "spotify:track:67wcAJeaNwGm0fcB4HzzYm",
+      "spotify:track:2073QOEC8rBtSyTsRyaWiP"
+    ],
+    "message_mix_type": "GENRE",
+    "message_pl_id": "37i9dQZF1EQqkOPvHGajmW",
+    "message_recdex_params": [
+    ]
+  },
+  {
+    "timestamp_utc": "2024-01-10T04:22:26.568Z",
+    "context_time": 1704860546568,
+    "message_discovery_contents": [
+      "spotify:track:4O9t8Qq941SAzdGlex4noA",
+      "spotify:track:2HTzzn4hP4PHlX2nLotWF4"
+    ],
+    "message_mix_type": "DECADE",
+    "message_pl_id": "37i9dQZF1EQqedj0y9Uwvu",
+    "message_recdex_params": [
+    ]
+  },
+  {
+    "timestamp_utc": "2024-01-01T18:00:57.200Z",
+    "context_time": 1704132057200,
+    "message_discovery_contents": [
+      "spotify:track:1GZJu6ciZ55S8Kp1s8Z5ex",
+      "spotify:track:5G0oVoL309pqsvGDzhMOwx",
+      "spotify:track:6ncNLU982iaD9WFb2gTwKd",
+      "spotify:track:4zSrcTmkkNotgvJE97rIhO",
+      "spotify:track:1hgX0ZmmP7IRRjUFCIBrnQ"
+    ],
+    "message_mix_type": "DECADE",
+    "message_pl_id": "37i9dQZF1EQqedj0y9Uwvu",
+    "message_recdex_params": [
+    ]
+  },
+  {
+    "timestamp_utc": "2024-01-01T18:01:43.579Z",
+    "context_time": 1704132103579,
+    "message_discovery_contents": [
+      "spotify:track:4lKuJy6ozGLRMMIXTGesg4",
+      "spotify:track:0R7KkoK3CRaKwb9gYeH1st"
+    ],
+    "message_mix_type": "GENRE",
+    "message_pl_id": "37i9dQZF1EQp9BVPsNVof1",
+    "message_recdex_params": [
+    ]
+  },
+  {
+    "timestamp_utc": "2024-01-24T14:22:14.592Z",
+    "context_time": 1706106134592,
+    "message_discovery_contents": [
+      "spotify:track:5gmv3BgePSYiHnPJgY7oTJ",
+      "spotify:track:3R7bfoEKPkxaukeC3ZSn4o",
+      "spotify:track:64R2n9O7Aif7YP3ivkOWYS"
+    ],
+    "message_mix_type": "GENRE",
+    "message_pl_id": "37i9dQZF1EQqkOPvHGajmW",
+    "message_recdex_params": [
+    ]
+  },
+  {
+    "timestamp_utc": "2024-01-23T23:02:01.479Z",
+    "context_time": 1706050921479,
+    "message_discovery_contents": [
+      "spotify:track:1L8H6AuK4TaMmolSL0N0mR",
+      "spotify:track:2073QOEC8rBtSyTsRyaWiP",
+      "spotify:track:7uMZy0bALAdneerERyr7Ks",
+      "spotify:track:33X9miK4Xz7pNeVrc9RITG"
+    ],
+    "message_mix_type": "GENRE",
+    "message_pl_id": "37i9dQZF1EQqkOPvHGajmW",
+    "message_recdex_params": [
+    ]
+  },
+  {
+    "timestamp_utc": "2024-01-30T22:51:06.865Z",
+    "context_time": 1706655066865,
+    "message_discovery_contents": [
+      "spotify:track:1OxNBuk83EeS1Nj0k8mfPZ",
+      "spotify:track:125ABiFu87TxipoWAMK8LR",
+      "spotify:track:2wi0QZ8SagYzfSeAee6Rm4"
+    ],
+    "message_mix_type": "GENRE",
+    "message_pl_id": "37i9dQZF1EQpoj8u9Hn81e",
+    "message_recdex_params": [
+    ]
+  },
+  {
+    "timestamp_utc": "2024-01-23T20:22:00.714Z",
+    "context_time": 1706041320714,
+    "message_discovery_contents": [
+      "spotify:track:0xjkgYSzHjBZNvyUaC9cXX",
+      "spotify:track:5wTv501Kl9wLABLwHo11RJ"
+    ],
+    "message_mix_type": "MOOD",
+    "message_pl_id": "37i9dQZF1EVHGWrwldPRtj",
+    "message_recdex_params": [
+    ]
+  },
+  {
+    "timestamp_utc": "2024-01-27T23:22:10.629Z",
+    "context_time": 1706397730629,
+    "message_discovery_contents": [
+      "spotify:track:1pUb1ZGMdSldjWGo7Nrg17",
+      "spotify:track:4l6gl1xs2TQx5SwBNdWEsv",
+      "spotify:track:4DVu7YgHVJaeN0C7HNpy2q",
+      "spotify:track:4R4CVA5Amtq3IlukuMA85R",
+      "spotify:track:4NGG9OBS86xX09ciDdpMN1",
+      "spotify:track:5gtcKzuYZStBLhudEtrS4M",
+      "spotify:track:5ALMF4Z6a9VUl66LHVHjBl",
+      "spotify:track:1whO1RzuS19yG358T4d8G6",
+      "spotify:track:0AbWcaFA1bsObTMmsgPnBo",
+      "spotify:track:3s768KxqbbRHoOcIt4FDSN",
+      "spotify:track:4pbpghW9IzG3UKu0UfFxkc",
+      "spotify:track:1EuFHPoVGfyfEZBaYExK7v",
+      "spotify:track:5fl9DTvHOVrbg7crvJ0hCr",
+      "spotify:track:0a3OncBmvyH15J54mxPgpz",
+      "spotify:track:6sI5m6cabkKWBuDh0kXMKk",
+      "spotify:track:3i24dUJKnMzsDqaFWqTGlb",
+      "spotify:track:3PbtKwVUqIZPvbQZarAC0w",
+      "spotify:track:7yzM0pEseQUpb6BMViOPEA",
+      "spotify:track:36apwMphkcaS63LY3JJMPh",
+      "spotify:track:7aLn70gMnbTCVGoIro42Kd",
+      "spotify:track:6lzDycd60SJ7H8y6wuESGl",
+      "spotify:track:5yEu5YHXKzbBerMRWQyQoR",
+      "spotify:track:7a1qVPD6barWAywQ1WPxMj",
+      "spotify:track:6HamqpndailP6wZUFRABhL",
+      "spotify:track:0sCeNwt8xRCMR4NhKpMyBe",
+      "spotify:track:1XAzFYJR94m9T4AgshhO99",
+      "spotify:track:0nPoWlU7nIz74B6px39NMz",
+      "spotify:track:6UafismKR6D8PCFrWn93ND",
+      "spotify:track:7j9R8UwGYw4Ne76lJN2SO0",
+      "spotify:track:4hbFRCdzLTkOU6j2cgly6L",
+      "spotify:track:5wBi26umb4oxXLmpJ32BWV",
+      "spotify:track:7zNVRfHPepINDouHuNa90i",
+      "spotify:track:7aFrMWov54kN7d8lSllHbY"
+    ],
+    "message_mix_type": "GENRE",
+    "message_pl_id": "37i9dQZF1EQqA6klNdJvwx",
+    "message_recdex_params": [
+    ]
+  },
+  {
+    "timestamp_utc": "2024-01-27T16:45:48.940Z",
+    "context_time": 1706373948940,
+    "message_discovery_contents": [
+      "spotify:track:37D9O4De2WL1hA6gyResgl",
+      "spotify:track:7Aa0lfRO9KDcVi7zLpCjTH"
+    ],
+    "message_mix_type": "MOOD",
+    "message_pl_id": "37i9dQZF1EVHGWrwldPRtj",
+    "message_recdex_params": [
+    ]
+  },
+  {
+    "timestamp_utc": "2024-01-23T20:22:02.290Z",
+    "context_time": 1706041322290,
+    "message_discovery_contents": [
+      "spotify:track:4zwq3QUKgMNk0NSLl7fpbP",
+      "spotify:track:3F2tjxAH9CpVamPajbYmTx"
+    ],
+    "message_mix_type": "MOOD",
+    "message_pl_id": "37i9dQZF1EVHGWrwldPRtj",
+    "message_recdex_params": [
+    ]
+  },
+  {
+    "timestamp_utc": "2024-01-07T23:11:50.473Z",
+    "context_time": 1704669110473,
+    "message_discovery_contents": [
+      "spotify:track:1L8H6AuK4TaMmolSL0N0mR",
+      "spotify:track:5JOO8UMaEpOfhhatQQsAqm",
+      "spotify:track:3DXHaJzqRCgv3rd5U9EoXU",
+      "spotify:track:48HSUrDZQPVeWuVckLb902",
+      "spotify:track:7jZBPuJmkOsfPkwFD30dAA",
+      "spotify:track:2VGDntFPvgvqSiUf9ITEfW",
+      "spotify:track:4Z3pwfHNEp40Fa6iqAaPf8",
+      "spotify:track:0rdWkO7ncrh1lrJGDmLq9L",
+      "spotify:track:2Lt6XpDCo3xETDwWgvZJIY"
+    ],
+    "message_mix_type": "GENRE",
+    "message_pl_id": "37i9dQZF1EQqkOPvHGajmW",
+    "message_recdex_params": [
+    ]
+  },
+  {
+    "timestamp_utc": "2024-01-26T13:34:07.095Z",
+    "context_time": 1706276047095,
+    "message_discovery_contents": [
+      "spotify:track:64R2n9O7Aif7YP3ivkOWYS",
+      "spotify:track:3RCj5fG55qjtmnEML1gpnA",
+      "spotify:track:2073QOEC8rBtSyTsRyaWiP",
+      "spotify:track:0rUIff1QHd5zlOBtlHVqd9",
+      "spotify:track:5gmv3BgePSYiHnPJgY7oTJ",
+      "spotify:track:67y8hDBlt0p74eeRwKz1KJ",
+      "spotify:track:5uTjNzGKCQ50synrf9dWmT",
+      "spotify:track:5ozqshq2dtU7SYCpCBu0NE"
+    ],
+    "message_mix_type": "GENRE",
+    "message_pl_id": "37i9dQZF1EQqkOPvHGajmW",
+    "message_recdex_params": [
+    ]
+  },
+  {
+    "timestamp_utc": "2024-01-24T14:22:14.613Z",
+    "context_time": 1706106134613,
+    "message_discovery_contents": [
+      "spotify:track:58FsmlVRQxpjFmXF8vSKMT",
+      "spotify:track:1hgX0ZmmP7IRRjUFCIBrnQ"
+    ],
+    "message_mix_type": "DECADE",
+    "message_pl_id": "37i9dQZF1EQqedj0y9Uwvu",
+    "message_recdex_params": [
+    ]
+  },
+  {
+    "timestamp_utc": "2024-01-23T20:22:02.297Z",
+    "context_time": 1706041322297,
+    "message_discovery_contents": [
+    ],
+    "message_mix_type": "DECADE",
+    "message_pl_id": "37i9dQZF1EQn4jwNIohw50",
+    "message_recdex_params": [
+    ]
+  },
+  {
+    "timestamp_utc": "2024-01-10T13:33:06.277Z",
+    "context_time": 1704893586277,
+    "message_discovery_contents": [
+      "spotify:track:1msXkHv84LKikJGKcfdGBu"
+    ],
+    "message_mix_type": "MOOD",
+    "message_pl_id": "37i9dQZF1EVHGWrwldPRtj",
+    "message_recdex_params": [
+    ]
+  },
+  {
+    "timestamp_utc": "2024-01-25T18:34:49.021Z",
+    "context_time": 1706207689021,
+    "message_discovery_contents": [
+      "spotify:track:5aJI7OzC1n3XKVLgYAxgwj",
+      "spotify:track:4fCevXfseuEJRmPwmNnUZr",
+      "spotify:track:4mNU7ddD6fRyjMRBOOfj28",
+      "spotify:track:7baNYnxas4NlQXcoj6kSmp",
+      "spotify:track:0VusRPgveKAqVuCMKScGWp",
+      "spotify:track:0YjGcWlFaksNtsCIxfrmur",
+      "spotify:track:2z4UdFhJPFIRxv7toicES1",
+      "spotify:track:399Hm1oqfzzQaZRu3CtVMb",
+      "spotify:track:61PINnmqnoF9cTFfbGu3by",
+      "spotify:track:2Z82k4TZ7rLmyxrw8ApeQI",
+      "spotify:track:786hvlF3Hi3hdNAXHdIo8Q",
+      "spotify:track:6ZHKeoIOkvmYUIfxHLtE2Z",
+      "spotify:track:6yo7CsVh0PsDHwiAKkYZDd",
+      "spotify:track:1Iod4fjYd6TTXw9DI6nHpB",
+      "spotify:track:6lDyt5CQQAWnHhJyGczaBM",
+      "spotify:track:57YlhzK9E1fx3wN2XfSiVV",
+      "spotify:track:3TPr2Em1i454nDS8UJbaFW",
+      "spotify:track:4YwIblyn5m2XAJ7ljh5d79",
+      "spotify:track:4UP2cLNgUjPzCHKS92pp2U",
+      "spotify:track:2kzL2y5Sf0dooP2uiwk5tQ",
+      "spotify:track:6Y9ajxGefBUK9pMbT0C8gv",
+      "spotify:track:5Qa679CkfZaEEsLGUBfXFp",
+      "spotify:track:1PFNcjEKBz1BwrgCYuFJR3"
+    ],
+    "message_mix_type": "GENRE",
+    "message_pl_id": "37i9dQZF1EQmK1rjZuPGDt",
+    "message_recdex_params": [
+    ]
+  },
+  {
+    "timestamp_utc": "2024-01-25T18:34:49.025Z",
+    "context_time": 1706207689025,
+    "message_discovery_contents": [
+      "spotify:track:3R7bfoEKPkxaukeC3ZSn4o",
+      "spotify:track:5JOO8UMaEpOfhhatQQsAqm",
+      "spotify:track:12YAZNNm2OuSgDBKjFQcNm",
+      "spotify:track:2VGDntFPvgvqSiUf9ITEfW",
+      "spotify:track:4HpFU6eMThgW6Cael5AwYy",
+      "spotify:track:7uMZy0bALAdneerERyr7Ks",
+      "spotify:track:67wcAJeaNwGm0fcB4HzzYm"
+    ],
+    "message_mix_type": "GENRE",
+    "message_pl_id": "37i9dQZF1EQqkOPvHGajmW",
+    "message_recdex_params": [
+    ]
+  },
+  {
+    "timestamp_utc": "2024-01-01T18:01:41.999Z",
+    "context_time": 1704132101999,
+    "message_discovery_contents": [
+      "spotify:track:3Jc8DUdZ1iX5FbYaKzKVh1",
+      "spotify:track:6s9n8j05v6iezQO4vdlClA",
+      "spotify:track:3yM2nErrfkUTNomdVlmL9V",
+      "spotify:track:5eksCJ1r2T1kNlZPTHBGG2",
+      "spotify:track:0p8LlXT1FG9vnrCH70dbuo",
+      "spotify:track:36MwyyD3Bf7RHlq1zqmfMr",
+      "spotify:track:6cY6FqJrkJt9AiaCMfdWm3",
+      "spotify:track:3mnSq0DGKWTZcU3ccymC79",
+      "spotify:track:0D4dagzwqDUXb1bMBsHHKP",
+      "spotify:track:4J4S8Fm2BJt59zPWygsbpr",
+      "spotify:track:3Ztfe3UOfRkjTpajSYZ4qy",
+      "spotify:track:6FNdzxV9g4NaINrejBTPUi",
+      "spotify:track:2osdnFH9Hx9aDm9NssOEcP",
+      "spotify:track:2BUL7sF7y5oBYUQarVCukR",
+      "spotify:track:00SmB7n85SKROGjybsyq5i",
+      "spotify:track:5STDVTFO7ziu4LDaaRCx2n",
+      "spotify:track:4mNU7ddD6fRyjMRBOOfj28",
+      "spotify:track:0aw4Dcu2XxEuLtXaepPTEA",
+      "spotify:track:5zWd3igj3YbzlrWPLMzgqZ",
+      "spotify:track:36573bwqNlXfYksha3cVRP",
+      "spotify:track:65MDo5mxRY45IHpyVkLEU5",
+      "spotify:track:1PFNcjEKBz1BwrgCYuFJR3",
+      "spotify:track:4fCevXfseuEJRmPwmNnUZr",
+      "spotify:track:4gYwBQXC3GqypcP1FngT4s",
+      "spotify:track:0oucyVmfZtpU608vpYA1rs",
+      "spotify:track:2Z82k4TZ7rLmyxrw8ApeQI",
+      "spotify:track:4WAdzFPrvnq77ZS7woIkfv",
+      "spotify:track:23zJcKwLf5CeaKVbFhrWgF"
+    ],
+    "message_mix_type": "GENRE",
+    "message_pl_id": "37i9dQZF1EQmK1rjZuPGDt",
+    "message_recdex_params": [
+    ]
+  },
+  {
+    "timestamp_utc": "2024-01-26T16:59:46.481Z",
+    "context_time": 1706288386481,
+    "message_discovery_contents": [
+      "spotify:track:4Tzw9IdZbVyzmpWrvsGaNX",
+      "spotify:track:5xcunlfaZvD9BDQsLONI7A",
+      "spotify:track:4bJ7tMJqfYmkKgCYzaaG4B"
+    ],
+    "message_mix_type": "MOOD",
+    "message_pl_id": "37i9dQZF1EVHGWrwldPRtj",
+    "message_recdex_params": [
+    ]
+  },
+  {
+    "timestamp_utc": "2024-01-04T22:16:44.124Z",
+    "context_time": 1704406604124,
+    "message_discovery_contents": [
+      "spotify:track:4Z4i631BesV0P6LTvfLAdL",
+      "spotify:track:1CzfZY7lXaysy84x3a2jix",
+      "spotify:track:1ELW3mroLCVV20CIYnuCQn",
+      "spotify:track:2CH4mc6qWAI3ejAdqpON9B",
+      "spotify:track:19mC6xktT1JyyycK6cQaXA"
+    ],
+    "message_mix_type": "GENRE",
+    "message_pl_id": "37i9dQZF1EQpoj8u9Hn81e",
+    "message_recdex_params": [
+    ]
+  },
+  {
+    "timestamp_utc": "2024-01-04T22:16:44.046Z",
+    "context_time": 1704406604046,
+    "message_discovery_contents": [
+      "spotify:track:6VNooTY5w9A9wg1YUsEbKB",
+      "spotify:track:1hgX0ZmmP7IRRjUFCIBrnQ",
+      "spotify:track:4XXfQ8fBHMIgcygY4hV6RC"
+    ],
+    "message_mix_type": "DECADE",
+    "message_pl_id": "37i9dQZF1EQqedj0y9Uwvu",
+    "message_recdex_params": [
+    ]
+  },
+  {
+    "timestamp_utc": "2024-01-27T16:45:48.952Z",
+    "context_time": 1706373948952,
+    "message_discovery_contents": [
+      "spotify:track:1GZJu6ciZ55S8Kp1s8Z5ex",
+      "spotify:track:4AKUOaCRcoKTFnVI9LtsrN",
+      "spotify:track:3MYUHaITeEQh3WjMkHr67z",
+      "spotify:track:1gPeJMO7Az6ZtzHiaKUTWb"
+    ],
+    "message_mix_type": "DECADE",
+    "message_pl_id": "37i9dQZF1EQqedj0y9Uwvu",
+    "message_recdex_params": [
+    ]
+  },
+  {
+    "timestamp_utc": "2024-01-25T22:28:28.013Z",
+    "context_time": 1706221708013,
+    "message_discovery_contents": [
+      "spotify:track:1L8H6AuK4TaMmolSL0N0mR",
+      "spotify:track:6SlYQ2fAKWSfHEHNhH2kgM",
+      "spotify:track:67Hp634KZbo9B5WMsJOalE"
+    ],
+    "message_mix_type": "MOOD",
+    "message_pl_id": "37i9dQZF1EVJHK7Q1TBABQ",
+    "message_recdex_params": [
+    ]
+  },
+  {
+    "timestamp_utc": "2024-01-07T23:11:50.406Z",
+    "context_time": 1704669110406,
+    "message_discovery_contents": [
+      "spotify:track:2cmRpmO04TLaKPzmAzySYZ",
+      "spotify:track:7cMFjxhbXBpOlais7KMF3j",
+      "spotify:track:5xcunlfaZvD9BDQsLONI7A"
+    ],
+    "message_mix_type": "GENRE",
+    "message_pl_id": "37i9dQZF1EQp9BVPsNVof1",
+    "message_recdex_params": [
+    ]
+  },
+  {
+    "timestamp_utc": "2024-01-24T14:22:14.575Z",
+    "context_time": 1706106134575,
+    "message_discovery_contents": [
+      "spotify:track:19mC6xktT1JyyycK6cQaXA",
+      "spotify:track:4lKuJy6ozGLRMMIXTGesg4",
+      "spotify:track:7di4QTqNCZjX4JUFKhWQsr",
+      "spotify:track:04jqhpf3oV06HtlmthfcZZ"
+    ],
+    "message_mix_type": "MOOD",
+    "message_pl_id": "37i9dQZF1EVJHK7Q1TBABQ",
+    "message_recdex_params": [
+    ]
+  },
+  {
+    "timestamp_utc": "2024-01-27T23:22:08.959Z",
+    "context_time": 1706397728959,
+    "message_discovery_contents": [
+      "spotify:track:37D9O4De2WL1hA6gyResgl",
+      "spotify:track:7Aa0lfRO9KDcVi7zLpCjTH",
+      "spotify:track:3MYUHaITeEQh3WjMkHr67z",
+      "spotify:track:1kgHjcE0F72RDkaA8adtXG"
+    ],
+    "message_mix_type": "MOOD",
+    "message_pl_id": "37i9dQZF1EVHGWrwldPRtj",
+    "message_recdex_params": [
+    ]
+  },
+  {
+    "timestamp_utc": "2024-01-24T04:36:50.631Z",
+    "context_time": 1706071010631,
+    "message_discovery_contents": [
+      "spotify:track:74LRqSi9vqy4vnxCLInNAw",
+      "spotify:track:1NHd4UVxT5d5EGYzlDq17T",
+      "spotify:track:3u1hU4L9HLGBjcj1nQekIv"
+    ],
+    "message_mix_type": "GENRE",
+    "message_pl_id": "37i9dQZF1EQpoj8u9Hn81e",
+    "message_recdex_params": [
+    ]
+  },
+  {
+    "timestamp_utc": "2024-01-25T18:34:49.023Z",
+    "context_time": 1706207689023,
+    "message_discovery_contents": [
+      "spotify:track:1L8H6AuK4TaMmolSL0N0mR",
+      "spotify:track:6SlYQ2fAKWSfHEHNhH2kgM",
+      "spotify:track:67Hp634KZbo9B5WMsJOalE"
+    ],
+    "message_mix_type": "MOOD",
+    "message_pl_id": "37i9dQZF1EVJHK7Q1TBABQ",
+    "message_recdex_params": [
+    ]
+  },
+  {
+    "timestamp_utc": "2024-01-22T22:13:07.949Z",
+    "context_time": 1705961587949,
+    "message_discovery_contents": [
+      "spotify:track:0uKrhHBDUQ4w5fv4qwOubP",
+      "spotify:track:3PURbsY67tLMyausOABtit",
+      "spotify:track:2CG6feguaKMR3C4zCMjDNR"
+    ],
+    "message_mix_type": "MOOD",
+    "message_pl_id": "37i9dQZF1EVHGWrwldPRtj",
+    "message_recdex_params": [
+    ]
+  },
+  {
+    "timestamp_utc": "2024-01-07T23:11:50.416Z",
+    "context_time": 1704669110416,
+    "message_discovery_contents": [
+      "spotify:track:4lKuJy6ozGLRMMIXTGesg4",
+      "spotify:track:75SS50WWBZINsZgccsSnGs",
+      "spotify:track:2VGDntFPvgvqSiUf9ITEfW",
+      "spotify:track:0nhu2tp9FXwTu8kUDvS0xO"
+    ],
+    "message_mix_type": "MOOD",
+    "message_pl_id": "37i9dQZF1EVJHK7Q1TBABQ",
+    "message_recdex_params": [
+    ]
+  },
+  {
+    "timestamp_utc": "2024-01-23T22:37:31.035Z",
+    "context_time": 1706049451035,
+    "message_discovery_contents": [
+      "spotify:track:74LRqSi9vqy4vnxCLInNAw",
+      "spotify:track:1NHd4UVxT5d5EGYzlDq17T",
+      "spotify:track:3u1hU4L9HLGBjcj1nQekIv"
+    ],
+    "message_mix_type": "GENRE",
+    "message_pl_id": "37i9dQZF1EQpoj8u9Hn81e",
+    "message_recdex_params": [
+    ]
+  },
+  {
+    "timestamp_utc": "2024-01-01T18:00:57.133Z",
+    "context_time": 1704132057133,
+    "message_discovery_contents": [
+      "spotify:track:3kMWvClYqkjWK5hjgDIyYy",
+      "spotify:track:5uTjNzGKCQ50synrf9dWmT",
+      "spotify:track:6q6PeTloTbL2vb1Gt9sQQc",
+      "spotify:track:67wcAJeaNwGm0fcB4HzzYm",
+      "spotify:track:3RCj5fG55qjtmnEML1gpnA",
+      "spotify:track:2iWfZFAF8BCi0CY4NyuP8D"
+    ],
+    "message_mix_type": "GENRE",
+    "message_pl_id": "37i9dQZF1EQqkOPvHGajmW",
+    "message_recdex_params": [
+    ]
+  },
+  {
+    "timestamp_utc": "2024-01-25T18:34:49.051Z",
+    "context_time": 1706207689051,
+    "message_discovery_contents": [
+      "spotify:track:0aOT5OQeNPyZzGwwudbaYs"
+    ],
+    "message_mix_type": "MOOD",
+    "message_pl_id": "37i9dQZF1EVHGWrwldPRtj",
+    "message_recdex_params": [
+    ]
+  },
+  {
+    "timestamp_utc": "2024-01-22T22:13:11.017Z",
+    "context_time": 1705961591017,
+    "message_discovery_contents": [
+      "spotify:track:0aWhxzFrP2Yyz3CetJe0xE",
+      "spotify:track:7di4QTqNCZjX4JUFKhWQsr"
+    ],
+    "message_mix_type": "DECADE",
+    "message_pl_id": "37i9dQZF1EQn4jwNIohw50",
+    "message_recdex_params": [
+    ]
+  },
+  {
+    "timestamp_utc": "2024-01-10T13:33:06.213Z",
+    "context_time": 1704893586213,
+    "message_discovery_contents": [
+      "spotify:track:5gmv3BgePSYiHnPJgY7oTJ",
+      "spotify:track:48dojgnBKfp3drKOFdwycc",
+      "spotify:track:2cmRpmO04TLaKPzmAzySYZ"
+    ],
+    "message_mix_type": "MOOD",
+    "message_pl_id": "37i9dQZF1EVJHK7Q1TBABQ",
+    "message_recdex_params": [
+    ]
+  },
+  {
+    "timestamp_utc": "2024-01-26T16:59:46.512Z",
+    "context_time": 1706288386512,
+    "message_discovery_contents": [
+      "spotify:track:2VGDntFPvgvqSiUf9ITEfW",
+      "spotify:track:4vh6Rn6FVG4w79JmlZ5p7d"
+    ],
+    "message_mix_type": "MOOD",
+    "message_pl_id": "37i9dQZF1EVJHK7Q1TBABQ",
+    "message_recdex_params": [
+    ]
+  },
+  {
+    "timestamp_utc": "2024-01-01T18:01:42.164Z",
+    "context_time": 1704132102164,
+    "message_discovery_contents": [
+      "spotify:track:1L8H6AuK4TaMmolSL0N0mR",
+      "spotify:track:2Al2n6ziP5XjIMZEL4laQj",
+      "spotify:track:7di4QTqNCZjX4JUFKhWQsr"
+    ],
+    "message_mix_type": "MOOD",
+    "message_pl_id": "37i9dQZF1EVJHK7Q1TBABQ",
+    "message_recdex_params": [
+    ]
+  },
+  {
+    "timestamp_utc": "2024-01-26T16:59:46.552Z",
+    "context_time": 1706288386552,
+    "message_discovery_contents": [
+      "spotify:track:4Z4i631BesV0P6LTvfLAdL",
+      "spotify:track:18nGprzEucUO4FF768lLhe",
+      "spotify:track:3SYFuQxFvEVrOD54vW0Hu7"
+    ],
+    "message_mix_type": "GENRE",
+    "message_pl_id": "37i9dQZF1EQpoj8u9Hn81e",
+    "message_recdex_params": [
+    ]
+  },
+  {
+    "timestamp_utc": "2024-01-10T13:33:06.274Z",
+    "context_time": 1704893586274,
+    "message_discovery_contents": [
+      "spotify:track:7FheJOrB8J0eyK0ebcBAlI",
+      "spotify:track:44t34AtBWG4TKMF5Xc97kV",
+      "spotify:track:48dojgnBKfp3drKOFdwycc"
+    ],
+    "message_mix_type": "GENRE",
+    "message_pl_id": "37i9dQZF1EQpoj8u9Hn81e",
+    "message_recdex_params": [
+    ]
+  },
+  {
+    "timestamp_utc": "2024-01-01T18:01:42.036Z",
+    "context_time": 1704132102036,
+    "message_discovery_contents": [
+      "spotify:track:1GZJu6ciZ55S8Kp1s8Z5ex",
+      "spotify:track:5G0oVoL309pqsvGDzhMOwx",
+      "spotify:track:6ncNLU982iaD9WFb2gTwKd",
+      "spotify:track:4zSrcTmkkNotgvJE97rIhO",
+      "spotify:track:1hgX0ZmmP7IRRjUFCIBrnQ"
+    ],
+    "message_mix_type": "DECADE",
+    "message_pl_id": "37i9dQZF1EQqedj0y9Uwvu",
+    "message_recdex_params": [
+    ]
+  },
+  {
+    "timestamp_utc": "2024-01-27T23:22:10.604Z",
+    "context_time": 1706397730604,
+    "message_discovery_contents": [
+      "spotify:track:1kgHjcE0F72RDkaA8adtXG",
+      "spotify:track:1XAzFYJR94m9T4AgshhO99",
+      "spotify:track:3PURbsY67tLMyausOABtit",
+      "spotify:track:4vh6Rn6FVG4w79JmlZ5p7d",
+      "spotify:track:5wTv501Kl9wLABLwHo11RJ"
+    ],
+    "message_mix_type": "MOOD",
+    "message_pl_id": "37i9dQZF1EVJHK7Q1TBABQ",
+    "message_recdex_params": [
+    ]
+  },
+  {
+    "timestamp_utc": "2024-01-27T23:22:09.005Z",
+    "context_time": 1706397729005,
+    "message_discovery_contents": [
+      "spotify:track:74LRqSi9vqy4vnxCLInNAw",
+      "spotify:track:0R7KkoK3CRaKwb9gYeH1st",
+      "spotify:track:3u1hU4L9HLGBjcj1nQekIv"
+    ],
+    "message_mix_type": "GENRE",
+    "message_pl_id": "37i9dQZF1EQpoj8u9Hn81e",
+    "message_recdex_params": [
+    ]
+  },
+  {
+    "timestamp_utc": "2024-01-01T18:01:42.024Z",
+    "context_time": 1704132102024,
+    "message_discovery_contents": [
+      "spotify:track:0uKrhHBDUQ4w5fv4qwOubP",
+      "spotify:track:2GuIRSthEpYN5MO6PGD7Vx"
+    ],
+    "message_mix_type": "MOOD",
+    "message_pl_id": "37i9dQZF1EVHGWrwldPRtj",
+    "message_recdex_params": [
+    ]
+  },
+  {
+    "timestamp_utc": "2024-01-04T22:16:43.956Z",
+    "context_time": 1704406603956,
+    "message_discovery_contents": [
+      "spotify:track:7JC2I6zKONCvnr4HPlY9hi",
+      "spotify:track:0VusRPgveKAqVuCMKScGWp",
+      "spotify:track:4jo8s0TQGVHnmZ2gjErAQ2",
+      "spotify:track:54RQ2MR6WHCE2uU7kl33MW",
+      "spotify:track:4iVpZVKaPUnMhEagBOIIuI",
+      "spotify:track:6ITAFgQnorUyh0KnqmZ7h6",
+      "spotify:track:59hH7GJFrSd5v9FwgSZEw8",
+      "spotify:track:19AO4YUP1Uau61hXotfRu3",
+      "spotify:track:5aJI7OzC1n3XKVLgYAxgwj",
+      "spotify:track:0p8LlXT1FG9vnrCH70dbuo",
+      "spotify:track:3Ztfe3UOfRkjTpajSYZ4qy",
+      "spotify:track:2bPdJqmpRMqKMNgYHC9JEl",
+      "spotify:track:6s9n8j05v6iezQO4vdlClA",
+      "spotify:track:5eksCJ1r2T1kNlZPTHBGG2",
+      "spotify:track:3bxZhauuIU4ubctdRZwPYW",
+      "spotify:track:2HEr6PARUW822o9VLx25mg",
+      "spotify:track:5Qa679CkfZaEEsLGUBfXFp",
+      "spotify:track:490Eam6Vp7y7vzuGz35bbk",
+      "spotify:track:0zIAV4bCfP2SrihxJcZFAw",
+      "spotify:track:4Svozvfxge1lfmahcToBGi",
+      "spotify:track:1yTD2sqFUnRvD1Z1WwrAjL",
+      "spotify:track:36573bwqNlXfYksha3cVRP",
+      "spotify:track:0ds8HD4pYc88Po0RMygxiO",
+      "spotify:track:1wXeMZqegwYZ2zWtrwvXab",
+      "spotify:track:6HpgdL4zUpuyXCzvAhgR5a",
+      "spotify:track:53qroFU9Rs6gDq7pSD8rHP",
+      "spotify:track:2K1meYaIxerapOrEief7JH",
+      "spotify:track:36SJ7ZFx8J1f1RsewmUwMX",
+      "spotify:track:2BUL7sF7y5oBYUQarVCukR",
+      "spotify:track:73eUiyq2OGr7JtOmgbyMxj",
+      "spotify:track:4s85QjFYaW2mODjqjriyzw"
+    ],
+    "message_mix_type": "GENRE",
+    "message_pl_id": "37i9dQZF1EQmK1rjZuPGDt",
+    "message_recdex_params": [
+    ]
+  },
+  {
+    "timestamp_utc": "2024-01-27T23:22:09.019Z",
+    "context_time": 1706397729019,
+    "message_discovery_contents": [
+      "spotify:track:48dojgnBKfp3drKOFdwycc",
+      "spotify:track:4at0npP4QkdIUulFZIsYft",
+      "spotify:track:5I73WkfhuOvavHVYk3TGrm",
+      "spotify:track:6Orwi1oYLckpnBF7NbCbrg"
+    ],
+    "message_mix_type": "GENRE",
+    "message_pl_id": "37i9dQZF1EQp9BVPsNVof1",
+    "message_recdex_params": [
+    ]
+  },
+  {
+    "timestamp_utc": "2024-01-26T16:59:46.508Z",
+    "context_time": 1706288386508,
+    "message_discovery_contents": [
+      "spotify:track:58FsmlVRQxpjFmXF8vSKMT",
+      "spotify:track:2OQ1V0e2O56AeIo4ywuYKF",
+      "spotify:track:35yZkNFNVosiHE6Uj0COVM"
+    ],
+    "message_mix_type": "DECADE",
+    "message_pl_id": "37i9dQZF1EQqedj0y9Uwvu",
+    "message_recdex_params": [
+    ]
+  },
+  {
+    "timestamp_utc": "2024-01-23T22:37:33.831Z",
+    "context_time": 1706049453831,
+    "message_discovery_contents": [
+      "spotify:track:74LRqSi9vqy4vnxCLInNAw",
+      "spotify:track:1NHd4UVxT5d5EGYzlDq17T",
+      "spotify:track:3u1hU4L9HLGBjcj1nQekIv"
+    ],
+    "message_mix_type": "GENRE",
+    "message_pl_id": "37i9dQZF1EQpoj8u9Hn81e",
+    "message_recdex_params": [
+    ]
+  },
+  {
+    "timestamp_utc": "2024-01-23T20:22:00.746Z",
+    "context_time": 1706041320746,
+    "message_discovery_contents": [
+      "spotify:track:5kAwEqCAJ4yHdHmlAMSczs"
+    ],
+    "message_mix_type": "GENRE",
+    "message_pl_id": "37i9dQZF1EQp9BVPsNVof1",
+    "message_recdex_params": [
+    ]
+  },
+  {
+    "timestamp_utc": "2024-01-25T22:29:24.540Z",
+    "context_time": 1706221764540,
+    "message_discovery_contents": [
+      "spotify:track:2cmRpmO04TLaKPzmAzySYZ",
+      "spotify:track:0pAiyIHt9DyHOjWgF41kp6",
+      "spotify:track:1ShfKpLJ36nds13gOlNCUg"
+    ],
+    "message_mix_type": "DECADE",
+    "message_pl_id": "37i9dQZF1EQqedj0y9Uwvu",
+    "message_recdex_params": [
+    ]
+  },
+  {
+    "timestamp_utc": "2024-01-27T16:45:48.942Z",
+    "context_time": 1706373948942,
+    "message_discovery_contents": [
+      "spotify:track:2VGDntFPvgvqSiUf9ITEfW",
+      "spotify:track:1KjLbuPsJmYdZJt0CsyVAg",
+      "spotify:track:6guXQ9rHmOofkqp8uHYO8r",
+      "spotify:track:1btQN0JRiAzQxdKdJXADUh"
+    ],
+    "message_mix_type": "GENRE",
+    "message_pl_id": "37i9dQZF1EQqkOPvHGajmW",
+    "message_recdex_params": [
+    ]
+  },
+  {
+    "timestamp_utc": "2024-01-04T22:16:42.580Z",
+    "context_time": 1704406602580,
+    "message_discovery_contents": [
+      "spotify:track:4bJ7tMJqfYmkKgCYzaaG4B",
+      "spotify:track:574ILV8PiK3CpAUMVz7nNM",
+      "spotify:track:1fmoCZ6mtMiqA5GHWPcZz9",
+      "spotify:track:283hwD1gWItqQGJ4e2ImE8",
+      "spotify:track:4Z3pwfHNEp40Fa6iqAaPf8"
+    ],
+    "message_mix_type": "MOOD",
+    "message_pl_id": "37i9dQZF1EVHGWrwldPRtj",
+    "message_recdex_params": [
+    ]
+  },
+  {
+    "timestamp_utc": "2024-01-04T22:16:43.988Z",
+    "context_time": 1704406603988,
+    "message_discovery_contents": [
+      "spotify:track:4lKuJy6ozGLRMMIXTGesg4",
+      "spotify:track:3u1hU4L9HLGBjcj1nQekIv",
+      "spotify:track:1kgHjcE0F72RDkaA8adtXG"
+    ],
+    "message_mix_type": "MOOD",
+    "message_pl_id": "37i9dQZF1EVJHK7Q1TBABQ",
+    "message_recdex_params": [
+    ]
+  },
+  {
+    "timestamp_utc": "2024-01-23T20:22:00.703Z",
+    "context_time": 1706041320703,
+    "message_discovery_contents": [
+    ],
+    "message_mix_type": "DECADE",
+    "message_pl_id": "37i9dQZF1EQn4jwNIohw50",
+    "message_recdex_params": [
+    ]
+  },
+  {
+    "timestamp_utc": "2024-01-10T13:33:06.240Z",
+    "context_time": 1704893586240,
+    "message_discovery_contents": [
+      "spotify:track:1L8H6AuK4TaMmolSL0N0mR",
+      "spotify:track:2VGDntFPvgvqSiUf9ITEfW",
+      "spotify:track:1btQN0JRiAzQxdKdJXADUh",
+      "spotify:track:2a2MbiJN2skOxohykOVcss",
+      "spotify:track:12YAZNNm2OuSgDBKjFQcNm"
+    ],
+    "message_mix_type": "GENRE",
+    "message_pl_id": "37i9dQZF1EQqkOPvHGajmW",
+    "message_recdex_params": [
+    ]
+  },
+  {
+    "timestamp_utc": "2024-01-30T22:51:05.111Z",
+    "context_time": 1706655065111,
+    "message_discovery_contents": [
+      "spotify:track:1fmoCZ6mtMiqA5GHWPcZz9",
+      "spotify:track:7cMFjxhbXBpOlais7KMF3j",
+      "spotify:track:3RCj5fG55qjtmnEML1gpnA",
+      "spotify:track:3R7bfoEKPkxaukeC3ZSn4o"
+    ],
+    "message_mix_type": "DECADE",
+    "message_pl_id": "37i9dQZF1EQn4jwNIohw50",
+    "message_recdex_params": [
+    ]
+  },
+  {
+    "timestamp_utc": "2024-01-25T18:34:49.052Z",
+    "context_time": 1706207689052,
+    "message_discovery_contents": [
+      "spotify:track:2cmRpmO04TLaKPzmAzySYZ",
+      "spotify:track:0pAiyIHt9DyHOjWgF41kp6",
+      "spotify:track:1ShfKpLJ36nds13gOlNCUg"
+    ],
+    "message_mix_type": "DECADE",
+    "message_pl_id": "37i9dQZF1EQqedj0y9Uwvu",
+    "message_recdex_params": [
+    ]
+  },
+  {
+    "timestamp_utc": "2024-01-23T20:22:02.324Z",
+    "context_time": 1706041322324,
+    "message_discovery_contents": [
+      "spotify:track:5wTv501Kl9wLABLwHo11RJ",
+      "spotify:track:2Al2n6ziP5XjIMZEL4laQj",
+      "spotify:track:3u1hU4L9HLGBjcj1nQekIv"
+    ],
+    "message_mix_type": "MOOD",
+    "message_pl_id": "37i9dQZF1EVJHK7Q1TBABQ",
+    "message_recdex_params": [
+    ]
+  },
+  {
+    "timestamp_utc": "2024-01-22T22:13:07.960Z",
+    "context_time": 1705961587960,
+    "message_discovery_contents": [
+      "spotify:track:74LRqSi9vqy4vnxCLInNAw",
+      "spotify:track:18nGprzEucUO4FF768lLhe",
+      "spotify:track:4CWJ6V6Y5XBjM2STX6z9a0"
+    ],
+    "message_mix_type": "GENRE",
+    "message_pl_id": "37i9dQZF1EQpoj8u9Hn81e",
+    "message_recdex_params": [
+    ]
+  },
+  {
+    "timestamp_utc": "2024-01-23T20:22:00.689Z",
+    "context_time": 1706041320689,
+    "message_discovery_contents": [
+      "spotify:track:1vahbgf2hkAjBvYRtIo09F",
+      "spotify:track:5I6jxFTcbN8sHT3MPUeTAH"
+    ],
+    "message_mix_type": "DECADE",
+    "message_pl_id": "37i9dQZF1EQn2GRFTFMl2A",
+    "message_recdex_params": [
+    ]
+  },
+  {
+    "timestamp_utc": "2024-01-27T23:22:10.640Z",
+    "context_time": 1706397730640,
+    "message_discovery_contents": [
+      "spotify:track:48dojgnBKfp3drKOFdwycc",
+      "spotify:track:4at0npP4QkdIUulFZIsYft",
+      "spotify:track:5I73WkfhuOvavHVYk3TGrm",
+      "spotify:track:6Orwi1oYLckpnBF7NbCbrg"
+    ],
+    "message_mix_type": "GENRE",
+    "message_pl_id": "37i9dQZF1EQp9BVPsNVof1",
+    "message_recdex_params": [
+    ]
+  },
+  {
+    "timestamp_utc": "2024-01-25T22:29:24.468Z",
+    "context_time": 1706221764468,
+    "message_discovery_contents": [
+      "spotify:track:5aJI7OzC1n3XKVLgYAxgwj",
+      "spotify:track:4fCevXfseuEJRmPwmNnUZr",
+      "spotify:track:4mNU7ddD6fRyjMRBOOfj28",
+      "spotify:track:7baNYnxas4NlQXcoj6kSmp",
+      "spotify:track:0VusRPgveKAqVuCMKScGWp",
+      "spotify:track:0YjGcWlFaksNtsCIxfrmur",
+      "spotify:track:2z4UdFhJPFIRxv7toicES1",
+      "spotify:track:399Hm1oqfzzQaZRu3CtVMb",
+      "spotify:track:61PINnmqnoF9cTFfbGu3by",
+      "spotify:track:2Z82k4TZ7rLmyxrw8ApeQI",
+      "spotify:track:786hvlF3Hi3hdNAXHdIo8Q",
+      "spotify:track:6ZHKeoIOkvmYUIfxHLtE2Z",
+      "spotify:track:6yo7CsVh0PsDHwiAKkYZDd",
+      "spotify:track:1Iod4fjYd6TTXw9DI6nHpB",
+      "spotify:track:6lDyt5CQQAWnHhJyGczaBM",
+      "spotify:track:57YlhzK9E1fx3wN2XfSiVV",
+      "spotify:track:3TPr2Em1i454nDS8UJbaFW",
+      "spotify:track:4YwIblyn5m2XAJ7ljh5d79",
+      "spotify:track:4UP2cLNgUjPzCHKS92pp2U",
+      "spotify:track:2kzL2y5Sf0dooP2uiwk5tQ",
+      "spotify:track:6Y9ajxGefBUK9pMbT0C8gv",
+      "spotify:track:5Qa679CkfZaEEsLGUBfXFp",
+      "spotify:track:1PFNcjEKBz1BwrgCYuFJR3"
+    ],
+    "message_mix_type": "GENRE",
+    "message_pl_id": "37i9dQZF1EQmK1rjZuPGDt",
+    "message_recdex_params": [
+    ]
+  },
+  {
+    "timestamp_utc": "2024-01-26T16:59:46.465Z",
+    "context_time": 1706288386465,
+    "message_discovery_contents": [
+      "spotify:track:36MwyyD3Bf7RHlq1zqmfMr",
+      "spotify:track:2CWaphFrQ153K3mmlXEVjt",
+      "spotify:track:5Qa679CkfZaEEsLGUBfXFp",
+      "spotify:track:7IMU8eXXQnXiWChljmRlxh",
+      "spotify:track:3bxZhauuIU4ubctdRZwPYW",
+      "spotify:track:52vMWINBrhwuTaTg1tTVLa",
+      "spotify:track:6Jfpv3vvfobay7uYVxWXog",
+      "spotify:track:6lDyt5CQQAWnHhJyGczaBM",
+      "spotify:track:0VusRPgveKAqVuCMKScGWp",
+      "spotify:track:6HpgdL4zUpuyXCzvAhgR5a",
+      "spotify:track:4HWwcSkeRTsqjZurFC6tMH",
+      "spotify:track:0p8LlXT1FG9vnrCH70dbuo",
+      "spotify:track:2mDpaQWRfsXtymj7JhVOEE",
+      "spotify:track:3QKJELWORZZ7rUZDWeMWSA",
+      "spotify:track:0r3nMF80NSIuPIxeod4aoG",
+      "spotify:track:65MDo5mxRY45IHpyVkLEU5",
+      "spotify:track:5zWd3igj3YbzlrWPLMzgqZ",
+      "spotify:track:5Ly9lKxeE9YMVwQj52dpfo",
+      "spotify:track:35u3Isd3DuXKAEC7JCC0lB",
+      "spotify:track:53qroFU9Rs6gDq7pSD8rHP",
+      "spotify:track:6Wy3X4jSszfisnRscJCHdq",
+      "spotify:track:7xzMrUmlooPa1Fmp88hlYc",
+      "spotify:track:2mNLwOxMnm0TxXJBF1y5Ln",
+      "spotify:track:36573bwqNlXfYksha3cVRP"
+    ],
+    "message_mix_type": "GENRE",
+    "message_pl_id": "37i9dQZF1EQmK1rjZuPGDt",
+    "message_recdex_params": [
+    ]
+  },
+  {
+    "timestamp_utc": "2024-01-10T13:33:06.237Z",
+    "context_time": 1704893586237,
+    "message_discovery_contents": [
+      "spotify:track:4R4CVA5Amtq3IlukuMA85R",
+      "spotify:track:1GzBTeJLSh6frMPWxvNygc",
+      "spotify:track:4IIxBK0L8uj7viwxhmuSc4",
+      "spotify:track:3W4IoNW4011i8qfCwN75Va",
+      "spotify:track:0mcMYeHHRc8qIlg3XcUtz4",
+      "spotify:track:4F17fOFNxTHhNk6fXq46w6",
+      "spotify:track:3Z3wyUUPcKyw4nJkW2PqBA",
+      "spotify:track:5c44MldQ2CvroamP73V1lp",
+      "spotify:track:7JPNvoMjoIXkTDAMx9Aajj",
+      "spotify:track:3yMYs3jJdAPxMgqb0CYZUG",
+      "spotify:track:562WsbcGbzCzvIoMWusiQ0",
+      "spotify:track:6DNWsuWuAXAlpmsad1sGfz",
+      "spotify:track:3pOT3YM1WPFsCyQIRgSBNP",
+      "spotify:track:0YeP4gSyzoUA8O09B0MBaF",
+      "spotify:track:1YQWosTIljIvxAgHWTp7KP",
+      "spotify:track:07Vp8mqbrIFtj7YgPMnoCE",
+      "spotify:track:3C1FbpEjfjqxThHB8xao3D",
+      "spotify:track:6TAW00MAPvS59yEoIgtOEI",
+      "spotify:track:6lzDycd60SJ7H8y6wuESGl",
+      "spotify:track:6cY6FqJrkJt9AiaCMfdWm3",
+      "spotify:track:3rOwiAmkqaCTPforuRb6i7",
+      "spotify:track:7mY3gSbmqBfMqKv0cCyXJl",
+      "spotify:track:1LK04nhkS3aQLkGsqcvg2w",
+      "spotify:track:7j9R8UwGYw4Ne76lJN2SO0",
+      "spotify:track:2ZMxDYgLgJ6nTvBikMsvSh"
+    ],
+    "message_mix_type": "GENRE",
+    "message_pl_id": "37i9dQZF1EQqA6klNdJvwx",
+    "message_recdex_params": [
+    ]
+  },
+  {
+    "timestamp_utc": "2024-01-27T23:22:08.977Z",
+    "context_time": 1706397728977,
+    "message_discovery_contents": [
+      "spotify:track:1pUb1ZGMdSldjWGo7Nrg17",
+      "spotify:track:4l6gl1xs2TQx5SwBNdWEsv",
+      "spotify:track:4DVu7YgHVJaeN0C7HNpy2q",
+      "spotify:track:4R4CVA5Amtq3IlukuMA85R",
+      "spotify:track:4NGG9OBS86xX09ciDdpMN1",
+      "spotify:track:5gtcKzuYZStBLhudEtrS4M",
+      "spotify:track:5ALMF4Z6a9VUl66LHVHjBl",
+      "spotify:track:1whO1RzuS19yG358T4d8G6",
+      "spotify:track:0AbWcaFA1bsObTMmsgPnBo",
+      "spotify:track:3s768KxqbbRHoOcIt4FDSN",
+      "spotify:track:4pbpghW9IzG3UKu0UfFxkc",
+      "spotify:track:1EuFHPoVGfyfEZBaYExK7v",
+      "spotify:track:5fl9DTvHOVrbg7crvJ0hCr",
+      "spotify:track:0a3OncBmvyH15J54mxPgpz",
+      "spotify:track:6sI5m6cabkKWBuDh0kXMKk",
+      "spotify:track:3i24dUJKnMzsDqaFWqTGlb",
+      "spotify:track:3PbtKwVUqIZPvbQZarAC0w",
+      "spotify:track:7yzM0pEseQUpb6BMViOPEA",
+      "spotify:track:36apwMphkcaS63LY3JJMPh",
+      "spotify:track:7aLn70gMnbTCVGoIro42Kd",
+      "spotify:track:6lzDycd60SJ7H8y6wuESGl",
+      "spotify:track:5yEu5YHXKzbBerMRWQyQoR",
+      "spotify:track:7a1qVPD6barWAywQ1WPxMj",
+      "spotify:track:6HamqpndailP6wZUFRABhL",
+      "spotify:track:0sCeNwt8xRCMR4NhKpMyBe",
+      "spotify:track:1XAzFYJR94m9T4AgshhO99",
+      "spotify:track:0nPoWlU7nIz74B6px39NMz",
+      "spotify:track:6UafismKR6D8PCFrWn93ND",
+      "spotify:track:7j9R8UwGYw4Ne76lJN2SO0",
+      "spotify:track:4hbFRCdzLTkOU6j2cgly6L",
+      "spotify:track:5wBi26umb4oxXLmpJ32BWV",
+      "spotify:track:7zNVRfHPepINDouHuNa90i",
+      "spotify:track:7aFrMWov54kN7d8lSllHbY"
+    ],
+    "message_mix_type": "GENRE",
+    "message_pl_id": "37i9dQZF1EQqA6klNdJvwx",
+    "message_recdex_params": [
+    ]
+  },
+  {
+    "timestamp_utc": "2024-01-25T22:28:28.116Z",
+    "context_time": 1706221708116,
+    "message_discovery_contents": [
+      "spotify:track:0aOT5OQeNPyZzGwwudbaYs"
+    ],
+    "message_mix_type": "MOOD",
+    "message_pl_id": "37i9dQZF1EVHGWrwldPRtj",
+    "message_recdex_params": [
+    ]
+  },
+  {
+    "timestamp_utc": "2024-01-30T22:51:05.122Z",
+    "context_time": 1706655065122,
+    "message_discovery_contents": [
+      "spotify:track:5wTv501Kl9wLABLwHo11RJ",
+      "spotify:track:4zwq3QUKgMNk0NSLl7fpbP"
+    ],
+    "message_mix_type": "MOOD",
+    "message_pl_id": "37i9dQZF1EVHGWrwldPRtj",
+    "message_recdex_params": [
+    ]
+  },
+  {
+    "timestamp_utc": "2024-01-25T22:29:24.468Z",
+    "context_time": 1706221764468,
+    "message_discovery_contents": [
+      "spotify:track:1L8H6AuK4TaMmolSL0N0mR",
+      "spotify:track:1kgHjcE0F72RDkaA8adtXG",
+      "spotify:track:1ABwlOhYanbuafWx1yvx0T"
+    ],
+    "message_mix_type": "MOOD",
+    "message_pl_id": "37i9dQZF1EVJHK7Q1TBABQ",
+    "message_recdex_params": [
+    ]
+  },
+  {
+    "timestamp_utc": "2024-01-01T18:00:57.160Z",
+    "context_time": 1704132057160,
+    "message_discovery_contents": [
+      "spotify:track:0uKrhHBDUQ4w5fv4qwOubP",
+      "spotify:track:2GuIRSthEpYN5MO6PGD7Vx"
+    ],
+    "message_mix_type": "MOOD",
+    "message_pl_id": "37i9dQZF1EVHGWrwldPRtj",
+    "message_recdex_params": [
+    ]
+  },
+  {
+    "timestamp_utc": "2024-01-26T13:34:08.562Z",
+    "context_time": 1706276048562,
+    "message_discovery_contents": [
+      "spotify:track:36MwyyD3Bf7RHlq1zqmfMr",
+      "spotify:track:2CWaphFrQ153K3mmlXEVjt",
+      "spotify:track:5Qa679CkfZaEEsLGUBfXFp",
+      "spotify:track:7IMU8eXXQnXiWChljmRlxh",
+      "spotify:track:3bxZhauuIU4ubctdRZwPYW",
+      "spotify:track:52vMWINBrhwuTaTg1tTVLa",
+      "spotify:track:6Jfpv3vvfobay7uYVxWXog",
+      "spotify:track:6lDyt5CQQAWnHhJyGczaBM",
+      "spotify:track:0VusRPgveKAqVuCMKScGWp",
+      "spotify:track:6HpgdL4zUpuyXCzvAhgR5a",
+      "spotify:track:4HWwcSkeRTsqjZurFC6tMH",
+      "spotify:track:0p8LlXT1FG9vnrCH70dbuo",
+      "spotify:track:2mDpaQWRfsXtymj7JhVOEE",
+      "spotify:track:3QKJELWORZZ7rUZDWeMWSA",
+      "spotify:track:0r3nMF80NSIuPIxeod4aoG",
+      "spotify:track:65MDo5mxRY45IHpyVkLEU5",
+      "spotify:track:5zWd3igj3YbzlrWPLMzgqZ",
+      "spotify:track:5Ly9lKxeE9YMVwQj52dpfo",
+      "spotify:track:35u3Isd3DuXKAEC7JCC0lB",
+      "spotify:track:53qroFU9Rs6gDq7pSD8rHP",
+      "spotify:track:6Wy3X4jSszfisnRscJCHdq",
+      "spotify:track:7xzMrUmlooPa1Fmp88hlYc",
+      "spotify:track:2mNLwOxMnm0TxXJBF1y5Ln",
+      "spotify:track:36573bwqNlXfYksha3cVRP"
+    ],
+    "message_mix_type": "GENRE",
+    "message_pl_id": "37i9dQZF1EQmK1rjZuPGDt",
+    "message_recdex_params": [
+    ]
+  },
+  {
+    "timestamp_utc": "2024-01-04T22:16:44.060Z",
+    "context_time": 1704406604060,
+    "message_discovery_contents": [
+      "spotify:track:1L8H6AuK4TaMmolSL0N0mR",
+      "spotify:track:7jZBPuJmkOsfPkwFD30dAA",
+      "spotify:track:3kMWvClYqkjWK5hjgDIyYy",
+      "spotify:track:67wcAJeaNwGm0fcB4HzzYm",
+      "spotify:track:3DXHaJzqRCgv3rd5U9EoXU",
+      "spotify:track:5P2hEcHjoNMh33EsFPPOJE"
+    ],
+    "message_mix_type": "GENRE",
+    "message_pl_id": "37i9dQZF1EQqkOPvHGajmW",
+    "message_recdex_params": [
+    ]
+  },
+  {
+    "timestamp_utc": "2024-01-24T14:22:14.616Z",
+    "context_time": 1706106134616,
+    "message_discovery_contents": [
+      "spotify:track:3PURbsY67tLMyausOABtit",
+      "spotify:track:7nZ9CzhiFRPhOQCn7eDSnn"
+    ],
+    "message_mix_type": "MOOD",
+    "message_pl_id": "37i9dQZF1EVHGWrwldPRtj",
+    "message_recdex_params": [
+    ]
+  },
+  {
+    "timestamp_utc": "2024-01-30T22:51:05.121Z",
+    "context_time": 1706655065121,
+    "message_discovery_contents": [
+      "spotify:track:2CWaphFrQ153K3mmlXEVjt",
+      "spotify:track:0VusRPgveKAqVuCMKScGWp",
+      "spotify:track:6ZHKeoIOkvmYUIfxHLtE2Z",
+      "spotify:track:0p8LlXT1FG9vnrCH70dbuo",
+      "spotify:track:0aw4Dcu2XxEuLtXaepPTEA",
+      "spotify:track:6lDyt5CQQAWnHhJyGczaBM",
+      "spotify:track:6yo7CsVh0PsDHwiAKkYZDd",
+      "spotify:track:0AFBTfI6zDUBLy0oi1pqZg",
+      "spotify:track:4z24zdPIKCZP6q3XoZlpM9",
+      "spotify:track:5I3jKRlR8WS0xYYamnAhpG",
+      "spotify:track:53qroFU9Rs6gDq7pSD8rHP",
+      "spotify:track:1wXeMZqegwYZ2zWtrwvXab",
+      "spotify:track:7xzMrUmlooPa1Fmp88hlYc",
+      "spotify:track:4r7iDEGdW2Gw9hJlCbi5qL",
+      "spotify:track:3mnSq0DGKWTZcU3ccymC79",
+      "spotify:track:2jVYJ5WjkhqhEsTchOQyfW",
+      "spotify:track:5zWd3igj3YbzlrWPLMzgqZ",
+      "spotify:track:6s9n8j05v6iezQO4vdlClA",
+      "spotify:track:0vZwdJBXOGppAMLjwDUNWg",
+      "spotify:track:6YTBfxkdGce9pLEy9jG9Jo",
+      "spotify:track:2osdnFH9Hx9aDm9NssOEcP",
+      "spotify:track:61PINnmqnoF9cTFfbGu3by",
+      "spotify:track:5BuFt1sQmebCdqwAJ0vZmi",
+      "spotify:track:5je0CDv1Z1hT82Nek1Fjhl",
+      "spotify:track:59hH7GJFrSd5v9FwgSZEw8",
+      "spotify:track:0eqFasz9SX1iE9IgyYONhc",
+      "spotify:track:2koS4fD3kzizdnzWzyrxyT"
+    ],
+    "message_mix_type": "GENRE",
+    "message_pl_id": "37i9dQZF1EQmK1rjZuPGDt",
+    "message_recdex_params": [
+    ]
+  },
+  {
+    "timestamp_utc": "2024-01-23T20:22:02.385Z",
+    "context_time": 1706041322385,
+    "message_discovery_contents": [
+      "spotify:track:74LRqSi9vqy4vnxCLInNAw",
+      "spotify:track:1NHd4UVxT5d5EGYzlDq17T",
+      "spotify:track:3u1hU4L9HLGBjcj1nQekIv"
+    ],
+    "message_mix_type": "GENRE",
+    "message_pl_id": "37i9dQZF1EQpoj8u9Hn81e",
+    "message_recdex_params": [
+    ]
+  },
+  {
+    "timestamp_utc": "2023-12-27T20:51:29.964Z",
+    "context_time": 1703710289964,
+    "message_discovery_contents": [
+      "spotify:track:3kMWvClYqkjWK5hjgDIyYy",
+      "spotify:track:0jiKqHfWmSgPInSsGWBjbL"
+    ],
+    "message_mix_type": "MOOD",
+    "message_pl_id": "37i9dQZF1EVHGWrwldPRtj",
+    "message_recdex_params": [
+    ]
+  },
+  {
+    "timestamp_utc": "2024-01-04T22:16:42.537Z",
+    "context_time": 1704406602537,
+    "message_discovery_contents": [
+      "spotify:track:4lKuJy6ozGLRMMIXTGesg4",
+      "spotify:track:3u1hU4L9HLGBjcj1nQekIv",
+      "spotify:track:1kgHjcE0F72RDkaA8adtXG"
+    ],
+    "message_mix_type": "MOOD",
+    "message_pl_id": "37i9dQZF1EVJHK7Q1TBABQ",
+    "message_recdex_params": [
+    ]
+  },
+  {
+    "timestamp_utc": "2024-01-10T04:22:15.354Z",
+    "context_time": 1704860535354,
+    "message_discovery_contents": [
+      "spotify:track:67wcAJeaNwGm0fcB4HzzYm",
+      "spotify:track:0LbZxI8FZU1E48EqF9XgC0",
+      "spotify:track:1oqcT3rKnuyGf7gcQU8IXx",
+      "spotify:track:6vtG5IMWKidt5K54DCSUo6",
+      "spotify:track:3AA8xNhDC0MpqwkGX3EP5V",
+      "spotify:track:7axM6HbfUTu3dXEIWOYcH1",
+      "spotify:track:5H7NVUGfw8fstj1LWJ0wXo",
+      "spotify:track:5uWLuFDmMs1r44KFfUwWiA",
+      "spotify:track:5IdhVFJKEU4JNi7cwDnc6h",
+      "spotify:track:4rf0IVQDFjr27T4sgah5Pf",
+      "spotify:track:7zNjMHHEw51azJpQiufaW7",
+      "spotify:track:286TLtk120rnrmVeQClDTc",
+      "spotify:track:6IPFsG4OpNShJfJ4LoeJW0",
+      "spotify:track:7DM5k4ql2H94jNn0kN0SaU",
+      "spotify:track:1Ad2HcIX9zBqoWRvxtpYGf",
+      "spotify:track:5E0Qv4iuhvxfi10PSyUUTZ",
+      "spotify:track:2OGcwhOAldo9aiDwBnXMfc",
+      "spotify:track:2wwXXUy6P0TCqDNsU0ygm5",
+      "spotify:track:17XvbAd3K1GOjWy5uQvK2U",
+      "spotify:track:6I6QkE2UVSj9YX48oRrD6e",
+      "spotify:track:0tZkVZ9DeAa0MNK2gY5NtV",
+      "spotify:track:0hJfuyUwtEYMlGgvr3nzz9",
+      "spotify:track:2tMIzKu3vXQzvbDShxjbmu",
+      "spotify:track:16TgdSXa71GegvWppYh6Qp",
+      "spotify:track:66olzBxCgKlpFRB1LKH5pO",
+      "spotify:track:7sMYJtxTHZKCDr48rAoA4J",
+      "spotify:track:49skdn8Truaufvcz8BXmtT",
+      "spotify:track:57LP4yVIIBkRLWbq0ETF4K",
+      "spotify:track:2gTF3yPxvDpW2EAYbOVeIt",
+      "spotify:track:1Ug5wxoHthwxctyWTUMGta",
+      "spotify:track:59kNaCxnyX7Ezt1m6KxGLY",
+      "spotify:track:4Vldw0eUgCbhgyxAWY6JMk",
+      "spotify:track:1ssrdw13fZZkdCjVGqKq6T",
+      "spotify:track:5Bp3OmGILMam5w6KnafdKY",
+      "spotify:track:4VbDJMkAX3dWNBdn3KH6Wx",
+      "spotify:track:3CLEFS76bCwStAlaySu9zC",
+      "spotify:track:2keTABWAcdVZxJ6j8iEy83"
+    ],
+    "message_mix_type": "MOOD",
+    "message_pl_id": "37i9dQZF1EVJSvZp5AOML2",
+    "message_recdex_params": [
+    ]
+  },
+  {
+    "timestamp_utc": "2024-01-25T22:29:24.481Z",
+    "context_time": 1706221764481,
+    "message_discovery_contents": [
+      "spotify:track:3R7bfoEKPkxaukeC3ZSn4o",
+      "spotify:track:5JOO8UMaEpOfhhatQQsAqm",
+      "spotify:track:12YAZNNm2OuSgDBKjFQcNm",
+      "spotify:track:2VGDntFPvgvqSiUf9ITEfW",
+      "spotify:track:4HpFU6eMThgW6Cael5AwYy",
+      "spotify:track:7uMZy0bALAdneerERyr7Ks",
+      "spotify:track:67wcAJeaNwGm0fcB4HzzYm"
+    ],
+    "message_mix_type": "GENRE",
+    "message_pl_id": "37i9dQZF1EQqkOPvHGajmW",
+    "message_recdex_params": [
+    ]
+  },
+  {
+    "timestamp_utc": "2024-01-01T18:00:57.151Z",
+    "context_time": 1704132057151,
+    "message_discovery_contents": [
+      "spotify:track:3Jc8DUdZ1iX5FbYaKzKVh1",
+      "spotify:track:6s9n8j05v6iezQO4vdlClA",
+      "spotify:track:3yM2nErrfkUTNomdVlmL9V",
+      "spotify:track:5eksCJ1r2T1kNlZPTHBGG2",
+      "spotify:track:0p8LlXT1FG9vnrCH70dbuo",
+      "spotify:track:36MwyyD3Bf7RHlq1zqmfMr",
+      "spotify:track:6cY6FqJrkJt9AiaCMfdWm3",
+      "spotify:track:3mnSq0DGKWTZcU3ccymC79",
+      "spotify:track:0D4dagzwqDUXb1bMBsHHKP",
+      "spotify:track:4J4S8Fm2BJt59zPWygsbpr",
+      "spotify:track:3Ztfe3UOfRkjTpajSYZ4qy",
+      "spotify:track:6FNdzxV9g4NaINrejBTPUi",
+      "spotify:track:2osdnFH9Hx9aDm9NssOEcP",
+      "spotify:track:2BUL7sF7y5oBYUQarVCukR",
+      "spotify:track:00SmB7n85SKROGjybsyq5i",
+      "spotify:track:5STDVTFO7ziu4LDaaRCx2n",
+      "spotify:track:4mNU7ddD6fRyjMRBOOfj28",
+      "spotify:track:0aw4Dcu2XxEuLtXaepPTEA",
+      "spotify:track:5zWd3igj3YbzlrWPLMzgqZ",
+      "spotify:track:36573bwqNlXfYksha3cVRP",
+      "spotify:track:65MDo5mxRY45IHpyVkLEU5",
+      "spotify:track:1PFNcjEKBz1BwrgCYuFJR3",
+      "spotify:track:4fCevXfseuEJRmPwmNnUZr",
+      "spotify:track:4gYwBQXC3GqypcP1FngT4s",
+      "spotify:track:0oucyVmfZtpU608vpYA1rs",
+      "spotify:track:2Z82k4TZ7rLmyxrw8ApeQI",
+      "spotify:track:4WAdzFPrvnq77ZS7woIkfv",
+      "spotify:track:23zJcKwLf5CeaKVbFhrWgF"
+    ],
+    "message_mix_type": "GENRE",
+    "message_pl_id": "37i9dQZF1EQmK1rjZuPGDt",
+    "message_recdex_params": [
+    ]
+  },
+  {
+    "timestamp_utc": "2024-01-27T23:22:10.614Z",
+    "context_time": 1706397730614,
+    "message_discovery_contents": [
+      "spotify:track:2k5SEAK05D29ZkqbnFgIVL"
+    ],
+    "message_mix_type": "DECADE",
+    "message_pl_id": "37i9dQZF1EQqedj0y9Uwvu",
+    "message_recdex_params": [
+    ]
+  },
+  {
+    "timestamp_utc": "2024-01-22T22:13:07.907Z",
+    "context_time": 1705961587907,
+    "message_discovery_contents": [
+      "spotify:track:4lKuJy6ozGLRMMIXTGesg4",
+      "spotify:track:5uTjNzGKCQ50synrf9dWmT",
+      "spotify:track:5gC2aJwuSzGe3IJVlk9r2O",
+      "spotify:track:3m04gMIUG6HgYHn65fy5Xt",
+      "spotify:track:6q6PeTloTbL2vb1Gt9sQQc"
+    ],
+    "message_mix_type": "MOOD",
+    "message_pl_id": "37i9dQZF1EVJHK7Q1TBABQ",
+    "message_recdex_params": [
+    ]
+  },
+  {
+    "timestamp_utc": "2024-01-24T14:22:14.660Z",
+    "context_time": 1706106134660,
+    "message_discovery_contents": [
+      "spotify:track:5wTv501Kl9wLABLwHo11RJ",
+      "spotify:track:5uTjNzGKCQ50synrf9dWmT",
+      "spotify:track:6q6PeTloTbL2vb1Gt9sQQc"
+    ],
+    "message_mix_type": "GENRE",
+    "message_pl_id": "37i9dQZF1EQp9BVPsNVof1",
+    "message_recdex_params": [
+    ]
+  },
+  {
+    "timestamp_utc": "2024-01-27T23:32:06.824Z",
+    "context_time": 1706398326824,
+    "message_discovery_contents": [
+      "spotify:track:0jiKqHfWmSgPInSsGWBjbL",
+      "spotify:track:3RCj5fG55qjtmnEML1gpnA"
+    ],
+    "message_mix_type": "DECADE",
+    "message_pl_id": "37i9dQZF1EQn4jwNIohw50",
+    "message_recdex_params": [
+    ]
+  },
+  {
+    "timestamp_utc": "2024-01-26T13:34:08.638Z",
+    "context_time": 1706276048638,
+    "message_discovery_contents": [
+      "spotify:track:58FsmlVRQxpjFmXF8vSKMT",
+      "spotify:track:2OQ1V0e2O56AeIo4ywuYKF",
+      "spotify:track:35yZkNFNVosiHE6Uj0COVM"
+    ],
+    "message_mix_type": "DECADE",
+    "message_pl_id": "37i9dQZF1EQqedj0y9Uwvu",
+    "message_recdex_params": [
+    ]
+  },
+  {
+    "timestamp_utc": "2024-01-04T22:16:43.988Z",
+    "context_time": 1704406603988,
+    "message_discovery_contents": [
+      "spotify:track:4bJ7tMJqfYmkKgCYzaaG4B",
+      "spotify:track:574ILV8PiK3CpAUMVz7nNM",
+      "spotify:track:1fmoCZ6mtMiqA5GHWPcZz9",
+      "spotify:track:283hwD1gWItqQGJ4e2ImE8",
+      "spotify:track:4Z3pwfHNEp40Fa6iqAaPf8"
+    ],
+    "message_mix_type": "MOOD",
+    "message_pl_id": "37i9dQZF1EVHGWrwldPRtj",
+    "message_recdex_params": [
+    ]
+  },
+  {
+    "timestamp_utc": "2024-01-01T18:00:57.136Z",
+    "context_time": 1704132057136,
+    "message_discovery_contents": [
+      "spotify:track:1L8H6AuK4TaMmolSL0N0mR",
+      "spotify:track:2Al2n6ziP5XjIMZEL4laQj",
+      "spotify:track:7di4QTqNCZjX4JUFKhWQsr"
+    ],
+    "message_mix_type": "MOOD",
+    "message_pl_id": "37i9dQZF1EVJHK7Q1TBABQ",
+    "message_recdex_params": [
+    ]
+  },
+  {
+    "timestamp_utc": "2024-01-27T17:21:55.147Z",
+    "context_time": 1706376115147,
+    "message_discovery_contents": [
+      "spotify:track:0jiKqHfWmSgPInSsGWBjbL",
+      "spotify:track:5uTjNzGKCQ50synrf9dWmT"
+    ],
+    "message_mix_type": "DECADE",
+    "message_pl_id": "37i9dQZF1EQn4jwNIohw50",
+    "message_recdex_params": [
+    ]
+  },
+  {
+    "timestamp_utc": "2024-01-25T22:29:24.506Z",
+    "context_time": 1706221764506,
+    "message_discovery_contents": [
+      "spotify:track:0aOT5OQeNPyZzGwwudbaYs"
+    ],
+    "message_mix_type": "MOOD",
+    "message_pl_id": "37i9dQZF1EVHGWrwldPRtj",
+    "message_recdex_params": [
+    ]
+  },
+  {
+    "timestamp_utc": "2024-01-27T16:45:48.999Z",
+    "context_time": 1706373948999,
+    "message_discovery_contents": [
+      "spotify:track:0R7KkoK3CRaKwb9gYeH1st",
+      "spotify:track:4b6WRfxJRY40RBpl3TMQVq",
+      "spotify:track:5kAwEqCAJ4yHdHmlAMSczs"
+    ],
+    "message_mix_type": "GENRE",
+    "message_pl_id": "37i9dQZF1EQpoj8u9Hn81e",
+    "message_recdex_params": [
+    ]
+  },
+  {
+    "timestamp_utc": "2024-01-22T22:07:20.217Z",
+    "context_time": 1705961240217,
+    "message_discovery_contents": [
+      "spotify:track:1GZJu6ciZ55S8Kp1s8Z5ex",
+      "spotify:track:4O9t8Qq941SAzdGlex4noA"
+    ],
+    "message_mix_type": "GENRE",
+    "message_pl_id": "37i9dQZF1EQp9BVPsNVof1",
+    "message_recdex_params": [
+    ]
+  },
+  {
+    "timestamp_utc": "2024-01-25T22:29:24.598Z",
+    "context_time": 1706221764598,
+    "message_discovery_contents": [
+      "spotify:track:1divptdjcWXvF1aflfTQnw",
+      "spotify:track:4ZOv9mx6Lz7RRaBFi5UNaE",
+      "spotify:track:2VGDntFPvgvqSiUf9ITEfW",
+      "spotify:track:1L8H6AuK4TaMmolSL0N0mR"
+    ],
+    "message_mix_type": "DECADE",
+    "message_pl_id": "37i9dQZF1EQn4jwNIohw50",
+    "message_recdex_params": [
+    ]
+  },
+  {
+    "timestamp_utc": "2024-01-04T22:16:42.531Z",
+    "context_time": 1704406602531,
+    "message_discovery_contents": [
+      "spotify:track:1fmoCZ6mtMiqA5GHWPcZz9",
+      "spotify:track:4lKuJy6ozGLRMMIXTGesg4",
+      "spotify:track:0R6sHxjN04nAgEW0jgqLbU",
+      "spotify:track:3vRYtf5xgPrYeVzAmqvzTd"
+    ],
+    "message_mix_type": "GENRE",
+    "message_pl_id": "37i9dQZF1EQp9BVPsNVof1",
+    "message_recdex_params": [
+    ]
+  },
+  {
+    "timestamp_utc": "2024-01-26T13:34:07.055Z",
+    "context_time": 1706276047055,
+    "message_discovery_contents": [
+      "spotify:track:5wTv501Kl9wLABLwHo11RJ",
+      "spotify:track:1fmoCZ6mtMiqA5GHWPcZz9"
+    ],
+    "message_mix_type": "GENRE",
+    "message_pl_id": "37i9dQZF1EQp9BVPsNVof1",
+    "message_recdex_params": [
+    ]
+  },
+  {
+    "timestamp_utc": "2024-01-25T18:34:49.022Z",
+    "context_time": 1706207689022,
+    "message_discovery_contents": [
+      "spotify:track:1divptdjcWXvF1aflfTQnw",
+      "spotify:track:4ZOv9mx6Lz7RRaBFi5UNaE",
+      "spotify:track:2VGDntFPvgvqSiUf9ITEfW",
+      "spotify:track:1L8H6AuK4TaMmolSL0N0mR"
+    ],
+    "message_mix_type": "DECADE",
+    "message_pl_id": "37i9dQZF1EQn4jwNIohw50",
+    "message_recdex_params": [
+    ]
+  },
+  {
+    "timestamp_utc": "2024-01-26T13:34:07.030Z",
+    "context_time": 1706276047030,
+    "message_discovery_contents": [
+      "spotify:track:36MwyyD3Bf7RHlq1zqmfMr",
+      "spotify:track:2CWaphFrQ153K3mmlXEVjt",
+      "spotify:track:5Qa679CkfZaEEsLGUBfXFp",
+      "spotify:track:7IMU8eXXQnXiWChljmRlxh",
+      "spotify:track:3bxZhauuIU4ubctdRZwPYW",
+      "spotify:track:52vMWINBrhwuTaTg1tTVLa",
+      "spotify:track:6Jfpv3vvfobay7uYVxWXog",
+      "spotify:track:6lDyt5CQQAWnHhJyGczaBM",
+      "spotify:track:0VusRPgveKAqVuCMKScGWp",
+      "spotify:track:6HpgdL4zUpuyXCzvAhgR5a",
+      "spotify:track:4HWwcSkeRTsqjZurFC6tMH",
+      "spotify:track:0p8LlXT1FG9vnrCH70dbuo",
+      "spotify:track:2mDpaQWRfsXtymj7JhVOEE",
+      "spotify:track:3QKJELWORZZ7rUZDWeMWSA",
+      "spotify:track:0r3nMF80NSIuPIxeod4aoG",
+      "spotify:track:65MDo5mxRY45IHpyVkLEU5",
+      "spotify:track:5zWd3igj3YbzlrWPLMzgqZ",
+      "spotify:track:5Ly9lKxeE9YMVwQj52dpfo",
+      "spotify:track:35u3Isd3DuXKAEC7JCC0lB",
+      "spotify:track:53qroFU9Rs6gDq7pSD8rHP",
+      "spotify:track:6Wy3X4jSszfisnRscJCHdq",
+      "spotify:track:7xzMrUmlooPa1Fmp88hlYc",
+      "spotify:track:2mNLwOxMnm0TxXJBF1y5Ln",
+      "spotify:track:36573bwqNlXfYksha3cVRP"
+    ],
+    "message_mix_type": "GENRE",
+    "message_pl_id": "37i9dQZF1EQmK1rjZuPGDt",
+    "message_recdex_params": [
+    ]
+  },
+  {
+    "timestamp_utc": "2024-01-04T22:16:42.462Z",
+    "context_time": 1704406602462,
+    "message_discovery_contents": [
+      "spotify:track:7JC2I6zKONCvnr4HPlY9hi",
+      "spotify:track:0VusRPgveKAqVuCMKScGWp",
+      "spotify:track:4jo8s0TQGVHnmZ2gjErAQ2",
+      "spotify:track:54RQ2MR6WHCE2uU7kl33MW",
+      "spotify:track:4iVpZVKaPUnMhEagBOIIuI",
+      "spotify:track:6ITAFgQnorUyh0KnqmZ7h6",
+      "spotify:track:59hH7GJFrSd5v9FwgSZEw8",
+      "spotify:track:19AO4YUP1Uau61hXotfRu3",
+      "spotify:track:5aJI7OzC1n3XKVLgYAxgwj",
+      "spotify:track:0p8LlXT1FG9vnrCH70dbuo",
+      "spotify:track:3Ztfe3UOfRkjTpajSYZ4qy",
+      "spotify:track:2bPdJqmpRMqKMNgYHC9JEl",
+      "spotify:track:6s9n8j05v6iezQO4vdlClA",
+      "spotify:track:5eksCJ1r2T1kNlZPTHBGG2",
+      "spotify:track:3bxZhauuIU4ubctdRZwPYW",
+      "spotify:track:2HEr6PARUW822o9VLx25mg",
+      "spotify:track:5Qa679CkfZaEEsLGUBfXFp",
+      "spotify:track:490Eam6Vp7y7vzuGz35bbk",
+      "spotify:track:0zIAV4bCfP2SrihxJcZFAw",
+      "spotify:track:4Svozvfxge1lfmahcToBGi",
+      "spotify:track:1yTD2sqFUnRvD1Z1WwrAjL",
+      "spotify:track:36573bwqNlXfYksha3cVRP",
+      "spotify:track:0ds8HD4pYc88Po0RMygxiO",
+      "spotify:track:1wXeMZqegwYZ2zWtrwvXab",
+      "spotify:track:6HpgdL4zUpuyXCzvAhgR5a",
+      "spotify:track:53qroFU9Rs6gDq7pSD8rHP",
+      "spotify:track:2K1meYaIxerapOrEief7JH",
+      "spotify:track:36SJ7ZFx8J1f1RsewmUwMX",
+      "spotify:track:2BUL7sF7y5oBYUQarVCukR",
+      "spotify:track:73eUiyq2OGr7JtOmgbyMxj",
+      "spotify:track:4s85QjFYaW2mODjqjriyzw"
+    ],
+    "message_mix_type": "GENRE",
+    "message_pl_id": "37i9dQZF1EQmK1rjZuPGDt",
+    "message_recdex_params": [
+    ]
+  },
+  {
+    "timestamp_utc": "2024-01-27T16:45:48.965Z",
+    "context_time": 1706373948965,
+    "message_discovery_contents": [
+      "spotify:track:0jiKqHfWmSgPInSsGWBjbL",
+      "spotify:track:5uTjNzGKCQ50synrf9dWmT"
+    ],
+    "message_mix_type": "DECADE",
+    "message_pl_id": "37i9dQZF1EQn4jwNIohw50",
+    "message_recdex_params": [
+    ]
+  },
+  {
+    "timestamp_utc": "2024-01-07T23:11:50.432Z",
+    "context_time": 1704669110432,
+    "message_discovery_contents": [
+      "spotify:track:2Al2n6ziP5XjIMZEL4laQj",
+      "spotify:track:2Kv18XYdyxoA002JdNIiDA",
+      "spotify:track:5CJQwOr14czwDN6nOUvXhc",
+      "spotify:track:5g1Vx8zaiFI7n3ef8OxthK",
+      "spotify:track:1GZJu6ciZ55S8Kp1s8Z5ex",
+      "spotify:track:4UKLxwpHwszcIC3gQpkD1i"
+    ],
+    "message_mix_type": "DECADE",
+    "message_pl_id": "37i9dQZF1EQqedj0y9Uwvu",
+    "message_recdex_params": [
+    ]
+  },
+  {
+    "timestamp_utc": "2024-01-24T14:22:14.580Z",
+    "context_time": 1706106134580,
+    "message_discovery_contents": [
+      "spotify:track:5uTjNzGKCQ50synrf9dWmT",
+      "spotify:track:1L8H6AuK4TaMmolSL0N0mR"
+    ],
+    "message_mix_type": "DECADE",
+    "message_pl_id": "37i9dQZF1EQn4jwNIohw50",
+    "message_recdex_params": [
+    ]
+  },
+  {
+    "timestamp_utc": "2024-01-26T13:34:08.606Z",
+    "context_time": 1706276048606,
+    "message_discovery_contents": [
+      "spotify:track:4Tzw9IdZbVyzmpWrvsGaNX",
+      "spotify:track:5xcunlfaZvD9BDQsLONI7A",
+      "spotify:track:4bJ7tMJqfYmkKgCYzaaG4B"
+    ],
+    "message_mix_type": "MOOD",
+    "message_pl_id": "37i9dQZF1EVHGWrwldPRtj",
+    "message_recdex_params": [
+    ]
+  },
+  {
+    "timestamp_utc": "2024-01-31T02:12:58.260Z",
+    "context_time": 1706667178260,
+    "message_discovery_contents": [
+      "spotify:track:1OxNBuk83EeS1Nj0k8mfPZ",
+      "spotify:track:125ABiFu87TxipoWAMK8LR",
+      "spotify:track:7cMFjxhbXBpOlais7KMF3j"
+    ],
+    "message_mix_type": "GENRE",
+    "message_pl_id": "37i9dQZF1EQpoj8u9Hn81e",
+    "message_recdex_params": [
+    ]
+  },
+  {
+    "timestamp_utc": "2024-01-26T13:34:07.028Z",
+    "context_time": 1706276047028,
+    "message_discovery_contents": [
+      "spotify:track:2VGDntFPvgvqSiUf9ITEfW",
+      "spotify:track:4vh6Rn6FVG4w79JmlZ5p7d"
+    ],
+    "message_mix_type": "MOOD",
+    "message_pl_id": "37i9dQZF1EVJHK7Q1TBABQ",
+    "message_recdex_params": [
+    ]
+  },
+  {
+    "timestamp_utc": "2024-01-22T22:13:11.074Z",
+    "context_time": 1705961591074,
+    "message_discovery_contents": [
+      "spotify:track:42AsgO0005lineLVc1aSOL",
+      "spotify:track:5G0oVoL309pqsvGDzhMOwx",
+      "spotify:track:64DRmqvCT6xC1ox9Zst1Rc",
+      "spotify:track:2u2aognU8U2C3bPJO5pVmz"
+    ],
+    "message_mix_type": "DECADE",
+    "message_pl_id": "37i9dQZF1EQqedj0y9Uwvu",
+    "message_recdex_params": [
+    ]
+  },
+  {
+    "timestamp_utc": "2024-01-24T14:22:14.608Z",
+    "context_time": 1706106134608,
+    "message_discovery_contents": [
+      "spotify:track:7pQA1cjkXj1vKglpu6yZNY",
+      "spotify:track:0R7KkoK3CRaKwb9gYeH1st",
+      "spotify:track:7cMFjxhbXBpOlais7KMF3j",
+      "spotify:track:5N720bYInxSsiUDvBOLM3C",
+      "spotify:track:1YRmwmoN3oBezY2ND8jhyH"
+    ],
+    "message_mix_type": "GENRE",
+    "message_pl_id": "37i9dQZF1EQpoj8u9Hn81e",
+    "message_recdex_params": [
+    ]
+  },
+  {
+    "timestamp_utc": "2024-01-07T23:11:50.353Z",
+    "context_time": 1704669110353,
+    "message_discovery_contents": [
+      "spotify:track:0VusRPgveKAqVuCMKScGWp",
+      "spotify:track:7JC2I6zKONCvnr4HPlY9hi",
+      "spotify:track:0p8LlXT1FG9vnrCH70dbuo",
+      "spotify:track:6ZHKeoIOkvmYUIfxHLtE2Z",
+      "spotify:track:59hH7GJFrSd5v9FwgSZEw8",
+      "spotify:track:6yo7CsVh0PsDHwiAKkYZDd",
+      "spotify:track:4jo8s0TQGVHnmZ2gjErAQ2",
+      "spotify:track:0YjGcWlFaksNtsCIxfrmur",
+      "spotify:track:19AO4YUP1Uau61hXotfRu3",
+      "spotify:track:6cfrv03JkuK2XDcz4Lpl8U",
+      "spotify:track:0Qi2p7krDLp04vdTDG2yIb",
+      "spotify:track:7tOAN6w4a1LD0iqkRnIrhZ",
+      "spotify:track:65MDo5mxRY45IHpyVkLEU5",
+      "spotify:track:0AFBTfI6zDUBLy0oi1pqZg",
+      "spotify:track:0oucyVmfZtpU608vpYA1rs",
+      "spotify:track:5UjaOsrdoI4shw9gM2eNPC",
+      "spotify:track:166rSYrYi3SaZ2ncrBbl7J",
+      "spotify:track:0AiCAbg6Xb4uGk9bB5L1jw",
+      "spotify:track:3u2hfoDnXpCiQQRQkblecj",
+      "spotify:track:2z4UdFhJPFIRxv7toicES1",
+      "spotify:track:5I3jKRlR8WS0xYYamnAhpG",
+      "spotify:track:3bxZhauuIU4ubctdRZwPYW",
+      "spotify:track:53qroFU9Rs6gDq7pSD8rHP",
+      "spotify:track:2Z82k4TZ7rLmyxrw8ApeQI",
+      "spotify:track:5R2hXwoRB4gIgoNXoUuK51",
+      "spotify:track:2ZFu40Ik8VsUE9H87W0MmZ",
+      "spotify:track:5Qa679CkfZaEEsLGUBfXFp",
+      "spotify:track:57YlhzK9E1fx3wN2XfSiVV",
+      "spotify:track:7znjbX9XdoQayIrVNdd50Z"
+    ],
+    "message_mix_type": "GENRE",
+    "message_pl_id": "37i9dQZF1EQmK1rjZuPGDt",
+    "message_recdex_params": [
+    ]
+  },
+  {
+    "timestamp_utc": "2024-01-25T18:34:49.056Z",
+    "context_time": 1706207689056,
+    "message_discovery_contents": [
+      "spotify:track:1ELW3mroLCVV20CIYnuCQn",
+      "spotify:track:4Z4i631BesV0P6LTvfLAdL",
+      "spotify:track:1M3ldz0gop7cJeEWUuJCfe"
+    ],
+    "message_mix_type": "GENRE",
+    "message_pl_id": "37i9dQZF1EQpoj8u9Hn81e",
+    "message_recdex_params": [
+    ]
+  },
+  {
+    "timestamp_utc": "2024-01-27T17:21:55.173Z",
+    "context_time": 1706376115173,
+    "message_discovery_contents": [
+      "spotify:track:48dojgnBKfp3drKOFdwycc",
+      "spotify:track:4at0npP4QkdIUulFZIsYft",
+      "spotify:track:5I73WkfhuOvavHVYk3TGrm",
+      "spotify:track:6Orwi1oYLckpnBF7NbCbrg"
+    ],
+    "message_mix_type": "GENRE",
+    "message_pl_id": "37i9dQZF1EQp9BVPsNVof1",
+    "message_recdex_params": [
+    ]
+  },
+  {
+    "timestamp_utc": "2024-01-27T23:22:08.993Z",
+    "context_time": 1706397728993,
+    "message_discovery_contents": [
+      "spotify:track:1kgHjcE0F72RDkaA8adtXG",
+      "spotify:track:1XAzFYJR94m9T4AgshhO99",
+      "spotify:track:3PURbsY67tLMyausOABtit",
+      "spotify:track:4vh6Rn6FVG4w79JmlZ5p7d",
+      "spotify:track:5wTv501Kl9wLABLwHo11RJ"
+    ],
+    "message_mix_type": "MOOD",
+    "message_pl_id": "37i9dQZF1EVJHK7Q1TBABQ",
+    "message_recdex_params": [
+    ]
+  },
+  {
+    "timestamp_utc": "2024-01-22T22:13:11.023Z",
+    "context_time": 1705961591023,
+    "message_discovery_contents": [
+      "spotify:track:5uTjNzGKCQ50synrf9dWmT"
+    ],
+    "message_mix_type": "GENRE",
+    "message_pl_id": "37i9dQZF1EQp9BVPsNVof1",
+    "message_recdex_params": [
+    ]
+  },
+  {
+    "timestamp_utc": "2024-01-30T22:51:05.132Z",
+    "context_time": 1706655065132,
+    "message_discovery_contents": [
+      "spotify:track:3GdogCZTpPHBODiiEJbqQm",
+      "spotify:track:35U4PXL3W3XIkAjEUdhr36",
+      "spotify:track:4O9t8Qq941SAzdGlex4noA"
+    ],
+    "message_mix_type": "DECADE",
+    "message_pl_id": "37i9dQZF1EQqedj0y9Uwvu",
+    "message_recdex_params": [
+    ]
+  },
+  {
+    "timestamp_utc": "2024-01-27T17:21:55.166Z",
+    "context_time": 1706376115166,
+    "message_discovery_contents": [
+      "spotify:track:1kgHjcE0F72RDkaA8adtXG",
+      "spotify:track:1XAzFYJR94m9T4AgshhO99",
+      "spotify:track:4vh6Rn6FVG4w79JmlZ5p7d",
+      "spotify:track:5wTv501Kl9wLABLwHo11RJ"
+    ],
+    "message_mix_type": "MOOD",
+    "message_pl_id": "37i9dQZF1EVJHK7Q1TBABQ",
+    "message_recdex_params": [
+    ]
+  },
+  {
+    "timestamp_utc": "2024-01-04T22:16:44.041Z",
+    "context_time": 1704406604041,
+    "message_discovery_contents": [
+      "spotify:track:1fmoCZ6mtMiqA5GHWPcZz9",
+      "spotify:track:4lKuJy6ozGLRMMIXTGesg4",
+      "spotify:track:0R6sHxjN04nAgEW0jgqLbU",
+      "spotify:track:3vRYtf5xgPrYeVzAmqvzTd"
+    ],
+    "message_mix_type": "GENRE",
+    "message_pl_id": "37i9dQZF1EQp9BVPsNVof1",
+    "message_recdex_params": [
+    ]
+  },
+  {
+    "timestamp_utc": "2024-01-27T16:45:48.966Z",
+    "context_time": 1706373948966,
+    "message_discovery_contents": [
+      "spotify:track:48dojgnBKfp3drKOFdwycc",
+      "spotify:track:4at0npP4QkdIUulFZIsYft",
+      "spotify:track:5I73WkfhuOvavHVYk3TGrm",
+      "spotify:track:6Orwi1oYLckpnBF7NbCbrg"
+    ],
+    "message_mix_type": "GENRE",
+    "message_pl_id": "37i9dQZF1EQp9BVPsNVof1",
+    "message_recdex_params": [
+    ]
+  },
+  {
+    "timestamp_utc": "2024-01-27T17:21:55.156Z",
+    "context_time": 1706376115156,
+    "message_discovery_contents": [
+      "spotify:track:2VGDntFPvgvqSiUf9ITEfW",
+      "spotify:track:1KjLbuPsJmYdZJt0CsyVAg",
+      "spotify:track:6guXQ9rHmOofkqp8uHYO8r",
+      "spotify:track:1btQN0JRiAzQxdKdJXADUh"
+    ],
+    "message_mix_type": "GENRE",
+    "message_pl_id": "37i9dQZF1EQqkOPvHGajmW",
+    "message_recdex_params": [
+    ]
+  },
+  {
+    "timestamp_utc": "2024-01-22T22:13:10.978Z",
+    "context_time": 1705961590978,
+    "message_discovery_contents": [
+      "spotify:track:18nGprzEucUO4FF768lLhe",
+      "spotify:track:5wTv501Kl9wLABLwHo11RJ",
+      "spotify:track:4rvnBqTmx66LlCJZLbLAOY",
+      "spotify:track:2GuIRSthEpYN5MO6PGD7Vx"
+    ],
+    "message_mix_type": "GENRE",
+    "message_pl_id": "37i9dQZF1EQpoj8u9Hn81e",
+    "message_recdex_params": [
+    ]
+  },
+  {
+    "timestamp_utc": "2024-01-26T13:34:08.598Z",
+    "context_time": 1706276048598,
+    "message_discovery_contents": [
+      "spotify:track:4Z4i631BesV0P6LTvfLAdL",
+      "spotify:track:18nGprzEucUO4FF768lLhe",
+      "spotify:track:3SYFuQxFvEVrOD54vW0Hu7"
+    ],
+    "message_mix_type": "GENRE",
+    "message_pl_id": "37i9dQZF1EQpoj8u9Hn81e",
+    "message_recdex_params": [
+    ]
+  },
+  {
+    "timestamp_utc": "2024-01-26T16:59:46.508Z",
+    "context_time": 1706288386508,
+    "message_discovery_contents": [
+      "spotify:track:64R2n9O7Aif7YP3ivkOWYS",
+      "spotify:track:3RCj5fG55qjtmnEML1gpnA",
+      "spotify:track:2073QOEC8rBtSyTsRyaWiP",
+      "spotify:track:0rUIff1QHd5zlOBtlHVqd9",
+      "spotify:track:5gmv3BgePSYiHnPJgY7oTJ",
+      "spotify:track:67y8hDBlt0p74eeRwKz1KJ",
+      "spotify:track:5uTjNzGKCQ50synrf9dWmT",
+      "spotify:track:5ozqshq2dtU7SYCpCBu0NE"
+    ],
+    "message_mix_type": "GENRE",
+    "message_pl_id": "37i9dQZF1EQqkOPvHGajmW",
+    "message_recdex_params": [
+    ]
+  },
+  {
+    "timestamp_utc": "2024-01-25T22:29:24.487Z",
+    "context_time": 1706221764487,
+    "message_discovery_contents": [
+      "spotify:track:2yQweA8nCYuzFj15LiOb41",
+      "spotify:track:51NcW3cfbdI0FLsD8dgXAq",
+      "spotify:track:1fmoCZ6mtMiqA5GHWPcZz9"
+    ],
+    "message_mix_type": "GENRE",
+    "message_pl_id": "37i9dQZF1EQp9BVPsNVof1",
+    "message_recdex_params": [
+    ]
+  },
+  {
+    "timestamp_utc": "2024-01-22T22:13:07.922Z",
+    "context_time": 1705961587922,
+    "message_discovery_contents": [
+      "spotify:track:0aWhxzFrP2Yyz3CetJe0xE",
+      "spotify:track:7di4QTqNCZjX4JUFKhWQsr"
+    ],
+    "message_mix_type": "DECADE",
+    "message_pl_id": "37i9dQZF1EQn4jwNIohw50",
+    "message_recdex_params": [
+    ]
+  },
+  {
+    "timestamp_utc": "2024-01-10T13:33:06.304Z",
+    "context_time": 1704893586304,
+    "message_discovery_contents": [
+      "spotify:track:1GZJu6ciZ55S8Kp1s8Z5ex",
+      "spotify:track:2oJ8Il24SIiDCJv39RYzPp",
+      "spotify:track:43G9XI5aP4Xp5txUnDH6qP"
+    ],
+    "message_mix_type": "DECADE",
+    "message_pl_id": "37i9dQZF1EQqedj0y9Uwvu",
+    "message_recdex_params": [
+    ]
+  },
+  {
+    "timestamp_utc": "2024-01-26T13:34:08.685Z",
+    "context_time": 1706276048685,
+    "message_discovery_contents": [
+      "spotify:track:5wTv501Kl9wLABLwHo11RJ",
+      "spotify:track:1fmoCZ6mtMiqA5GHWPcZz9"
+    ],
+    "message_mix_type": "GENRE",
+    "message_pl_id": "37i9dQZF1EQp9BVPsNVof1",
+    "message_recdex_params": [
+    ]
+  },
+  {
+    "timestamp_utc": "2024-01-26T16:59:46.527Z",
+    "context_time": 1706288386527,
+    "message_discovery_contents": [
+      "spotify:track:5wTv501Kl9wLABLwHo11RJ",
+      "spotify:track:1fmoCZ6mtMiqA5GHWPcZz9"
+    ],
+    "message_mix_type": "GENRE",
+    "message_pl_id": "37i9dQZF1EQp9BVPsNVof1",
+    "message_recdex_params": [
+    ]
+  },
+  {
+    "timestamp_utc": "2024-01-07T23:11:50.417Z",
+    "context_time": 1704669110417,
+    "message_discovery_contents": [
+      "spotify:track:31U21fwH5izi4fVA2f1HKa",
+      "spotify:track:0aOT5OQeNPyZzGwwudbaYs",
+      "spotify:track:2Kv18XYdyxoA002JdNIiDA",
+      "spotify:track:27ViQppP3LZPCJl2A0w9kp"
+    ],
+    "message_mix_type": "MOOD",
+    "message_pl_id": "37i9dQZF1EVHGWrwldPRtj",
+    "message_recdex_params": [
+    ]
+  },
+  {
+    "timestamp_utc": "2024-01-27T16:45:50.921Z",
+    "context_time": 1706373950921,
+    "message_discovery_contents": [
+      "spotify:track:0R7KkoK3CRaKwb9gYeH1st",
+      "spotify:track:4b6WRfxJRY40RBpl3TMQVq",
+      "spotify:track:5kAwEqCAJ4yHdHmlAMSczs"
+    ],
+    "message_mix_type": "GENRE",
+    "message_pl_id": "37i9dQZF1EQpoj8u9Hn81e",
+    "message_recdex_params": [
+    ]
+  },
+  {
+    "timestamp_utc": "2024-01-27T17:21:55.125Z",
+    "context_time": 1706376115125,
+    "message_discovery_contents": [
+      "spotify:track:1GZJu6ciZ55S8Kp1s8Z5ex",
+      "spotify:track:4AKUOaCRcoKTFnVI9LtsrN",
+      "spotify:track:3MYUHaITeEQh3WjMkHr67z",
+      "spotify:track:1gPeJMO7Az6ZtzHiaKUTWb"
+    ],
+    "message_mix_type": "DECADE",
+    "message_pl_id": "37i9dQZF1EQqedj0y9Uwvu",
+    "message_recdex_params": [
+    ]
+  },
+  {
+    "timestamp_utc": "2024-01-23T20:22:00.718Z",
+    "context_time": 1706041320718,
+    "message_discovery_contents": [
+      "spotify:track:5wTv501Kl9wLABLwHo11RJ",
+      "spotify:track:2Al2n6ziP5XjIMZEL4laQj",
+      "spotify:track:3u1hU4L9HLGBjcj1nQekIv"
+    ],
+    "message_mix_type": "MOOD",
+    "message_pl_id": "37i9dQZF1EVJHK7Q1TBABQ",
+    "message_recdex_params": [
+    ]
+  },
+  {
+    "timestamp_utc": "2024-01-22T22:13:07.929Z",
+    "context_time": 1705961587929,
+    "message_discovery_contents": [
+    ],
+    "message_mix_type": "GENRE",
+    "message_pl_id": "37i9dQZF1EQp9BVPsNVof1",
+    "message_recdex_params": [
+    ]
+  },
+  {
+    "timestamp_utc": "2024-01-25T22:28:28.018Z",
+    "context_time": 1706221708018,
+    "message_discovery_contents": [
+      "spotify:track:3R7bfoEKPkxaukeC3ZSn4o",
+      "spotify:track:5JOO8UMaEpOfhhatQQsAqm",
+      "spotify:track:12YAZNNm2OuSgDBKjFQcNm",
+      "spotify:track:2VGDntFPvgvqSiUf9ITEfW",
+      "spotify:track:4HpFU6eMThgW6Cael5AwYy",
+      "spotify:track:7uMZy0bALAdneerERyr7Ks",
+      "spotify:track:67wcAJeaNwGm0fcB4HzzYm"
+    ],
+    "message_mix_type": "GENRE",
+    "message_pl_id": "37i9dQZF1EQqkOPvHGajmW",
+    "message_recdex_params": [
+    ]
+  },
+  {
+    "timestamp_utc": "2024-01-12T10:06:47.313Z",
+    "context_time": 1705054007313,
+    "message_discovery_contents": [
+      "spotify:track:0uKrhHBDUQ4w5fv4qwOubP",
+      "spotify:track:2GuIRSthEpYN5MO6PGD7Vx"
+    ],
+    "message_mix_type": "MOOD",
+    "message_pl_id": "37i9dQZF1EVHGWrwldPRtj",
+    "message_recdex_params": [
+    ]
+  },
+  {
+    "timestamp_utc": "2024-01-01T18:01:42.072Z",
+    "context_time": 1704132102072,
+    "message_discovery_contents": [
+      "spotify:track:4Z4i631BesV0P6LTvfLAdL",
+      "spotify:track:125ABiFu87TxipoWAMK8LR"
+    ],
+    "message_mix_type": "GENRE",
+    "message_pl_id": "37i9dQZF1EQpoj8u9Hn81e",
+    "message_recdex_params": [
+    ]
+  },
+  {
+    "timestamp_utc": "2024-01-27T23:22:08.980Z",
+    "context_time": 1706397728980,
+    "message_discovery_contents": [
+      "spotify:track:2k5SEAK05D29ZkqbnFgIVL"
+    ],
+    "message_mix_type": "DECADE",
+    "message_pl_id": "37i9dQZF1EQqedj0y9Uwvu",
+    "message_recdex_params": [
+    ]
+  },
+  {
+    "timestamp_utc": "2024-01-23T20:22:02.299Z",
+    "context_time": 1706041322299,
+    "message_discovery_contents": [
+      "spotify:track:3MYUHaITeEQh3WjMkHr67z",
+      "spotify:track:4zwq3QUKgMNk0NSLl7fpbP",
+      "spotify:track:5YzaostcCu9Sgp5T7bFuX3",
+      "spotify:track:35yZkNFNVosiHE6Uj0COVM",
+      "spotify:track:2OQ1V0e2O56AeIo4ywuYKF"
+    ],
+    "message_mix_type": "DECADE",
+    "message_pl_id": "37i9dQZF1EQqedj0y9Uwvu",
+    "message_recdex_params": [
+    ]
+  },
+  {
+    "timestamp_utc": "2024-01-24T12:26:14.151Z",
+    "context_time": 1706099174151,
+    "message_discovery_contents": [
+      "spotify:track:7pQA1cjkXj1vKglpu6yZNY",
+      "spotify:track:0R7KkoK3CRaKwb9gYeH1st",
+      "spotify:track:7cMFjxhbXBpOlais7KMF3j",
+      "spotify:track:5N720bYInxSsiUDvBOLM3C",
+      "spotify:track:1YRmwmoN3oBezY2ND8jhyH"
+    ],
+    "message_mix_type": "GENRE",
+    "message_pl_id": "37i9dQZF1EQpoj8u9Hn81e",
+    "message_recdex_params": [
+    ]
+  },
+  {
+    "timestamp_utc": "2024-01-01T18:01:42.034Z",
+    "context_time": 1704132102034,
+    "message_discovery_contents": [
+      "spotify:track:3kMWvClYqkjWK5hjgDIyYy",
+      "spotify:track:5uTjNzGKCQ50synrf9dWmT",
+      "spotify:track:6q6PeTloTbL2vb1Gt9sQQc",
+      "spotify:track:67wcAJeaNwGm0fcB4HzzYm",
+      "spotify:track:3RCj5fG55qjtmnEML1gpnA",
+      "spotify:track:2iWfZFAF8BCi0CY4NyuP8D"
+    ],
+    "message_mix_type": "GENRE",
+    "message_pl_id": "37i9dQZF1EQqkOPvHGajmW",
+    "message_recdex_params": [
+    ]
+  },
+  {
+    "timestamp_utc": "2024-01-04T22:16:42.494Z",
+    "context_time": 1704406602494,
+    "message_discovery_contents": [
+      "spotify:track:6VNooTY5w9A9wg1YUsEbKB",
+      "spotify:track:1hgX0ZmmP7IRRjUFCIBrnQ",
+      "spotify:track:4XXfQ8fBHMIgcygY4hV6RC"
+    ],
+    "message_mix_type": "DECADE",
+    "message_pl_id": "37i9dQZF1EQqedj0y9Uwvu",
+    "message_recdex_params": [
+    ]
+  },
+  {
+    "timestamp_utc": "2024-01-24T12:26:45.446Z",
+    "context_time": 1706099205446,
+    "message_discovery_contents": [
+      "spotify:track:7pQA1cjkXj1vKglpu6yZNY",
+      "spotify:track:0R7KkoK3CRaKwb9gYeH1st",
+      "spotify:track:7cMFjxhbXBpOlais7KMF3j",
+      "spotify:track:5N720bYInxSsiUDvBOLM3C",
+      "spotify:track:1YRmwmoN3oBezY2ND8jhyH"
+    ],
+    "message_mix_type": "GENRE",
+    "message_pl_id": "37i9dQZF1EQpoj8u9Hn81e",
+    "message_recdex_params": [
+    ]
+  },
+  {
+    "timestamp_utc": "2024-01-25T22:28:28.083Z",
+    "context_time": 1706221708083,
+    "message_discovery_contents": [
+      "spotify:track:5aJI7OzC1n3XKVLgYAxgwj",
+      "spotify:track:4fCevXfseuEJRmPwmNnUZr",
+      "spotify:track:4mNU7ddD6fRyjMRBOOfj28",
+      "spotify:track:7baNYnxas4NlQXcoj6kSmp",
+      "spotify:track:0VusRPgveKAqVuCMKScGWp",
+      "spotify:track:0YjGcWlFaksNtsCIxfrmur",
+      "spotify:track:2z4UdFhJPFIRxv7toicES1",
+      "spotify:track:399Hm1oqfzzQaZRu3CtVMb",
+      "spotify:track:61PINnmqnoF9cTFfbGu3by",
+      "spotify:track:2Z82k4TZ7rLmyxrw8ApeQI",
+      "spotify:track:786hvlF3Hi3hdNAXHdIo8Q",
+      "spotify:track:6ZHKeoIOkvmYUIfxHLtE2Z",
+      "spotify:track:6yo7CsVh0PsDHwiAKkYZDd",
+      "spotify:track:1Iod4fjYd6TTXw9DI6nHpB",
+      "spotify:track:6lDyt5CQQAWnHhJyGczaBM",
+      "spotify:track:57YlhzK9E1fx3wN2XfSiVV",
+      "spotify:track:3TPr2Em1i454nDS8UJbaFW",
+      "spotify:track:4YwIblyn5m2XAJ7ljh5d79",
+      "spotify:track:4UP2cLNgUjPzCHKS92pp2U",
+      "spotify:track:2kzL2y5Sf0dooP2uiwk5tQ",
+      "spotify:track:6Y9ajxGefBUK9pMbT0C8gv",
+      "spotify:track:5Qa679CkfZaEEsLGUBfXFp",
+      "spotify:track:1PFNcjEKBz1BwrgCYuFJR3"
+    ],
+    "message_mix_type": "GENRE",
+    "message_pl_id": "37i9dQZF1EQmK1rjZuPGDt",
+    "message_recdex_params": [
+    ]
+  },
+  {
+    "timestamp_utc": "2024-01-25T18:34:49.076Z",
+    "context_time": 1706207689076,
+    "message_discovery_contents": [
+      "spotify:track:2yQweA8nCYuzFj15LiOb41",
+      "spotify:track:51NcW3cfbdI0FLsD8dgXAq",
+      "spotify:track:1fmoCZ6mtMiqA5GHWPcZz9"
+    ],
+    "message_mix_type": "GENRE",
+    "message_pl_id": "37i9dQZF1EQp9BVPsNVof1",
+    "message_recdex_params": [
+    ]
+  },
+  {
+    "timestamp_utc": "2024-01-22T22:13:10.954Z",
+    "context_time": 1705961590954,
+    "message_discovery_contents": [
+      "spotify:track:04jqhpf3oV06HtlmthfcZZ",
+      "spotify:track:5JOO8UMaEpOfhhatQQsAqm",
+      "spotify:track:4pR0M3MWNjotbg7YOq9yn5",
+      "spotify:track:6q6PeTloTbL2vb1Gt9sQQc"
+    ],
+    "message_mix_type": "MOOD",
+    "message_pl_id": "37i9dQZF1EVJHK7Q1TBABQ",
+    "message_recdex_params": [
+    ]
+  },
+  {
+    "timestamp_utc": "2024-01-26T13:34:07.045Z",
+    "context_time": 1706276047045,
+    "message_discovery_contents": [
+      "spotify:track:4Tzw9IdZbVyzmpWrvsGaNX",
+      "spotify:track:5xcunlfaZvD9BDQsLONI7A",
+      "spotify:track:4bJ7tMJqfYmkKgCYzaaG4B"
+    ],
+    "message_mix_type": "MOOD",
+    "message_pl_id": "37i9dQZF1EVHGWrwldPRtj",
+    "message_recdex_params": [
+    ]
+  },
+  {
+    "timestamp_utc": "2024-01-23T20:22:02.287Z",
+    "context_time": 1706041322287,
+    "message_discovery_contents": [
+      "spotify:track:5I6jxFTcbN8sHT3MPUeTAH"
+    ],
+    "message_mix_type": "DECADE",
+    "message_pl_id": "37i9dQZF1EQn2GRFTFMl2A",
+    "message_recdex_params": [
+    ]
+  },
+  {
+    "timestamp_utc": "2024-01-25T22:28:27.980Z",
+    "context_time": 1706221707980,
+    "message_discovery_contents": [
+      "spotify:track:2cmRpmO04TLaKPzmAzySYZ",
+      "spotify:track:0pAiyIHt9DyHOjWgF41kp6",
+      "spotify:track:1ShfKpLJ36nds13gOlNCUg"
+    ],
+    "message_mix_type": "DECADE",
+    "message_pl_id": "37i9dQZF1EQqedj0y9Uwvu",
+    "message_recdex_params": [
+    ]
+  },
+  {
+    "timestamp_utc": "2024-01-30T22:51:05.135Z",
+    "context_time": 1706655065135,
+    "message_discovery_contents": [
+      "spotify:track:3lB31lvF4GEwKwMgFWwCJ7",
+      "spotify:track:31U21fwH5izi4fVA2f1HKa"
+    ],
+    "message_mix_type": "DECADE",
+    "message_pl_id": "37i9dQZF1EQn2GRFTFMl2A",
+    "message_recdex_params": [
+    ]
+  },
+  {
+    "timestamp_utc": "2024-01-10T13:33:06.301Z",
+    "context_time": 1704893586301,
+    "message_discovery_contents": [
+      "spotify:track:1GZJu6ciZ55S8Kp1s8Z5ex"
+    ],
+    "message_mix_type": "GENRE",
+    "message_pl_id": "37i9dQZF1EQp9BVPsNVof1",
+    "message_recdex_params": [
+    ]
+  },
+  {
+    "timestamp_utc": "2024-01-22T22:13:07.918Z",
+    "context_time": 1705961587918,
+    "message_discovery_contents": [
+      "spotify:track:7xpw5FSNYXKfdQSBuO0THv",
+      "spotify:track:1b2G6vSI7JF3slSMirS4oz",
+      "spotify:track:4wcWI3GEtaGm38dbdDFbyI"
+    ],
+    "message_mix_type": "DECADE",
+    "message_pl_id": "37i9dQZF1EQn2GRFTFMl2A",
+    "message_recdex_params": [
+    ]
+  },
+  {
+    "timestamp_utc": "2024-01-30T22:51:05.153Z",
+    "context_time": 1706655065153,
+    "message_discovery_contents": [
+      "spotify:track:1OxNBuk83EeS1Nj0k8mfPZ",
+      "spotify:track:125ABiFu87TxipoWAMK8LR",
+      "spotify:track:2wi0QZ8SagYzfSeAee6Rm4"
+    ],
+    "message_mix_type": "GENRE",
+    "message_pl_id": "37i9dQZF1EQpoj8u9Hn81e",
+    "message_recdex_params": [
+    ]
+  },
+  {
+    "timestamp_utc": "2024-01-27T23:22:10.640Z",
+    "context_time": 1706397730640,
+    "message_discovery_contents": [
+      "spotify:track:74LRqSi9vqy4vnxCLInNAw",
+      "spotify:track:0R7KkoK3CRaKwb9gYeH1st",
+      "spotify:track:3u1hU4L9HLGBjcj1nQekIv"
+    ],
+    "message_mix_type": "GENRE",
+    "message_pl_id": "37i9dQZF1EQpoj8u9Hn81e",
+    "message_recdex_params": [
+    ]
+  }
+]

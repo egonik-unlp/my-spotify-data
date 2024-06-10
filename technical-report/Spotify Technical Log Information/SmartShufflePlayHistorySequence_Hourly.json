@@ -1,0 +1,1344 @@
+[
+  {
+    "timestamp_utc": "2024-05-31T02:26:12.916Z",
+    "context_time": 1717122372916,
+    "message_context_uri": "spotify:playlist:3oSGCcRcdgCKRZi9LFLprD",
+    "message_current_item_id": "",
+    "message_current_track_uri": "",
+    "message_decision_id": "0619b6b51133e57bfa812f90430521b14671",
+    "message_history_item_ids": [
+      "NIZufg8LgGc=",
+      "mLAfRX7dfU0=",
+      "MO9ZeovauZQ=",
+      "5OnawnYFN0c=",
+      "k2SI2xbk5zI="
+    ],
+    "message_history_track_uris": [
+      "spotify:track:0AW4hkKsAgn8pU7pGPnu9Y",
+      "spotify:track:67Hna13dNDkZvBpTXRIaOJ",
+      "spotify:track:0QJ11tqN85By0nwwDJVoeP",
+      "spotify:track:2BHj31ufdEqVK5CkYDp9mA",
+      "spotify:track:37yodm6zo2wWW5T3oCgknv"
+    ],
+    "message_is_history_at_top": false,
+    "message_session_id": "1717113600000"
+  },
+  {
+    "timestamp_utc": "2024-06-01T21:43:00.100Z",
+    "context_time": 1717278180100,
+    "message_context_uri": "spotify:playlist:3oSGCcRcdgCKRZi9LFLprD",
+    "message_current_item_id": "mB5ukFs1kd8=",
+    "message_current_track_uri": "spotify:track:5yHZSdKURZdQWKSAhwjioD",
+    "message_decision_id": "0619dafbe622f9b4ed9c87ca0415679f5259",
+    "message_history_item_ids": [
+      "+paPjFij3a8=",
+      "k2SI2xbk5zI="
+    ],
+    "message_history_track_uris": [
+      "spotify:track:4AC2gUCUq3n1Iaxz2aYskJ",
+      "spotify:track:37yodm6zo2wWW5T3oCgknv"
+    ],
+    "message_is_history_at_top": false,
+    "message_session_id": "1717286400001"
+  },
+  {
+    "timestamp_utc": "2024-05-31T02:59:10.068Z",
+    "context_time": 1717124350068,
+    "message_context_uri": "spotify:playlist:3oSGCcRcdgCKRZi9LFLprD",
+    "message_current_item_id": "wqRbdz+uWFKxSQ==",
+    "message_current_track_uri": "spotify:track:4Wrd7TpAgRmlUtcbpJCW3T",
+    "message_decision_id": "0619b72aea33e8532dbd57aa73de601f012d",
+    "message_history_item_ids": [
+      "MO9ZeovauZQ=",
+      "NIZufg8LgGc=",
+      "mLAfRX7dfU0="
+    ],
+    "message_history_track_uris": [
+      "spotify:track:0QJ11tqN85By0nwwDJVoeP",
+      "spotify:track:0AW4hkKsAgn8pU7pGPnu9Y",
+      "spotify:track:67Hna13dNDkZvBpTXRIaOJ"
+    ],
+    "message_is_history_at_top": false,
+    "message_session_id": "1717113600001"
+  },
+  {
+    "timestamp_utc": "2024-05-30T15:23:35.467Z",
+    "context_time": 1717082615467,
+    "message_context_uri": "spotify:playlist:3oSGCcRcdgCKRZi9LFLprD",
+    "message_current_item_id": "y9XJm/uZUEGqOw==",
+    "message_current_track_uri": "spotify:track:4rQjd3WWoZeXNRDr5oBpyT",
+    "message_decision_id": "0619ad7356e5abed23d482bd4de3d7497f6d",
+    "message_history_item_ids": [
+    ],
+    "message_history_track_uris": [
+    ],
+    "message_is_history_at_top": false,
+    "message_session_id": "1717027200002"
+  },
+  {
+    "timestamp_utc": "2024-05-10T02:10:23.753Z",
+    "context_time": 1715307023753,
+    "message_context_uri": "spotify:playlist:3oSGCcRcdgCKRZi9LFLprD",
+    "message_current_item_id": "",
+    "message_current_track_uri": "",
+    "message_decision_id": "06181009d32511fe3a00b01377a103e1ec4e",
+    "message_history_item_ids": [
+    ],
+    "message_history_track_uris": [
+    ],
+    "message_is_history_at_top": false,
+    "message_session_id": "1715299200000"
+  },
+  {
+    "timestamp_utc": "2024-06-01T21:42:49.978Z",
+    "context_time": 1717278169978,
+    "message_context_uri": "spotify:playlist:3oSGCcRcdgCKRZi9LFLprD",
+    "message_current_item_id": "k2SI2xbk5zI=",
+    "message_current_track_uri": "spotify:track:37yodm6zo2wWW5T3oCgknv",
+    "message_decision_id": "0619dafb4b444a56590a8abf4ed1a3a3c5f8",
+    "message_history_item_ids": [
+    ],
+    "message_history_track_uris": [
+    ],
+    "message_is_history_at_top": false,
+    "message_session_id": "1717286400001"
+  },
+  {
+    "timestamp_utc": "2024-05-30T03:29:36.561Z",
+    "context_time": 1717039776561,
+    "message_context_uri": "spotify:playlist:3oSGCcRcdgCKRZi9LFLprD",
+    "message_current_item_id": "",
+    "message_current_track_uri": "",
+    "message_decision_id": "0619a379f0dc378a5803580c065e7fd8cd1d",
+    "message_history_item_ids": [
+    ],
+    "message_history_track_uris": [
+    ],
+    "message_is_history_at_top": false,
+    "message_session_id": "1717027200001"
+  },
+  {
+    "timestamp_utc": "2024-05-29T15:45:37.702Z",
+    "context_time": 1716997537702,
+    "message_context_uri": "spotify:playlist:09m6kLJcQ37h7POkYdrZXx",
+    "message_current_item_id": "aPoib8/RE2w=",
+    "message_current_track_uri": "spotify:track:75FpKgL2wL4Ua4cqPFWNOK",
+    "message_decision_id": "061999a44f16ad9befb5ee2f032f76a3ec46",
+    "message_history_item_ids": [
+    ],
+    "message_history_track_uris": [
+    ],
+    "message_is_history_at_top": false,
+    "message_session_id": "1716940800007"
+  },
+  {
+    "timestamp_utc": "2024-05-17T01:35:55.843Z",
+    "context_time": 1715909755843,
+    "message_context_uri": "spotify:playlist:3oSGCcRcdgCKRZi9LFLprD",
+    "message_current_item_id": "",
+    "message_current_track_uri": "",
+    "message_decision_id": "06189c5f74f254287fb3c916c13afb9daa89",
+    "message_history_item_ids": [
+    ],
+    "message_history_track_uris": [
+    ],
+    "message_is_history_at_top": false,
+    "message_session_id": "1715904000000"
+  },
+  {
+    "timestamp_utc": "2024-05-12T22:49:31.284Z",
+    "context_time": 1715554171284,
+    "message_context_uri": "spotify:playlist:3oSGCcRcdgCKRZi9LFLprD",
+    "message_current_item_id": "cTA=",
+    "message_current_track_uri": "spotify:track:7nECPEamGVavhOBtAkkBEX",
+    "message_decision_id": "06184994f64be3f10f57286da5739100cf8d",
+    "message_history_item_ids": [
+      "RxnQQb1+UoM=",
+      "UoFxvUeU8f4=",
+      "LzXypRkok7U=",
+      "mgeznR5uM1U=",
+      "EW2+L5DTrcM="
+    ],
+    "message_history_track_uris": [
+      "spotify:track:5OXwN99aMYpF1dq3hXyCDA",
+      "spotify:track:4FdQfUz94SIbtRMtefbGza",
+      "spotify:track:7GLKGCFfJEyWwbCndjsfgB",
+      "spotify:track:6Wi3gizHOtRi7DSsX3XWZA",
+      "spotify:track:7JMCX4YLbTxDsbXUsnhh5d"
+    ],
+    "message_is_history_at_top": false,
+    "message_session_id": "1715558400001"
+  },
+  {
+    "timestamp_utc": "2024-05-29T15:28:17.613Z",
+    "context_time": 1716996497613,
+    "message_context_uri": "spotify:playlist:09m6kLJcQ37h7POkYdrZXx",
+    "message_current_item_id": "3jmxVWxEgyg=",
+    "message_current_track_uri": "spotify:track:757X18TVSsBU8H0k2Ageqm",
+    "message_decision_id": "0619996650307bda8b0ec472d5dbb7c3b800",
+    "message_history_item_ids": [
+    ],
+    "message_history_track_uris": [
+    ],
+    "message_is_history_at_top": false,
+    "message_session_id": "1716940800006"
+  },
+  {
+    "timestamp_utc": "2024-05-24T20:58:34.267Z",
+    "context_time": 1716584314267,
+    "message_context_uri": "spotify:playlist:3oSGCcRcdgCKRZi9LFLprD",
+    "message_current_item_id": "",
+    "message_current_track_uri": "",
+    "message_decision_id": "0619396e45d75a94ea6a32d3153e5798ee60",
+    "message_history_item_ids": [
+    ],
+    "message_history_track_uris": [
+    ],
+    "message_is_history_at_top": false,
+    "message_session_id": "1716595200000"
+  },
+  {
+    "timestamp_utc": "2024-05-28T18:49:52.264Z",
+    "context_time": 1716922192264,
+    "message_context_uri": "spotify:playlist:1IA7FaEQUZTBV1dAE3ySCg",
+    "message_current_item_id": "M6TUnLHKmWg=",
+    "message_current_track_uri": "spotify:track:3IvodZAm4vD1PM3bIEw9Ik",
+    "message_decision_id": "061988195f0a837b74e01c6839e04d177f20",
+    "message_history_item_ids": [
+      "NyDTqbN4Xmc=",
+      "Map4EMrTQYo=",
+      "Lxl7VD0VSAo=",
+      "Pyz1XXwXOic=",
+      "n7xbPGwHHO8="
+    ],
+    "message_history_track_uris": [
+      "spotify:track:398UfilNARZOLx2MrHOYH5",
+      "spotify:track:72hQvlO5qg9uUXe2BIBFc5",
+      "spotify:track:7fLYbSf0aSDIqdodWuLgUS",
+      "spotify:track:3Kwj07sN1wdzlRNMU8rNX0",
+      "spotify:track:5DDfMsa7k05cJDCtAPaDJb"
+    ],
+    "message_is_history_at_top": false,
+    "message_session_id": "1716940800000"
+  },
+  {
+    "timestamp_utc": "2024-06-02T14:02:46.196Z",
+    "context_time": 1717336966196,
+    "message_context_uri": "spotify:playlist:4ZdINXQPnnOLbGK6joIP9A",
+    "message_current_item_id": "BM7tQmqqc36RgQ==",
+    "message_current_track_uri": "spotify:track:03mX4WEpvZPkHmEsd2ZoV8",
+    "message_decision_id": "0619e8abd2f620fb5f02a7ce7f144209af3b",
+    "message_history_item_ids": [
+    ],
+    "message_history_track_uris": [
+    ],
+    "message_is_history_at_top": false,
+    "message_session_id": "1717286400005"
+  },
+  {
+    "timestamp_utc": "2024-05-21T19:54:33.384Z",
+    "context_time": 1716321273384,
+    "message_context_uri": "spotify:playlist:09m6kLJcQ37h7POkYdrZXx",
+    "message_current_item_id": "rbQ1/XnyzGU=",
+    "message_current_track_uri": "spotify:track:6Nd8SViGyzueP8KkQSpO8O",
+    "message_decision_id": "0618fc2fd0acfb7a37d97357033f9fd37184",
+    "message_history_item_ids": [
+      "WKwruTYltOU=",
+      "zmM9zwSH0AQ=",
+      "6jpr2NmElDo=",
+      "dVbjDmNvinc=",
+      "9WUTquIfwDw="
+    ],
+    "message_history_track_uris": [
+      "spotify:track:08KromJugmXiy6JkIDLFFG",
+      "spotify:track:0OMUrAAp7mcYUmVDTge8MT",
+      "spotify:track:104gvc1JDyW1PXCW9GCP17",
+      "spotify:track:6AGUsjyKjRLma8ZMOdUTed",
+      "spotify:track:4tReFKumS5bcFahdXDiM1b"
+    ],
+    "message_is_history_at_top": false,
+    "message_session_id": "1716336000001"
+  },
+  {
+    "timestamp_utc": "2024-05-26T14:16:21.158Z",
+    "context_time": 1716732981158,
+    "message_context_uri": "spotify:playlist:09m6kLJcQ37h7POkYdrZXx",
+    "message_current_item_id": "zuUJluLrN+pMPw==",
+    "message_current_track_uri": "spotify:track:7dT9D6117e5DbhnKxDLNW9",
+    "message_decision_id": "06195c0b826a0e319f77fc122e3f92f96c7a",
+    "message_history_item_ids": [
+    ],
+    "message_history_track_uris": [
+    ],
+    "message_is_history_at_top": false,
+    "message_session_id": "1716681600000"
+  },
+  {
+    "timestamp_utc": "2024-06-01T21:42:45.717Z",
+    "context_time": 1717278165717,
+    "message_context_uri": "spotify:playlist:3oSGCcRcdgCKRZi9LFLprD",
+    "message_current_item_id": "cyBhP9RCVq5YTg==",
+    "message_current_track_uri": "spotify:track:6Od0btXlNYjAG70fbAkXeN",
+    "message_decision_id": "0619dafb0a41668b6b39c000b2b6f69f7ea2",
+    "message_history_item_ids": [
+    ],
+    "message_history_track_uris": [
+    ],
+    "message_is_history_at_top": false,
+    "message_session_id": "1717286400000"
+  },
+  {
+    "timestamp_utc": "2024-06-01T21:42:50.497Z",
+    "context_time": 1717278170497,
+    "message_context_uri": "spotify:playlist:3oSGCcRcdgCKRZi9LFLprD",
+    "message_current_item_id": "+paPjFij3a8=",
+    "message_current_track_uri": "spotify:track:4AC2gUCUq3n1Iaxz2aYskJ",
+    "message_decision_id": "0619dafb538884bcdbc60022dec11df36f0c",
+    "message_history_item_ids": [
+      "k2SI2xbk5zI="
+    ],
+    "message_history_track_uris": [
+      "spotify:track:37yodm6zo2wWW5T3oCgknv"
+    ],
+    "message_is_history_at_top": false,
+    "message_session_id": "1717286400001"
+  },
+  {
+    "timestamp_utc": "2024-05-28T15:51:18.889Z",
+    "context_time": 1716911478889,
+    "message_context_uri": "spotify:playlist:1IA7FaEQUZTBV1dAE3ySCg",
+    "message_current_item_id": "cDZKEaLDIskoGQ==",
+    "message_current_track_uri": "spotify:track:3iEa6rIe5mfwIJzMk2hRPp",
+    "message_decision_id": "0619859acd8382526f092295ccdba9279bab",
+    "message_history_item_ids": [
+    ],
+    "message_history_track_uris": [
+    ],
+    "message_is_history_at_top": false,
+    "message_session_id": "1716854400001"
+  },
+  {
+    "timestamp_utc": "2024-05-28T16:21:03.197Z",
+    "context_time": 1716913263197,
+    "message_context_uri": "spotify:playlist:1IA7FaEQUZTBV1dAE3ySCg",
+    "message_current_item_id": "20tGvDa1924=",
+    "message_current_track_uri": "spotify:track:40SBS57su9xLiE1WqkXOVr",
+    "message_decision_id": "0619860514703d4f29458d8374b5d2665ac6",
+    "message_history_item_ids": [
+      "E0AC0WZ7/Ec=",
+      "TI7ndrAWyRw=",
+      "RYclYg89ztg=",
+      "CGvAsI2iGho=",
+      "iSq8CHadcAs="
+    ],
+    "message_history_track_uris": [
+      "spotify:track:6u0F8YTqdUic3gMpgTcNDX",
+      "spotify:track:5vmRQ3zELMLUQPo2FLQ76x",
+      "spotify:track:05QGJav2nGJ9qdQ3vG9A9t",
+      "spotify:track:5vmRQ3zELMLUQPo2FLQ76x",
+      "spotify:track:0MPl4JCCfhhXATG6ezJxfz"
+    ],
+    "message_is_history_at_top": true,
+    "message_session_id": "1716854400002"
+  },
+  {
+    "timestamp_utc": "2024-06-02T00:08:08.086Z",
+    "context_time": 1717286888086,
+    "message_context_uri": "spotify:playlist:4ZdINXQPnnOLbGK6joIP9A",
+    "message_current_item_id": "",
+    "message_current_track_uri": "",
+    "message_decision_id": "0619dd02efaf626c9b9eb4bc7f7150b7b7cf",
+    "message_history_item_ids": [
+      "+LB/+1KjU5c=",
+      "hJimfAwcP/Q=",
+      "n35GiK0vUn0=",
+      "XSr2N+iPFPI=",
+      "wmobhjmIebY="
+    ],
+    "message_history_track_uris": [
+      "spotify:track:1aNUSKBe6UMyMk3pEu9ws7",
+      "spotify:track:6wgBaFTr43ewshhWG9p1yA",
+      "spotify:track:1GZJu6ciZ55S8Kp1s8Z5ex",
+      "spotify:track:7n1dvdXLQA8IoZx3XIyOWM",
+      "spotify:track:31nfdEooLEq7dn3UMcIeB5"
+    ],
+    "message_is_history_at_top": false,
+    "message_session_id": "1717286400004"
+  },
+  {
+    "timestamp_utc": "2024-05-10T03:01:29.817Z",
+    "context_time": 1715310089817,
+    "message_context_uri": "spotify:playlist:3oSGCcRcdgCKRZi9LFLprD",
+    "message_current_item_id": "cTE3",
+    "message_current_track_uri": "spotify:track:1kvNcx5MoS5XvMcIua4PfG",
+    "message_decision_id": "061810c0937dd6bb2929e0df34f98298cbd8",
+    "message_history_item_ids": [
+      "JSJ3aNz8004="
+    ],
+    "message_history_track_uris": [
+      "spotify:track:0oP2XkRvW12u8gCxpBfVVU"
+    ],
+    "message_is_history_at_top": false,
+    "message_session_id": "1715299200004"
+  },
+  {
+    "timestamp_utc": "2024-05-29T04:24:29.981Z",
+    "context_time": 1716956669981,
+    "message_context_uri": "spotify:playlist:09m6kLJcQ37h7POkYdrZXx",
+    "message_current_item_id": "AJM/NIs3LaFdpQ==",
+    "message_current_track_uri": "spotify:track:45nbeJtwIEJR6sG3n86Gtb",
+    "message_decision_id": "0619902066c963fb2c282a95849e8f3a965a",
+    "message_history_item_ids": [
+    ],
+    "message_history_track_uris": [
+    ],
+    "message_is_history_at_top": false,
+    "message_session_id": "1716940800001"
+  },
+  {
+    "timestamp_utc": "2024-06-03T18:16:33.010Z",
+    "context_time": 1717438593010,
+    "message_context_uri": "spotify:playlist:4ZdINXQPnnOLbGK6joIP9A",
+    "message_current_item_id": "cTE5",
+    "message_current_track_uri": "spotify:track:5wCDiFBZghbqUFDcIZcOyS",
+    "message_decision_id": "061a005540cb62c57437738a2d7867c2074d",
+    "message_history_item_ids": [
+    ],
+    "message_history_track_uris": [
+    ],
+    "message_is_history_at_top": false,
+    "message_session_id": "1717459200000"
+  },
+  {
+    "timestamp_utc": "2024-05-24T01:43:16.399Z",
+    "context_time": 1716514996399,
+    "message_context_uri": "spotify:playlist:09m6kLJcQ37h7POkYdrZXx",
+    "message_current_item_id": "dJiTBR4zaPg=",
+    "message_current_track_uri": "spotify:track:3p5JD79PQP737dyEY2hnmf",
+    "message_decision_id": "0619294a9aafabd229770be81f21e46bb8da",
+    "message_history_item_ids": [
+    ],
+    "message_history_track_uris": [
+    ],
+    "message_is_history_at_top": false,
+    "message_session_id": "1716508800000"
+  },
+  {
+    "timestamp_utc": "2024-05-30T01:14:51.293Z",
+    "context_time": 1717031691293,
+    "message_context_uri": "spotify:playlist:3oSGCcRcdgCKRZi9LFLprD",
+    "message_current_item_id": "",
+    "message_current_track_uri": "",
+    "message_decision_id": "0619a19805353517e5463860f92b3b7f0adf",
+    "message_history_item_ids": [
+    ],
+    "message_history_track_uris": [
+    ],
+    "message_is_history_at_top": false,
+    "message_session_id": "1717027200000"
+  },
+  {
+    "timestamp_utc": "2024-05-10T02:59:27.723Z",
+    "context_time": 1715309967723,
+    "message_context_uri": "spotify:playlist:3oSGCcRcdgCKRZi9LFLprD",
+    "message_current_item_id": "cTE3",
+    "message_current_track_uri": "spotify:track:1kvNcx5MoS5XvMcIua4PfG",
+    "message_decision_id": "061810b94c48f6e7abdb32da4587985e4756",
+    "message_history_item_ids": [
+      "JSJ3aNz8004="
+    ],
+    "message_history_track_uris": [
+      "spotify:track:0oP2XkRvW12u8gCxpBfVVU"
+    ],
+    "message_is_history_at_top": false,
+    "message_session_id": "1715299200003"
+  },
+  {
+    "timestamp_utc": "2024-06-02T00:07:50.843Z",
+    "context_time": 1717286870843,
+    "message_context_uri": "spotify:playlist:4ZdINXQPnnOLbGK6joIP9A",
+    "message_current_item_id": "",
+    "message_current_track_uri": "",
+    "message_decision_id": "0619dd01e83f597b6a8b7e515ac6f4b9f7ed",
+    "message_history_item_ids": [
+      "+LB/+1KjU5c=",
+      "n35GiK0vUn0=",
+      "XSr2N+iPFPI=",
+      "hJimfAwcP/Q=",
+      "wmobhjmIebY="
+    ],
+    "message_history_track_uris": [
+      "spotify:track:1aNUSKBe6UMyMk3pEu9ws7",
+      "spotify:track:1GZJu6ciZ55S8Kp1s8Z5ex",
+      "spotify:track:7n1dvdXLQA8IoZx3XIyOWM",
+      "spotify:track:6wgBaFTr43ewshhWG9p1yA",
+      "spotify:track:31nfdEooLEq7dn3UMcIeB5"
+    ],
+    "message_is_history_at_top": false,
+    "message_session_id": "1717286400001"
+  },
+  {
+    "timestamp_utc": "2024-05-31T02:59:14.930Z",
+    "context_time": 1717124354930,
+    "message_context_uri": "spotify:playlist:3oSGCcRcdgCKRZi9LFLprD",
+    "message_current_item_id": "wqRbdz+uWFKxSQ==",
+    "message_current_track_uri": "spotify:track:4Wrd7TpAgRmlUtcbpJCW3T",
+    "message_decision_id": "0619b72b344740096f1b7f28ea516c3eb7e3",
+    "message_history_item_ids": [
+      "mLAfRX7dfU0=",
+      "NIZufg8LgGc=",
+      "MO9ZeovauZQ="
+    ],
+    "message_history_track_uris": [
+      "spotify:track:67Hna13dNDkZvBpTXRIaOJ",
+      "spotify:track:0AW4hkKsAgn8pU7pGPnu9Y",
+      "spotify:track:0QJ11tqN85By0nwwDJVoeP"
+    ],
+    "message_is_history_at_top": false,
+    "message_session_id": "1717113600002"
+  },
+  {
+    "timestamp_utc": "2024-06-01T21:46:54.701Z",
+    "context_time": 1717278414701,
+    "message_context_uri": "spotify:playlist:3oSGCcRcdgCKRZi9LFLprD",
+    "message_current_item_id": "TWWAQVIERDg=",
+    "message_current_track_uri": "spotify:track:6MfBbg78Giu93eyty4xr32",
+    "message_decision_id": "0619db09e1f137325e33ad247e92aac5ea71",
+    "message_history_item_ids": [
+      "eQeg2846Z+w=",
+      "vY+RetanrRM=",
+      "mB5ukFs1kd8=",
+      "+paPjFij3a8=",
+      "k2SI2xbk5zI="
+    ],
+    "message_history_track_uris": [
+      "spotify:track:4at0npP4QkdIUulFZIsYft",
+      "spotify:track:4Maj54gxqVxtDkV7NVhuGA",
+      "spotify:track:5yHZSdKURZdQWKSAhwjioD",
+      "spotify:track:4AC2gUCUq3n1Iaxz2aYskJ",
+      "spotify:track:37yodm6zo2wWW5T3oCgknv"
+    ],
+    "message_is_history_at_top": false,
+    "message_session_id": "1717286400001"
+  },
+  {
+    "timestamp_utc": "2024-05-12T23:16:03.967Z",
+    "context_time": 1715555763967,
+    "message_context_uri": "spotify:playlist:3oSGCcRcdgCKRZi9LFLprD",
+    "message_current_item_id": "YmNcMlp35vNLJw==",
+    "message_current_track_uri": "spotify:track:1yXxeE1u6NIg8gVav0bpDQ",
+    "message_decision_id": "061849f3e59ff3829c3fe358e3f0a7f26c0c",
+    "message_history_item_ids": [
+      "mgeznR5uM1U="
+    ],
+    "message_history_track_uris": [
+      "spotify:track:6Wi3gizHOtRi7DSsX3XWZA"
+    ],
+    "message_is_history_at_top": false,
+    "message_session_id": "1715558400004"
+  },
+  {
+    "timestamp_utc": "2024-05-29T15:16:28.780Z",
+    "context_time": 1716995788780,
+    "message_context_uri": "spotify:playlist:09m6kLJcQ37h7POkYdrZXx",
+    "message_current_item_id": "cTU=",
+    "message_current_track_uri": "spotify:track:3CWIomE3tmqhBofcLvILCm",
+    "message_decision_id": "0619993c10a2b8b22c6eca102374a0954f30",
+    "message_history_item_ids": [
+    ],
+    "message_history_track_uris": [
+    ],
+    "message_is_history_at_top": false,
+    "message_session_id": "1716940800004"
+  },
+  {
+    "timestamp_utc": "2024-06-01T21:47:01.290Z",
+    "context_time": 1717278421290,
+    "message_context_uri": "spotify:playlist:3oSGCcRcdgCKRZi9LFLprD",
+    "message_current_item_id": "gOAliLAdUSI=",
+    "message_current_track_uri": "spotify:track:3g8DDnbpzFbcYdZEOzhhdF",
+    "message_decision_id": "0619db0a46583eb44d00be8ff3ac22eb3d99",
+    "message_history_item_ids": [
+      "eQeg2846Z+w=",
+      "mB5ukFs1kd8=",
+      "TWWAQVIERDg=",
+      "vY+RetanrRM=",
+      "+paPjFij3a8="
+    ],
+    "message_history_track_uris": [
+      "spotify:track:4at0npP4QkdIUulFZIsYft",
+      "spotify:track:5yHZSdKURZdQWKSAhwjioD",
+      "spotify:track:6MfBbg78Giu93eyty4xr32",
+      "spotify:track:4Maj54gxqVxtDkV7NVhuGA",
+      "spotify:track:4AC2gUCUq3n1Iaxz2aYskJ"
+    ],
+    "message_is_history_at_top": false,
+    "message_session_id": "1717286400001"
+  },
+  {
+    "timestamp_utc": "2024-05-12T23:08:27.746Z",
+    "context_time": 1715555307746,
+    "message_context_uri": "spotify:playlist:3oSGCcRcdgCKRZi9LFLprD",
+    "message_current_item_id": "cTQ=",
+    "message_current_track_uri": "spotify:track:6loJHm0hdjgNYB10uiY2aD",
+    "message_decision_id": "061849d8b405df81194a0dc865a7ceaa269d",
+    "message_history_item_ids": [
+      "mgeznR5uM1U="
+    ],
+    "message_history_track_uris": [
+      "spotify:track:6Wi3gizHOtRi7DSsX3XWZA"
+    ],
+    "message_is_history_at_top": false,
+    "message_session_id": "1715558400003"
+  },
+  {
+    "timestamp_utc": "2024-05-10T02:10:36.173Z",
+    "context_time": 1715307036173,
+    "message_context_uri": "spotify:playlist:3oSGCcRcdgCKRZi9LFLprD",
+    "message_current_item_id": "JSJ3aNz8004=",
+    "message_current_track_uri": "spotify:track:0oP2XkRvW12u8gCxpBfVVU",
+    "message_decision_id": "0618100a90226380957c4e79de2a18d5ee4d",
+    "message_history_item_ids": [
+    ],
+    "message_history_track_uris": [
+    ],
+    "message_is_history_at_top": false,
+    "message_session_id": "1715299200001"
+  },
+  {
+    "timestamp_utc": "2024-05-28T11:04:32.780Z",
+    "context_time": 1716894272780,
+    "message_context_uri": "spotify:playlist:1IA7FaEQUZTBV1dAE3ySCg",
+    "message_current_item_id": "u4V/KppR8oo=",
+    "message_current_track_uri": "spotify:track:027T8Iol6XBnOewNaaHQul",
+    "message_decision_id": "061981993d84278cf98479826663fc00b03b",
+    "message_history_item_ids": [
+      "ikUCYOrVwgs=",
+      "SL/QtCWyqOE="
+    ],
+    "message_history_track_uris": [
+      "spotify:track:2Tz5THgkMOQeaW6DlqAlIa",
+      "spotify:track:6dgHQPQ4b2XDrvoehls0bF"
+    ],
+    "message_is_history_at_top": false,
+    "message_session_id": "1716854400000"
+  },
+  {
+    "timestamp_utc": "2024-05-16T00:33:10.163Z",
+    "context_time": 1715819590163,
+    "message_context_uri": "spotify:playlist:3oSGCcRcdgCKRZi9LFLprD",
+    "message_current_item_id": "",
+    "message_current_track_uri": "",
+    "message_decision_id": "0618876128bef52e88ec4a5cd95c47356338",
+    "message_history_item_ids": [
+    ],
+    "message_history_track_uris": [
+    ],
+    "message_is_history_at_top": false,
+    "message_session_id": "1715817600000"
+  },
+  {
+    "timestamp_utc": "2024-06-02T14:02:55.901Z",
+    "context_time": 1717336975901,
+    "message_context_uri": "spotify:playlist:4ZdINXQPnnOLbGK6joIP9A",
+    "message_current_item_id": "9LlRImKvwZM=",
+    "message_current_track_uri": "spotify:track:0E2UfCC2chNs5IoDoW3e09",
+    "message_decision_id": "0619e8ac66d3df3c2798c15b796bdcc7dbe2",
+    "message_history_item_ids": [
+    ],
+    "message_history_track_uris": [
+    ],
+    "message_is_history_at_top": false,
+    "message_session_id": "1717286400006"
+  },
+  {
+    "timestamp_utc": "2024-05-12T21:18:04.091Z",
+    "context_time": 1715548684091,
+    "message_context_uri": "spotify:playlist:3oSGCcRcdgCKRZi9LFLprD",
+    "message_current_item_id": "",
+    "message_current_track_uri": "",
+    "message_decision_id": "0618484de6c6a926b98ec145edb3812b4763",
+    "message_history_item_ids": [
+    ],
+    "message_history_track_uris": [
+    ],
+    "message_is_history_at_top": false,
+    "message_session_id": "1715558400000"
+  },
+  {
+    "timestamp_utc": "2024-05-26T14:16:28.408Z",
+    "context_time": 1716732988408,
+    "message_context_uri": "spotify:playlist:09m6kLJcQ37h7POkYdrZXx",
+    "message_current_item_id": "CsB1Suww4wY=",
+    "message_current_track_uri": "spotify:track:7bOYOD0d7ByMTXvJnQVl8d",
+    "message_decision_id": "06195c0bf1555b3ff4a1f98149dd436cf5ef",
+    "message_history_item_ids": [
+    ],
+    "message_history_track_uris": [
+    ],
+    "message_is_history_at_top": false,
+    "message_session_id": "1716681600001"
+  },
+  {
+    "timestamp_utc": "2024-05-31T02:26:16.995Z",
+    "context_time": 1717122376995,
+    "message_context_uri": "spotify:playlist:3oSGCcRcdgCKRZi9LFLprD",
+    "message_current_item_id": "MO9ZeovauZQ=",
+    "message_current_track_uri": "spotify:track:0QJ11tqN85By0nwwDJVoeP",
+    "message_decision_id": "0619b6b54f71e623252b145e12e782391366",
+    "message_history_item_ids": [
+      "5OnawnYFN0c=",
+      "mLAfRX7dfU0=",
+      "k2SI2xbk5zI=",
+      "NIZufg8LgGc="
+    ],
+    "message_history_track_uris": [
+      "spotify:track:2BHj31ufdEqVK5CkYDp9mA",
+      "spotify:track:67Hna13dNDkZvBpTXRIaOJ",
+      "spotify:track:37yodm6zo2wWW5T3oCgknv",
+      "spotify:track:0AW4hkKsAgn8pU7pGPnu9Y"
+    ],
+    "message_is_history_at_top": false,
+    "message_session_id": "1717113600001"
+  },
+  {
+    "timestamp_utc": "2024-05-10T03:06:23.737Z",
+    "context_time": 1715310383737,
+    "message_context_uri": "spotify:playlist:3oSGCcRcdgCKRZi9LFLprD",
+    "message_current_item_id": "cTEw",
+    "message_current_track_uri": "spotify:track:02lWvvpZeShhBCwP3ScOlu",
+    "message_decision_id": "061810d218764ac3bfbc5fc9698b96fa80a1",
+    "message_history_item_ids": [
+    ],
+    "message_history_track_uris": [
+    ],
+    "message_is_history_at_top": false,
+    "message_session_id": "1715299200005"
+  },
+  {
+    "timestamp_utc": "2024-06-02T00:07:59.254Z",
+    "context_time": 1717286879254,
+    "message_context_uri": "spotify:playlist:4ZdINXQPnnOLbGK6joIP9A",
+    "message_current_item_id": "",
+    "message_current_track_uri": "",
+    "message_decision_id": "0619dd0268924de5372644846ddeadea91c5",
+    "message_history_item_ids": [
+      "+LB/+1KjU5c=",
+      "n35GiK0vUn0=",
+      "hJimfAwcP/Q=",
+      "wmobhjmIebY=",
+      "XSr2N+iPFPI="
+    ],
+    "message_history_track_uris": [
+      "spotify:track:1aNUSKBe6UMyMk3pEu9ws7",
+      "spotify:track:1GZJu6ciZ55S8Kp1s8Z5ex",
+      "spotify:track:6wgBaFTr43ewshhWG9p1yA",
+      "spotify:track:31nfdEooLEq7dn3UMcIeB5",
+      "spotify:track:7n1dvdXLQA8IoZx3XIyOWM"
+    ],
+    "message_is_history_at_top": false,
+    "message_session_id": "1717286400002"
+  },
+  {
+    "timestamp_utc": "2024-05-28T16:23:53.008Z",
+    "context_time": 1716913433008,
+    "message_context_uri": "spotify:playlist:1IA7FaEQUZTBV1dAE3ySCg",
+    "message_current_item_id": "HaXKg3kVsDA=",
+    "message_current_track_uri": "spotify:track:1L1Ld0kWEbYcaaXCefYucE",
+    "message_decision_id": "0619860f47b21f5581b33786af648662af71",
+    "message_history_item_ids": [
+      "M6TUnLHKmWg=",
+      "20tGvDa1924=",
+      "iSq8CHadcAs=",
+      "dJiTBR4zaPg=",
+      "RYclYg89ztg="
+    ],
+    "message_history_track_uris": [
+      "spotify:track:3IvodZAm4vD1PM3bIEw9Ik",
+      "spotify:track:40SBS57su9xLiE1WqkXOVr",
+      "spotify:track:0MPl4JCCfhhXATG6ezJxfz",
+      "spotify:track:3p5JD79PQP737dyEY2hnmf",
+      "spotify:track:05QGJav2nGJ9qdQ3vG9A9t"
+    ],
+    "message_is_history_at_top": false,
+    "message_session_id": "1716854400002"
+  },
+  {
+    "timestamp_utc": "2024-05-10T02:53:22.183Z",
+    "context_time": 1715309602183,
+    "message_context_uri": "spotify:playlist:3oSGCcRcdgCKRZi9LFLprD",
+    "message_current_item_id": "cTk=",
+    "message_current_track_uri": "spotify:track:3p5JD79PQP737dyEY2hnmf",
+    "message_decision_id": "061810a382a6df79ab8f003b1a7ddb221b2c",
+    "message_history_item_ids": [
+      "JSJ3aNz8004="
+    ],
+    "message_history_track_uris": [
+      "spotify:track:0oP2XkRvW12u8gCxpBfVVU"
+    ],
+    "message_is_history_at_top": false,
+    "message_session_id": "1715299200001"
+  },
+  {
+    "timestamp_utc": "2024-06-02T00:08:03.473Z",
+    "context_time": 1717286883473,
+    "message_context_uri": "spotify:playlist:4ZdINXQPnnOLbGK6joIP9A",
+    "message_current_item_id": "",
+    "message_current_track_uri": "",
+    "message_decision_id": "0619dd02a91ddd03aa466245fb71e3417303",
+    "message_history_item_ids": [
+      "hJimfAwcP/Q=",
+      "wmobhjmIebY=",
+      "+LB/+1KjU5c=",
+      "n35GiK0vUn0=",
+      "XSr2N+iPFPI="
+    ],
+    "message_history_track_uris": [
+      "spotify:track:6wgBaFTr43ewshhWG9p1yA",
+      "spotify:track:31nfdEooLEq7dn3UMcIeB5",
+      "spotify:track:1aNUSKBe6UMyMk3pEu9ws7",
+      "spotify:track:1GZJu6ciZ55S8Kp1s8Z5ex",
+      "spotify:track:7n1dvdXLQA8IoZx3XIyOWM"
+    ],
+    "message_is_history_at_top": false,
+    "message_session_id": "1717286400003"
+  },
+  {
+    "timestamp_utc": "2024-05-31T02:59:16.328Z",
+    "context_time": 1717124356328,
+    "message_context_uri": "spotify:playlist:3oSGCcRcdgCKRZi9LFLprD",
+    "message_current_item_id": "wqRbdz+uWFKxSQ==",
+    "message_current_track_uri": "spotify:track:4Wrd7TpAgRmlUtcbpJCW3T",
+    "message_decision_id": "0619b72b498fba70e0694100663b2d8e7151",
+    "message_history_item_ids": [
+      "NIZufg8LgGc=",
+      "mLAfRX7dfU0=",
+      "MO9ZeovauZQ="
+    ],
+    "message_history_track_uris": [
+      "spotify:track:0AW4hkKsAgn8pU7pGPnu9Y",
+      "spotify:track:67Hna13dNDkZvBpTXRIaOJ",
+      "spotify:track:0QJ11tqN85By0nwwDJVoeP"
+    ],
+    "message_is_history_at_top": false,
+    "message_session_id": "1717113600003"
+  },
+  {
+    "timestamp_utc": "2024-05-13T00:26:52.333Z",
+    "context_time": 1715560012333,
+    "message_context_uri": "spotify:playlist:3oSGCcRcdgCKRZi9LFLprD",
+    "message_current_item_id": "cTI1",
+    "message_current_track_uri": "spotify:track:1JSTJqkT5qHq8MDJnJbRE1",
+    "message_decision_id": "06184af11e08a685828548d321376d910c01",
+    "message_history_item_ids": [
+    ],
+    "message_history_track_uris": [
+    ],
+    "message_is_history_at_top": false,
+    "message_session_id": "1715558400010"
+  },
+  {
+    "timestamp_utc": "2024-05-29T15:47:43.166Z",
+    "context_time": 1716997663166,
+    "message_context_uri": "spotify:playlist:09m6kLJcQ37h7POkYdrZXx",
+    "message_current_item_id": "0aRmNgTIeSw=",
+    "message_current_track_uri": "spotify:track:7CdrPVQdEiUCcW5MF6Hjx4",
+    "message_decision_id": "061999abc961ddbbb5b66d66cb4df197e96f",
+    "message_history_item_ids": [
+    ],
+    "message_history_track_uris": [
+    ],
+    "message_is_history_at_top": false,
+    "message_session_id": "1716940800010"
+  },
+  {
+    "timestamp_utc": "2024-05-12T23:18:20.513Z",
+    "context_time": 1715555900513,
+    "message_context_uri": "spotify:playlist:3oSGCcRcdgCKRZi9LFLprD",
+    "message_current_item_id": "wlxqW0VkRxo=",
+    "message_current_track_uri": "spotify:track:48Jst8pgJLrsiVw0P9XdhH",
+    "message_decision_id": "061849fc08a5fda736e088eec1d5649d735e",
+    "message_history_item_ids": [
+    ],
+    "message_history_track_uris": [
+    ],
+    "message_is_history_at_top": false,
+    "message_session_id": "1715558400005"
+  },
+  {
+    "timestamp_utc": "2024-05-13T00:26:13.395Z",
+    "context_time": 1715559973395,
+    "message_context_uri": "spotify:playlist:3oSGCcRcdgCKRZi9LFLprD",
+    "message_current_item_id": "cTI0",
+    "message_current_track_uri": "spotify:track:4RvWPyQ5RL0ao9LPZeSouE",
+    "message_decision_id": "06184aeecc8c9d9d3499a180e032a34aea22",
+    "message_history_item_ids": [
+    ],
+    "message_history_track_uris": [
+    ],
+    "message_is_history_at_top": false,
+    "message_session_id": "1715558400009"
+  },
+  {
+    "timestamp_utc": "2024-05-16T00:33:19.400Z",
+    "context_time": 1715819599400,
+    "message_context_uri": "spotify:playlist:3oSGCcRcdgCKRZi9LFLprD",
+    "message_current_item_id": "",
+    "message_current_track_uri": "",
+    "message_decision_id": "06188761b6c6f260a0708dca44a8da4ca7c6",
+    "message_history_item_ids": [
+    ],
+    "message_history_track_uris": [
+    ],
+    "message_is_history_at_top": false,
+    "message_session_id": "1715817600001"
+  },
+  {
+    "timestamp_utc": "2024-05-20T11:54:16.600Z",
+    "context_time": 1716206056600,
+    "message_context_uri": "spotify:playlist:3oSGCcRcdgCKRZi9LFLprD",
+    "message_current_item_id": "zgakWTlsTy4=",
+    "message_current_track_uri": "spotify:local:Arma::Jojo+Tool+%28Valentine%27s+Special%29:380",
+    "message_decision_id": "0618e15c5b8cfcb715a85d3981caa44da580",
+    "message_history_item_ids": [
+    ],
+    "message_history_track_uris": [
+    ],
+    "message_is_history_at_top": false,
+    "message_session_id": "1716163200000"
+  },
+  {
+    "timestamp_utc": "2024-05-28T17:52:44.442Z",
+    "context_time": 1716918764442,
+    "message_context_uri": "spotify:playlist:1IA7FaEQUZTBV1dAE3ySCg",
+    "message_current_item_id": "5490JZLmE8k=",
+    "message_current_track_uri": "spotify:track:02lWvvpZeShhBCwP3ScOlu",
+    "message_decision_id": "0619874d0edfc4e83ad27c7e47616f102aed",
+    "message_history_item_ids": [
+      "IawM9q1ebng=",
+      "M6TUnLHKmWg=",
+      "HaXKg3kVsDA=",
+      "20tGvDa1924=",
+      "dJiTBR4zaPg="
+    ],
+    "message_history_track_uris": [
+      "spotify:track:4IZbdCvDLuiK1sPF0YPNr5",
+      "spotify:track:3IvodZAm4vD1PM3bIEw9Ik",
+      "spotify:track:1L1Ld0kWEbYcaaXCefYucE",
+      "spotify:track:40SBS57su9xLiE1WqkXOVr",
+      "spotify:track:3p5JD79PQP737dyEY2hnmf"
+    ],
+    "message_is_history_at_top": false,
+    "message_session_id": "1716940800000"
+  },
+  {
+    "timestamp_utc": "2024-06-01T21:46:43.751Z",
+    "context_time": 1717278403751,
+    "message_context_uri": "spotify:playlist:3oSGCcRcdgCKRZi9LFLprD",
+    "message_current_item_id": "vY+RetanrRM=",
+    "message_current_track_uri": "spotify:track:4Maj54gxqVxtDkV7NVhuGA",
+    "message_decision_id": "0619db093b0856d5f3db8b70de7dda83d06e",
+    "message_history_item_ids": [
+      "eQeg2846Z+w=",
+      "mB5ukFs1kd8=",
+      "k2SI2xbk5zI=",
+      "+paPjFij3a8="
+    ],
+    "message_history_track_uris": [
+      "spotify:track:4at0npP4QkdIUulFZIsYft",
+      "spotify:track:5yHZSdKURZdQWKSAhwjioD",
+      "spotify:track:37yodm6zo2wWW5T3oCgknv",
+      "spotify:track:4AC2gUCUq3n1Iaxz2aYskJ"
+    ],
+    "message_is_history_at_top": false,
+    "message_session_id": "1717286400001"
+  },
+  {
+    "timestamp_utc": "2024-05-29T15:45:43.761Z",
+    "context_time": 1716997543761,
+    "message_context_uri": "spotify:playlist:09m6kLJcQ37h7POkYdrZXx",
+    "message_current_item_id": "aPoib8/RE2w=",
+    "message_current_track_uri": "spotify:track:75FpKgL2wL4Ua4cqPFWNOK",
+    "message_decision_id": "061999a4ab832789de062513cfaa70931ba5",
+    "message_history_item_ids": [
+    ],
+    "message_history_track_uris": [
+    ],
+    "message_is_history_at_top": false,
+    "message_session_id": "1716940800008"
+  },
+  {
+    "timestamp_utc": "2024-05-21T20:39:56.501Z",
+    "context_time": 1716323996501,
+    "message_context_uri": "spotify:playlist:3oSGCcRcdgCKRZi9LFLprD",
+    "message_current_item_id": "Q49+n0oHY6s=",
+    "message_current_track_uri": "spotify:track:5kAwEqCAJ4yHdHmlAMSczs",
+    "message_decision_id": "0618fcd21fabeeb94b817a6462177308e653",
+    "message_history_item_ids": [
+    ],
+    "message_history_track_uris": [
+    ],
+    "message_is_history_at_top": false,
+    "message_session_id": "1716336000001"
+  },
+  {
+    "timestamp_utc": "2024-06-03T18:19:19.419Z",
+    "context_time": 1717438759419,
+    "message_context_uri": "spotify:playlist:4ZdINXQPnnOLbGK6joIP9A",
+    "message_current_item_id": "cTIw",
+    "message_current_track_uri": "spotify:track:3FD1LHJpjvbxPN3NMoePAK",
+    "message_decision_id": "061a005f2c022b76e1015663c8b540405b3d",
+    "message_history_item_ids": [
+    ],
+    "message_history_track_uris": [
+    ],
+    "message_is_history_at_top": false,
+    "message_session_id": "1717459200001"
+  },
+  {
+    "timestamp_utc": "2024-05-29T04:55:04.334Z",
+    "context_time": 1716958504334,
+    "message_context_uri": "spotify:playlist:09m6kLJcQ37h7POkYdrZXx",
+    "message_current_item_id": "cTY=",
+    "message_current_track_uri": "spotify:track:0MPl4JCCfhhXATG6ezJxfz",
+    "message_decision_id": "0619908dbd4b2b0820f5fb46f2b3dae3d7bf",
+    "message_history_item_ids": [
+    ],
+    "message_history_track_uris": [
+    ],
+    "message_is_history_at_top": false,
+    "message_session_id": "1716940800002"
+  },
+  {
+    "timestamp_utc": "2024-05-21T20:39:57.054Z",
+    "context_time": 1716323997054,
+    "message_context_uri": "spotify:playlist:3oSGCcRcdgCKRZi9LFLprD",
+    "message_current_item_id": "MO9ZeovauZQ=",
+    "message_current_track_uri": "spotify:track:0QJ11tqN85By0nwwDJVoeP",
+    "message_decision_id": "0618fcd228352b9a0261679da7bd061b045d",
+    "message_history_item_ids": [
+      "Q49+n0oHY6s="
+    ],
+    "message_history_track_uris": [
+      "spotify:track:5kAwEqCAJ4yHdHmlAMSczs"
+    ],
+    "message_is_history_at_top": false,
+    "message_session_id": "1716336000001"
+  },
+  {
+    "timestamp_utc": "2024-05-28T16:07:24.078Z",
+    "context_time": 1716912444078,
+    "message_context_uri": "spotify:playlist:1IA7FaEQUZTBV1dAE3ySCg",
+    "message_current_item_id": "RYclYg89ztg=",
+    "message_current_track_uri": "spotify:track:05QGJav2nGJ9qdQ3vG9A9t",
+    "message_decision_id": "061985d455512adf318369d189afc9235844",
+    "message_history_item_ids": [
+      "TI7ndrAWyRw=",
+      "TcSSzIRmrC4=",
+      "E0AC0WZ7/Ec="
+    ],
+    "message_history_track_uris": [
+      "spotify:track:5vmRQ3zELMLUQPo2FLQ76x",
+      "spotify:track:303ccTay2FiDTZ9fZ2AdBt",
+      "spotify:track:6u0F8YTqdUic3gMpgTcNDX"
+    ],
+    "message_is_history_at_top": false,
+    "message_session_id": "1716854400002"
+  },
+  {
+    "timestamp_utc": "2024-06-04T00:10:33.849Z",
+    "context_time": 1717459833849,
+    "message_context_uri": "spotify:playlist:4ZdINXQPnnOLbGK6joIP9A",
+    "message_current_item_id": "",
+    "message_current_track_uri": "",
+    "message_decision_id": "061a05474e26bb819ee656637656a1a8a2d3",
+    "message_history_item_ids": [
+    ],
+    "message_history_track_uris": [
+    ],
+    "message_is_history_at_top": false,
+    "message_session_id": "1717459200003"
+  },
+  {
+    "timestamp_utc": "2024-05-12T23:24:51.686Z",
+    "context_time": 1715556291686,
+    "message_context_uri": "spotify:playlist:3oSGCcRcdgCKRZi9LFLprD",
+    "message_current_item_id": "cTc=",
+    "message_current_track_uri": "spotify:track:7fLYbSf0aSDIqdodWuLgUS",
+    "message_decision_id": "06184a135a09faecbb1604cf8d7c37262a32",
+    "message_history_item_ids": [
+    ],
+    "message_history_track_uris": [
+    ],
+    "message_is_history_at_top": false,
+    "message_session_id": "1715558400007"
+  },
+  {
+    "timestamp_utc": "2024-05-28T16:24:00.135Z",
+    "context_time": 1716913440135,
+    "message_context_uri": "spotify:playlist:1IA7FaEQUZTBV1dAE3ySCg",
+    "message_current_item_id": "IawM9q1ebng=",
+    "message_current_track_uri": "spotify:track:4IZbdCvDLuiK1sPF0YPNr5",
+    "message_decision_id": "0619860fb2b5926e28d5ea9cc7817de668ff",
+    "message_history_item_ids": [
+      "M6TUnLHKmWg=",
+      "dJiTBR4zaPg=",
+      "20tGvDa1924=",
+      "HaXKg3kVsDA=",
+      "iSq8CHadcAs="
+    ],
+    "message_history_track_uris": [
+      "spotify:track:3IvodZAm4vD1PM3bIEw9Ik",
+      "spotify:track:3p5JD79PQP737dyEY2hnmf",
+      "spotify:track:40SBS57su9xLiE1WqkXOVr",
+      "spotify:track:1L1Ld0kWEbYcaaXCefYucE",
+      "spotify:track:0MPl4JCCfhhXATG6ezJxfz"
+    ],
+    "message_is_history_at_top": false,
+    "message_session_id": "1716854400002"
+  },
+  {
+    "timestamp_utc": "2024-06-03T18:23:30.206Z",
+    "context_time": 1717439010206,
+    "message_context_uri": "spotify:playlist:4ZdINXQPnnOLbGK6joIP9A",
+    "message_current_item_id": "cTIw",
+    "message_current_track_uri": "spotify:track:3FD1LHJpjvbxPN3NMoePAK",
+    "message_decision_id": "061a006e1ef045a670e68e3e525bb955bea9",
+    "message_history_item_ids": [
+    ],
+    "message_history_track_uris": [
+    ],
+    "message_is_history_at_top": false,
+    "message_session_id": "1717459200002"
+  },
+  {
+    "timestamp_utc": "2024-05-29T15:27:41.687Z",
+    "context_time": 1716996461687,
+    "message_context_uri": "spotify:playlist:09m6kLJcQ37h7POkYdrZXx",
+    "message_current_item_id": "cTEw",
+    "message_current_track_uri": "spotify:track:6iNhl5IcRJfm3F42plOPA4",
+    "message_decision_id": "061999642ca45c098939d552ee7b36ce099a",
+    "message_history_item_ids": [
+    ],
+    "message_history_track_uris": [
+    ],
+    "message_is_history_at_top": false,
+    "message_session_id": "1716940800005"
+  },
+  {
+    "timestamp_utc": "2024-05-12T23:02:44.002Z",
+    "context_time": 1715554964002,
+    "message_context_uri": "spotify:playlist:3oSGCcRcdgCKRZi9LFLprD",
+    "message_current_item_id": "cTU=",
+    "message_current_track_uri": "spotify:track:1AAYbsAIgEJMbxgLgpjE9y",
+    "message_decision_id": "061849c436d3e4c7ae1e52783330fb7c84e3",
+    "message_history_item_ids": [
+      "LzXypRkok7U=",
+      "mgeznR5uM1U="
+    ],
+    "message_history_track_uris": [
+      "spotify:track:7GLKGCFfJEyWwbCndjsfgB",
+      "spotify:track:6Wi3gizHOtRi7DSsX3XWZA"
+    ],
+    "message_is_history_at_top": false,
+    "message_session_id": "1715558400002"
+  },
+  {
+    "timestamp_utc": "2024-05-29T15:45:54.945Z",
+    "context_time": 1716997554945,
+    "message_context_uri": "spotify:playlist:09m6kLJcQ37h7POkYdrZXx",
+    "message_current_item_id": "aPoib8/RE2w=",
+    "message_current_track_uri": "spotify:track:75FpKgL2wL4Ua4cqPFWNOK",
+    "message_decision_id": "061999a55603a0208fc9f214688eaf304425",
+    "message_history_item_ids": [
+    ],
+    "message_history_track_uris": [
+    ],
+    "message_is_history_at_top": false,
+    "message_session_id": "1716940800009"
+  },
+  {
+    "timestamp_utc": "2024-05-17T01:36:08.600Z",
+    "context_time": 1715909768600,
+    "message_context_uri": "spotify:playlist:3oSGCcRcdgCKRZi9LFLprD",
+    "message_current_item_id": "u2jFLVuryjM=",
+    "message_current_track_uri": "spotify:track:2HuMQkNVpFIsur2cRWWQmX",
+    "message_decision_id": "06189c60376f885df46d74ab23b63a6f6c3b",
+    "message_history_item_ids": [
+    ],
+    "message_history_track_uris": [
+    ],
+    "message_is_history_at_top": false,
+    "message_session_id": "1715904000001"
+  },
+  {
+    "timestamp_utc": "2024-05-21T20:39:53.417Z",
+    "context_time": 1716323993417,
+    "message_context_uri": "spotify:playlist:3oSGCcRcdgCKRZi9LFLprD",
+    "message_current_item_id": "4zMUR67Ixsbxcw==",
+    "message_current_track_uri": "spotify:track:2aeUaNxToB2xb5kNoqNQBC",
+    "message_decision_id": "0618fcd1f0b505791283fe2ef68b3ce59b88",
+    "message_history_item_ids": [
+    ],
+    "message_history_track_uris": [
+    ],
+    "message_is_history_at_top": false,
+    "message_session_id": "1716336000000"
+  },
+  {
+    "timestamp_utc": "2024-05-28T15:51:27.977Z",
+    "context_time": 1716911487977,
+    "message_context_uri": "spotify:playlist:1IA7FaEQUZTBV1dAE3ySCg",
+    "message_current_item_id": "RYclYg89ztg=",
+    "message_current_track_uri": "spotify:track:05QGJav2nGJ9qdQ3vG9A9t",
+    "message_decision_id": "0619859b58f68eaf5113c721442ec856285f",
+    "message_history_item_ids": [
+    ],
+    "message_history_track_uris": [
+    ],
+    "message_is_history_at_top": false,
+    "message_session_id": "1716854400002"
+  },
+  {
+    "timestamp_utc": "2024-06-01T23:40:26.655Z",
+    "context_time": 1717285226655,
+    "message_context_uri": "spotify:playlist:4ZdINXQPnnOLbGK6joIP9A",
+    "message_current_item_id": "hJimfAwcP/Q=",
+    "message_current_track_uri": "spotify:track:6wgBaFTr43ewshhWG9p1yA",
+    "message_decision_id": "0619dc9fe82988859766ef56d57e6704229b",
+    "message_history_item_ids": [
+      "JOecibKds1c=",
+      "ft38aXP3eL0="
+    ],
+    "message_history_track_uris": [
+      "spotify:track:1D0PPVupI1ulX1kUncRvBI",
+      "spotify:track:6E1VvKBTi0FtLhE8b6GxbE"
+    ],
+    "message_is_history_at_top": false,
+    "message_session_id": "1717286400000"
+  },
+  {
+    "timestamp_utc": "2024-05-30T15:23:39.592Z",
+    "context_time": 1717082619592,
+    "message_context_uri": "spotify:playlist:3oSGCcRcdgCKRZi9LFLprD",
+    "message_current_item_id": "MO9ZeovauZQ=",
+    "message_current_track_uri": "spotify:track:0QJ11tqN85By0nwwDJVoeP",
+    "message_decision_id": "0619ad7395da840ec49a09d9421be74c2a0a",
+    "message_history_item_ids": [
+    ],
+    "message_history_track_uris": [
+    ],
+    "message_is_history_at_top": false,
+    "message_session_id": "1717027200003"
+  },
+  {
+    "timestamp_utc": "2024-05-12T23:18:50.538Z",
+    "context_time": 1715555930538,
+    "message_context_uri": "spotify:playlist:3oSGCcRcdgCKRZi9LFLprD",
+    "message_current_item_id": "wlxqW0VkRxo=",
+    "message_current_track_uri": "spotify:track:48Jst8pgJLrsiVw0P9XdhH",
+    "message_decision_id": "061849fdd32b05dd8a1f11bb6c05b769760d",
+    "message_history_item_ids": [
+    ],
+    "message_history_track_uris": [
+    ],
+    "message_is_history_at_top": false,
+    "message_session_id": "1715558400006"
+  },
+  {
+    "timestamp_utc": "2024-05-13T00:24:38.194Z",
+    "context_time": 1715559878194,
+    "message_context_uri": "spotify:playlist:3oSGCcRcdgCKRZi9LFLprD",
+    "message_current_item_id": "cTI0",
+    "message_current_track_uri": "spotify:track:4RvWPyQ5RL0ao9LPZeSouE",
+    "message_decision_id": "06184ae91fa394716223a1c36aab610a52eb",
+    "message_history_item_ids": [
+    ],
+    "message_history_track_uris": [
+    ],
+    "message_is_history_at_top": false,
+    "message_session_id": "1715558400008"
+  },
+  {
+    "timestamp_utc": "2024-05-10T02:58:58.456Z",
+    "context_time": 1715309938456,
+    "message_context_uri": "spotify:playlist:3oSGCcRcdgCKRZi9LFLprD",
+    "message_current_item_id": "cTE2",
+    "message_current_track_uri": "spotify:track:08bpijfVa6gviEaSJ3t63R",
+    "message_decision_id": "061810b78e16cb0513bd4873c9a8efb01077",
+    "message_history_item_ids": [
+      "JSJ3aNz8004="
+    ],
+    "message_history_track_uris": [
+      "spotify:track:0oP2XkRvW12u8gCxpBfVVU"
+    ],
+    "message_is_history_at_top": false,
+    "message_session_id": "1715299200002"
+  },
+  {
+    "timestamp_utc": "2024-05-13T00:27:23.029Z",
+    "context_time": 1715560043029,
+    "message_context_uri": "spotify:playlist:3oSGCcRcdgCKRZi9LFLprD",
+    "message_current_item_id": "WoCDqonEk7o=",
+    "message_current_track_uri": "spotify:track:616oglBEjK8JBUNoU2ZYex",
+    "message_decision_id": "06184af2f2c7633eb9448255d3d58d77d3b9",
+    "message_history_item_ids": [
+    ],
+    "message_history_track_uris": [
+    ],
+    "message_is_history_at_top": false,
+    "message_session_id": "1715558400012"
+  },
+  {
+    "timestamp_utc": "2024-05-29T03:15:28.862Z",
+    "context_time": 1716952528862,
+    "message_context_uri": "spotify:playlist:09m6kLJcQ37h7POkYdrZXx",
+    "message_current_item_id": "cTEw",
+    "message_current_track_uri": "spotify:track:7IgdR2NdeHAbG1yVGEGlRC",
+    "message_decision_id": "06198f299274e6144606ff0114daed251688",
+    "message_history_item_ids": [
+    ],
+    "message_history_track_uris": [
+    ],
+    "message_is_history_at_top": false,
+    "message_session_id": "1716940800000"
+  },
+  {
+    "timestamp_utc": "2024-05-13T00:27:17.048Z",
+    "context_time": 1715560037048,
+    "message_context_uri": "spotify:playlist:3oSGCcRcdgCKRZi9LFLprD",
+    "message_current_item_id": "cTI1",
+    "message_current_track_uri": "spotify:track:1JSTJqkT5qHq8MDJnJbRE1",
+    "message_decision_id": "06184af29641129db4201eb6c11e15698b3a",
+    "message_history_item_ids": [
+    ],
+    "message_history_track_uris": [
+    ],
+    "message_is_history_at_top": false,
+    "message_session_id": "1715558400011"
+  },
+  {
+    "timestamp_utc": "2024-05-21T18:08:31.672Z",
+    "context_time": 1716314911672,
+    "message_context_uri": "spotify:playlist:09m6kLJcQ37h7POkYdrZXx",
+    "message_current_item_id": "G8LUgBzwluo=",
+    "message_current_track_uri": "spotify:track:5trIxTDiFfTeqnRiRjW0A8",
+    "message_decision_id": "0618fab4a0a5ba548ba8a122449d9327360d",
+    "message_history_item_ids": [
+      "/brKQCNWLA8=",
+      "2D/cjfZMKWE=",
+      "GxgrdC4mHBg=",
+      "+JDJ41z/gm0=",
+      "uKvqMp/NjD4="
+    ],
+    "message_history_track_uris": [
+      "spotify:track:717n1altPAPQbzvpiYhzum",
+      "spotify:track:2II03llydk4YnkBBvoYB3B",
+      "spotify:track:3zJDXve5FiIcfISdHGB8Q0",
+      "spotify:track:7IgdR2NdeHAbG1yVGEGlRC",
+      "spotify:track:3FD1LHJpjvbxPN3NMoePAK"
+    ],
+    "message_is_history_at_top": false,
+    "message_session_id": "1716336000000"
+  }
+]

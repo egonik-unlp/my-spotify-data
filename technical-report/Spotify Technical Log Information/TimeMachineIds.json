@@ -1,0 +1,86 @@
+[
+  {
+    "timestamp_utc": "2024-05-07T07:08:27.083Z",
+    "context_time": 1715065707083,
+    "message_country": "XX",
+    "message_mix_id": "37i9dQZF1EuIwxvFG7OLgi",
+    "message_top_artist_id": "2F9pvj94b52wGKs0OqiNi2"
+  },
+  {
+    "timestamp_utc": "2024-05-14T09:39:15.947Z",
+    "context_time": 1715679555947,
+    "message_country": "XX",
+    "message_mix_id": "37i9dQZF1EuIwxvFG7OLgi",
+    "message_top_artist_id": "2F9pvj94b52wGKs0OqiNi2"
+  },
+  {
+    "timestamp_utc": "2024-05-22T10:53:21.993Z",
+    "context_time": 1716375201993,
+    "message_country": "XX",
+    "message_mix_id": "37i9dQZF1EuIwxvFG7OLgi",
+    "message_top_artist_id": "2F9pvj94b52wGKs0OqiNi2"
+  },
+  {
+    "timestamp_utc": "2024-04-21T11:54:37.501Z",
+    "context_time": 1713700477501,
+    "message_country": "XX",
+    "message_mix_id": "37i9dQZF1EuIwxvFG7OLgi",
+    "message_top_artist_id": "2F9pvj94b52wGKs0OqiNi2"
+  },
+  {
+    "timestamp_utc": "2024-04-29T09:21:58.327Z",
+    "context_time": 1714382518327,
+    "message_country": "XX",
+    "message_mix_id": "37i9dQZF1EuIwxvFG7OLgi",
+    "message_top_artist_id": "2F9pvj94b52wGKs0OqiNi2"
+  },
+  {
+    "timestamp_utc": "2024-03-30T11:29:28.343Z",
+    "context_time": 1711798168343,
+    "message_country": "XX",
+    "message_mix_id": "37i9dQZF1EuIwxvFG7OLgi",
+    "message_top_artist_id": "2F9pvj94b52wGKs0OqiNi2"
+  },
+  {
+    "timestamp_utc": "2024-05-30T07:51:48.615Z",
+    "context_time": 1717055508615,
+    "message_country": "XX",
+    "message_mix_id": "37i9dQZF1EuIwxvFG7OLgi",
+    "message_top_artist_id": "2F9pvj94b52wGKs0OqiNi2"
+  },
+  {
+    "timestamp_utc": "2024-04-14T07:26:58.980Z",
+    "context_time": 1713079618980,
+    "message_country": "XX",
+    "message_mix_id": "37i9dQZF1EuIwxvFG7OLgi",
+    "message_top_artist_id": "2F9pvj94b52wGKs0OqiNi2"
+  },
+  {
+    "timestamp_utc": "2024-04-06T11:47:05.879Z",
+    "context_time": 1712404025879,
+    "message_country": "XX",
+    "message_mix_id": "37i9dQZF1EuIwxvFG7OLgi",
+    "message_top_artist_id": "2F9pvj94b52wGKs0OqiNi2"
+  },
+  {
+    "timestamp_utc": "2024-03-22T11:18:00.818Z",
+    "context_time": 1711106280818,
+    "message_country": "XX",
+    "message_mix_id": "37i9dQZF1EuIwxvFG7OLgi",
+    "message_top_artist_id": "2F9pvj94b52wGKs0OqiNi2"
+  },
+  {
+    "timestamp_utc": "2024-06-06T10:16:13.792Z",
+    "context_time": 1717668973792,
+    "message_country": "XX",
+    "message_mix_id": "37i9dQZF1EuIwxvFG7OLgi",
+    "message_top_artist_id": "2F9pvj94b52wGKs0OqiNi2"
+  },
+  {
+    "timestamp_utc": "2024-03-14T10:03:44.413Z",
+    "context_time": 1710410624413,
+    "message_country": "XX",
+    "message_mix_id": "37i9dQZF1EuIwxvFG7OLgi",
+    "message_top_artist_id": "2F9pvj94b52wGKs0OqiNi2"
+  }
+]

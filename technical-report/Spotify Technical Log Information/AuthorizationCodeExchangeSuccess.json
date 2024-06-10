@@ -1,0 +1,58 @@
+[
+  {
+    "timestamp_utc": "2024-04-17T12:16:36.412Z",
+    "context_time": 1713356196412,
+    "message_client_id": "31a0b2b20718446799a0f6adef1f2892",
+    "message_redirect_uri": "https://support.spotify.com",
+    "message_scope": "user-read-email,user-read-private,user-close-account"
+  },
+  {
+    "timestamp_utc": "2024-04-17T13:12:37.255Z",
+    "context_time": 1713359557255,
+    "message_client_id": "31a0b2b20718446799a0f6adef1f2892",
+    "message_redirect_uri": "https://support.spotify.com",
+    "message_scope": "user-read-email,user-read-private,user-close-account"
+  },
+  {
+    "timestamp_utc": "2024-04-17T13:12:37.272Z",
+    "context_time": 1713359557272,
+    "message_client_id": "31a0b2b20718446799a0f6adef1f2892",
+    "message_redirect_uri": "https://support.spotify.com",
+    "message_scope": "user-read-email,user-read-private,user-close-account"
+  },
+  {
+    "timestamp_utc": "2024-04-17T12:16:36.285Z",
+    "context_time": 1713356196285,
+    "message_client_id": "31a0b2b20718446799a0f6adef1f2892",
+    "message_redirect_uri": "https://support.spotify.com",
+    "message_scope": "user-read-email,user-read-private,user-close-account"
+  },
+  {
+    "timestamp_utc": "2024-04-17T12:16:36.409Z",
+    "context_time": 1713356196409,
+    "message_client_id": "31a0b2b20718446799a0f6adef1f2892",
+    "message_redirect_uri": "https://support.spotify.com",
+    "message_scope": "user-read-email,user-read-private,user-close-account"
+  },
+  {
+    "timestamp_utc": "2024-04-17T12:16:36.289Z",
+    "context_time": 1713356196289,
+    "message_client_id": "31a0b2b20718446799a0f6adef1f2892",
+    "message_redirect_uri": "https://support.spotify.com",
+    "message_scope": "user-read-email,user-read-private,user-close-account"
+  },
+  {
+    "timestamp_utc": "2024-04-17T13:12:37.266Z",
+    "context_time": 1713359557266,
+    "message_client_id": "31a0b2b20718446799a0f6adef1f2892",
+    "message_redirect_uri": "https://support.spotify.com",
+    "message_scope": "user-read-email,user-read-private,user-close-account"
+  },
+  {
+    "timestamp_utc": "2024-04-17T13:12:37.272Z",
+    "context_time": 1713359557272,
+    "message_client_id": "31a0b2b20718446799a0f6adef1f2892",
+    "message_redirect_uri": "https://support.spotify.com",
+    "message_scope": "user-read-email,user-read-private,user-close-account"
+  }
+]

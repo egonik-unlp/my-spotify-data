@@ -1,0 +1,58 @@
+[
+  {
+    "timestamp_utc": "2024-05-11T02:41:58.056Z",
+    "context_time": 1715395318056,
+    "message_message_id": "124643",
+    "message_send_id": "2ca3539f-16dc-4720-a342-a1f74114e619",
+    "message_success": true
+  },
+  {
+    "timestamp_utc": "2024-04-17T12:44:59.680Z",
+    "context_time": 1713357899680,
+    "message_message_id": "112852",
+    "message_send_id": "0db84bcb-f92d-401c-bbac-2119f3c2123f",
+    "message_success": true
+  },
+  {
+    "timestamp_utc": "2024-04-20T10:43:34.800Z",
+    "context_time": 1713609814800,
+    "message_message_id": "124644",
+    "message_send_id": "8f7bbd49-0d3f-4bf0-8158-7c6d835d1223",
+    "message_success": true
+  },
+  {
+    "timestamp_utc": "2024-06-04T17:03:50.215Z",
+    "context_time": 1717520630215,
+    "message_message_id": "112741",
+    "message_send_id": "3f2f2190-b9dc-4c0c-a557-cb8adcce0bd8",
+    "message_success": true
+  },
+  {
+    "timestamp_utc": "2024-04-17T12:17:44.616Z",
+    "context_time": 1713356264616,
+    "message_message_id": "120621",
+    "message_send_id": "884e71e2-c2e4-42ec-a7e6-d3016331d1c8",
+    "message_success": true
+  },
+  {
+    "timestamp_utc": "2024-06-04T17:04:18.497Z",
+    "context_time": 1717520658497,
+    "message_message_id": "120621",
+    "message_send_id": "68c6b356-e2bd-4bc3-92d3-69c4ea71b0fd",
+    "message_success": true
+  },
+  {
+    "timestamp_utc": "2024-06-04T17:05:07.197Z",
+    "context_time": 1717520707197,
+    "message_message_id": "112852",
+    "message_send_id": "c02b6fb6-abf0-48b6-aaa7-9be718c4aaef",
+    "message_success": true
+  },
+  {
+    "timestamp_utc": "2024-04-20T15:10:40.204Z",
+    "context_time": 1713625840204,
+    "message_message_id": "124642",
+    "message_send_id": "032e5a16-42e4-4381-8021-bc18ce2287bb",
+    "message_success": true
+  }
+]

@@ -1,0 +1,48 @@
+[
+  {
+    "timestamp_utc": "2024-03-19T21:11:11.013Z",
+    "context_time": 1710882671013,
+    "message_modified_settings": [
+      "filter-explicit-content"
+    ],
+    "message_removed_settings": [
+    ]
+  },
+  {
+    "timestamp_utc": "2024-03-31T18:35:35.832Z",
+    "context_time": 1711910135832,
+    "message_modified_settings": [
+      "product-expiry"
+    ],
+    "message_removed_settings": [
+    ]
+  },
+  {
+    "timestamp_utc": "2024-03-31T18:35:35.909Z",
+    "context_time": 1711910135909,
+    "message_modified_settings": [
+      "product_period_id",
+      "updated"
+    ],
+    "message_removed_settings": [
+    ]
+  },
+  {
+    "timestamp_utc": "2024-03-19T21:11:09.248Z",
+    "context_time": 1710882669248,
+    "message_modified_settings": [
+      "filter-explicit-content"
+    ],
+    "message_removed_settings": [
+    ]
+  },
+  {
+    "timestamp_utc": "2024-03-31T18:35:35.816Z",
+    "context_time": 1711910135816,
+    "message_modified_settings": [
+      "product-expiry"
+    ],
+    "message_removed_settings": [
+    ]
+  }
+]
