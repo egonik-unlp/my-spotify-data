@@ -64,5 +64,29 @@
     "podcastName" : "Lex Fridman Podcast",
     "episodeName" : "#376 – Stephen Wolfram: ChatGPT and the Nature of Truth, Reality & Computation",
     "msPlayed" : 2025674
+  },
+  {
+    "endTime" : "2024-06-11 17:22",
+    "podcastName" : "Charlas Filosóficas - Con Eio Moldavsky",
+    "episodeName" : "Luquitas Rodríguez - Ser auténtico",
+    "msPlayed" : 0
+  },
+  {
+    "endTime" : "2024-06-16 14:38",
+    "podcastName" : "Charlas Filosóficas - Con Eio Moldavsky",
+    "episodeName" : "Luquitas Rodríguez - Ser auténtico",
+    "msPlayed" : 9487
+  },
+  {
+    "endTime" : "2024-06-16 17:10",
+    "podcastName" : "Charlas Filosóficas - Con Eio Moldavsky",
+    "episodeName" : "Luquitas Rodríguez - Ser auténtico",
+    "msPlayed" : 2665
+  },
+  {
+    "endTime" : "2024-08-21 17:16",
+    "podcastName" : "Language Nut - a Multilingual Podcast",
+    "episodeName" : "Interview with Sophia - the struggles of growing up bilingual en français (Part 1)",
+    "msPlayed" : 236740
   }
 ]
